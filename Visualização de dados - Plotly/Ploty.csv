@@ -1,0 +1,1001 @@
+﻿gênero,etnia,escolaridade,tipo_escolaridade,curso_preparatório,linguagens_nota,redação_nota,matemática_nota,humanas_nota,ciências_nota,curso_escolhido,criterio regional,nota_média,nota_média_final
+Feminino,group A,bacharelado,privado,Não,490,510,515,453,460,Computação,Não,485,485
+Feminino,group A,bacharelado,privado,Não,590,645,454,576,495,Computação,Não,552,552
+Feminino,group A,bacharelado,privado,Não,720,705,590,765,590,Medicina,Não,674,674
+Masculino,group A,bacharelado,privado,Não,603,580,640,645,666,Medicina,Não,626,626
+Masculino,group A,bacharelado,privado,Não,644,620,662,587,696,Matematica,Não,641,641
+Masculino,group A,bacharelado,privado,Não,670,685,770,723,671,Matematica,Não,703,703
+Masculino,group A,bacharelado,publico,Não,720,651,622,640,580,Computação,Não,642,642
+Masculino,group A,bacharelado,privado,Não,966,920,916,990,970,Computação,Não,952,952
+Feminino,group B,bacharelado,privado,Não,651,690,523,728,550,Medicina,Não,628,628
+Feminino,group B,bacharelado,privado,Não,728,705,610,760,710,Matematica,Não,702,702
+Feminino,group B,bacharelado,privado,Não,721,747,722,685,786,Medicina,Não,732,732
+Feminino,group B,bacharelado,publico,Não,790,760,780,827,720,Matematica,Não,775,775
+Feminino,group B,bacharelado,privado,Não,840,800,751,774,834,Computação,Não,799,799
+Feminino,group B,bacharelado,publico,Não,850,823,752,797,847,Medicina,Não,813,813
+Feminino,group B,bacharelado,publico,Não,858,875,775,814,770,Medicina,Não,818,818
+Feminino,group B,bacharelado,privado,Não,860,830,670,800,703,Matematica,Não,772,772
+Feminino,group B,bacharelado,privado,Não,973,960,976,927,910,Computação,Não,949,949
+Masculino,group B,bacharelado,publico,Não,510,463,480,440,520,Medicina,Não,482,482
+Masculino,group B,bacharelado,privado,Não,543,510,591,480,600,Matematica,Não,544,544
+Masculino,group B,bacharelado,publico,Não,568,577,730,520,706,Medicina,Não,620,620
+Masculino,group B,bacharelado,publico,Não,590,543,558,528,600,Medicina,Não,563,563
+Masculino,group B,bacharelado,privado,Não,605,572,666,540,678,Matematica,Não,612,612
+Masculino,group B,bacharelado,publico,Não,630,563,620,685,546,Medicina,Não,608,608
+Masculino,group B,bacharelado,privado,Não,717,690,630,656,616,Medicina,Não,661,661
+Masculino,group B,bacharelado,publico,Não,750,761,882,710,870,Matematica,Não,794,794
+Feminino,group C,bacharelado,publico,Não,608,596,500,550,497,Computação,Não,550,550
+Feminino,group C,bacharelado,publico,Não,621,617,433,570,476,Medicina,Sim,543,597
+Feminino,group C,bacharelado,publico,Não,630,626,443,585,483,Medicina,Não,553,553
+Feminino,group C,bacharelado,privado,Não,695,756,670,678,660,Medicina,Não,691,691
+Feminino,group C,bacharelado,privado,Não,720,740,650,687,750,Matematica,Não,709,709
+Feminino,group C,bacharelado,privado,Não,752,810,630,736,677,Matematica,Não,721,721
+Feminino,group C,bacharelado,publico,Não,755,723,670,780,755,Medicina,Não,736,736
+Feminino,group C,bacharelado,publico,Não,780,790,623,740,760,Computação,Não,738,738
+Feminino,group C,bacharelado,privado,Não,790,810,650,855,680,Medicina,Não,757,757
+Feminino,group C,bacharelado,privado,Não,888,872,770,835,870,Matematica,Não,847,847
+Feminino,group C,bacharelado,privado,Não,887,900,810,685,802,Matematica,Não,816,816
+Feminino,group C,bacharelado,privado,Não,920,875,861,940,920,Medicina,Não,903,903
+Feminino,group C,bacharelado,privado,Não,931,957,830,890,946,Medicina,Não,910,910
+Masculino,group C,bacharelado,privado,Não,550,482,585,470,581,Computação,Não,533,533
+Masculino,group C,bacharelado,publico,Não,560,475,370,560,370,Medicina,Sim,467,513
+Masculino,group C,bacharelado,publico,Não,586,555,530,613,590,Matematica,Não,574,574
+Masculino,group C,bacharelado,privado,Não,631,610,694,677,700,Computação,Não,662,662
+Masculino,group C,bacharelado,publico,Não,665,610,616,680,560,Computação,Sim,626,688
+Masculino,group C,bacharelado,privado,Não,788,730,835,710,837,Matematica,Não,780,780
+Masculino,group C,bacharelado,privado,Não,830,860,865,890,814,Computação,Não,851,851
+Feminino,group D,bacharelado,publico,Não,416,474,290,390,332,Computação,Não,380,380
+Feminino,group D,bacharelado,privado,Não,670,627,650,607,587,Matematica,Não,628,628
+Feminino,group D,bacharelado,privado,Não,700,730,590,670,710,Matematica,Não,680,680
+Feminino,group D,bacharelado,publico,Não,725,740,626,784,631,Medicina,Não,701,701
+Feminino,group D,bacharelado,publico,Não,735,780,630,800,761,Medicina,Não,741,741
+Feminino,group D,bacharelado,publico,Não,794,843,730,860,848,Computação,Não,815,815
+Feminino,group D,bacharelado,privado,Não,820,790,780,760,842,Medicina,Não,798,798
+Feminino,group D,bacharelado,privado,Não,890,890,790,842,795,Computação,Não,841,841
+Feminino,group D,bacharelado,publico,Não,900,930,783,960,801,Computação,Não,874,874
+Feminino,group D,bacharelado,privado,Não,1000,1000,898,1000,1000,Medicina,Não,979,979
+Masculino,group D,bacharelado,publico,Não,420,480,501,400,544,Computação,Não,469,469
+Masculino,group D,bacharelado,publico,Não,466,440,552,503,557,Medicina,Não,503,503
+Masculino,group D,bacharelado,privado,Não,490,474,540,536,560,Medicina,Não,520,520
+Masculino,group D,bacharelado,privado,Não,585,570,695,530,681,Computação,Não,612,612
+Masculino,group D,bacharelado,publico,Não,664,674,630,710,706,Computação,Sim,676,743
+Masculino,group D,bacharelado,publico,Não,683,670,688,720,738,Medicina,Não,699,699
+Masculino,group D,bacharelado,privado,Não,730,740,757,690,804,Computação,Não,744,744
+Masculino,group D,bacharelado,privado,Não,737,720,803,688,810,Computação,Não,751,751
+Masculino,group D,bacharelado,privado,Não,780,834,880,760,914,Medicina,Sim,833,916
+Feminino,group E,bacharelado,privado,Não,453,384,371,370,438,Medicina,Não,403,403
+Feminino,group E,bacharelado,publico,Não,581,625,611,657,670,Matematica,Não,628,628
+Feminino,group E,bacharelado,privado,Não,730,706,640,670,720,Medicina,Não,693,693
+Feminino,group E,bacharelado,privado,Não,735,750,652,690,754,Matematica,Não,716,716
+Feminino,group E,bacharelado,privado,Não,830,831,808,784,762,Matematica,Não,803,803
+Feminino,group E,bacharelado,privado,Não,1000,1000,1000,1000,954,Computação,Não,990,990
+Masculino,group E,bacharelado,privado,Não,620,620,822,574,675,Computação,Não,662,662
+Masculino,group E,bacharelado,privado,Não,681,643,683,710,712,Computação,Não,685,685
+Feminino,group A,ensino médio,privado,Não,682,632,618,700,574,Medicina,Não,641,641
+Feminino,group A,ensino médio,privado,Não,734,730,550,683,593,Matematica,Não,658,658
+Masculino,group A,ensino médio,privado,Não,438,470,570,400,570,Medicina,Não,489,489
+Masculino,group A,ensino médio,publico,Não,455,417,484,380,500,Medicina,Não,447,447
+Masculino,group A,ensino médio,publico,Não,475,494,453,430,428,Medicina,Sim,456,501
+Masculino,group A,ensino médio,privado,Não,510,540,577,573,610,Computação,Não,562,562
+Masculino,group A,ensino médio,privado,Não,522,460,590,685,470,Matematica,Não,545,545
+Masculino,group A,ensino médio,publico,Não,586,440,533,561,430,Computação,Não,510,510
+Masculino,group A,ensino médio,privado,Não,630,620,638,677,570,Medicina,Não,627,627
+Masculino,group A,ensino médio,privado,Não,700,662,680,631,624,Matematica,Sim,659,724
+Masculino,group A,ensino médio,privado,Não,748,641,714,740,620,Computação,Não,692,692
+Feminino,group B,ensino médio,publico,Não,247,230,83,190,100,Computação,Não,170,170
+Feminino,group B,ensino médio,privado,Não,520,510,420,560,412,Medicina,Não,484,484
+Feminino,group B,ensino médio,privado,Não,538,554,508,496,478,Medicina,Não,514,514
+Feminino,group B,ensino médio,publico,Não,607,503,388,602,390,Medicina,Não,498,498
+Feminino,group B,ensino médio,privado,Não,622,607,480,560,490,Matematica,Não,551,551
+Feminino,group B,ensino médio,privado,Não,624,595,588,658,530,Matematica,Não,599,599
+Feminino,group B,ensino médio,privado,Não,622,630,627,674,680,Medicina,Não,646,646
+Feminino,group B,ensino médio,privado,Não,645,681,540,717,567,Matematica,Não,630,630
+Feminino,group B,ensino médio,privado,Não,640,620,650,680,693,Matematica,Não,656,656
+Feminino,group B,ensino médio,publico,Não,678,631,500,600,510,Computação,Não,583,583
+Feminino,group B,ensino médio,privado,Não,688,618,580,600,542,Computação,Sim,605,665
+Feminino,group B,ensino médio,publico,Não,726,687,600,750,690,Matematica,Não,690,690
+Feminino,group B,ensino médio,privado,Não,720,700,660,765,630,Matematica,Não,695,695
+Feminino,group B,ensino médio,privado,Não,720,723,745,777,788,Medicina,Não,750,750
+Feminino,group B,ensino médio,publico,Não,730,710,641,673,620,Computação,Não,674,674
+Feminino,group B,ensino médio,privado,Não,814,733,650,726,746,Matematica,Não,733,733
+Feminino,group B,ensino médio,publico,Não,875,820,710,800,820,Computação,Não,805,805
+Feminino,group B,ensino médio,privado,Não,910,890,810,850,905,Computação,Não,873,873
+Feminino,group B,ensino médio,privado,Não,950,860,870,950,925,Medicina,Não,911,911
+Masculino,group B,ensino médio,publico,Não,242,152,300,151,178,Medicina,Não,204,204
+Masculino,group B,ensino médio,publico,Não,290,270,360,230,370,Matematica,Sim,304,334
+Masculino,group B,ensino médio,publico,Não,450,450,490,503,520,Medicina,Não,482,482
+Masculino,group B,ensino médio,privado,Não,461,422,470,393,390,Matematica,Não,427,427
+Masculino,group B,ensino médio,privado,Não,484,492,520,530,453,Matematica,Não,495,495
+Masculino,group B,ensino médio,privado,Não,487,514,577,453,490,Medicina,Não,504,504
+Masculino,group B,ensino médio,publico,Não,487,470,630,430,607,Medicina,Não,524,524
+Masculino,group B,ensino médio,privado,Não,550,541,621,500,636,Matematica,Não,569,569
+Masculino,group B,ensino médio,privado,Não,580,470,590,574,582,Medicina,Não,559,559
+Masculino,group B,ensino médio,privado,Não,605,652,797,670,675,Computação,Não,679,679
+Masculino,group B,ensino médio,privado,Não,654,600,703,672,600,Medicina,Não,645,645
+Masculino,group B,ensino médio,privado,Não,680,600,600,590,550,Matematica,Sim,604,664
+Masculino,group B,ensino médio,publico,Não,770,700,660,693,734,Matematica,Não,711,711
+Masculino,group B,ensino médio,privado,Não,822,800,822,860,768,Medicina,Não,814,814
+Feminino,group C,ensino médio,privado,Não,290,304,294,250,351,Medicina,Não,297,297
+Feminino,group C,ensino médio,publico,Não,416,430,330,377,430,Computação,Não,396,396
+Feminino,group C,ensino médio,publico,Não,427,396,347,458,421,Computação,Não,409,409
+Feminino,group C,ensino médio,publico,Não,467,437,410,494,370,Medicina,Não,435,435
+Feminino,group C,ensino médio,publico,Não,536,460,350,540,467,Matematica,Sim,470,517
+Feminino,group C,ensino médio,publico,Não,537,430,360,530,345,Computação,Não,440,440
+Feminino,group C,ensino médio,privado,Não,590,628,540,564,536,Medicina,Não,571,571
+Feminino,group C,ensino médio,publico,Não,610,545,350,623,500,Medicina,Não,525,525
+Feminino,group C,ensino médio,privado,Não,613,525,447,612,437,Matematica,Não,526,526
+Feminino,group C,ensino médio,publico,Não,625,606,425,560,568,Matematica,Não,556,556
+Feminino,group C,ensino médio,publico,Não,676,640,627,701,680,Computação,Não,664,664
+Feminino,group C,ensino médio,privado,Não,680,724,600,750,710,Matematica,Não,692,692
+Feminino,group C,ensino médio,privado,Não,696,743,635,670,741,Matematica,Não,697,697
+Feminino,group C,ensino médio,privado,Não,694,670,651,630,610,Matematica,Não,651,651
+Feminino,group C,ensino médio,privado,Não,710,761,667,692,760,Computação,Não,718,718
+Feminino,group C,ensino médio,publico,Não,720,645,531,731,640,Matematica,Não,653,653
+Feminino,group C,ensino médio,privado,Não,720,680,590,750,692,Matematica,Não,686,686
+Feminino,group C,ensino médio,privado,Não,720,708,613,765,711,Matematica,Não,703,703
+Feminino,group C,ensino médio,privado,Não,730,630,618,730,675,Computação,Não,676,676
+Feminino,group C,ensino médio,publico,Não,760,683,660,775,620,Matematica,Não,699,699
+Feminino,group C,ensino médio,privado,Não,763,740,760,802,705,Computação,Sim,754,829
+Feminino,group C,ensino médio,privado,Não,800,753,726,825,793,Matematica,Não,779,779
+Feminino,group C,ensino médio,privado,Não,802,836,720,685,728,Matematica,Não,754,754
+Feminino,group C,ensino médio,privado,Não,840,820,818,880,760,Matematica,Não,823,823
+Feminino,group C,ensino médio,privado,Não,880,850,752,915,855,Computação,Não,850,850
+Masculino,group C,ensino médio,publico,Não,343,360,277,303,260,Medicina,Não,308,308
+Masculino,group C,ensino médio,privado,Não,481,427,500,500,516,Medicina,Não,484,484
+Masculino,group C,ensino médio,privado,Não,530,498,520,460,565,Medicina,Não,514,514
+Masculino,group C,ensino médio,publico,Não,530,520,590,487,618,Matematica,Sim,549,603
+Masculino,group C,ensino médio,privado,Não,551,490,622,685,505,Medicina,Não,570,570
+Masculino,group C,ensino médio,publico,Não,551,553,622,602,535,Medicina,Não,572,572
+Masculino,group C,ensino médio,privado,Não,567,553,617,518,631,Medicina,Não,577,577
+Masculino,group C,ensino médio,privado,Não,560,517,700,490,668,Medicina,Não,587,587
+Masculino,group C,ensino médio,publico,Não,602,550,610,620,633,Computação,Não,603,603
+Masculino,group C,ensino médio,privado,Não,600,530,682,527,660,Matematica,Não,599,599
+Masculino,group C,ensino médio,privado,Não,605,610,710,560,710,Computação,Não,639,639
+Masculino,group C,ensino médio,publico,Não,616,520,587,617,508,Matematica,Não,569,569
+Masculino,group C,ensino médio,publico,Não,668,597,665,586,573,Medicina,Não,617,617
+Masculino,group C,ensino médio,privado,Não,667,652,714,704,730,Matematica,Não,693,693
+Masculino,group C,ensino médio,privado,Não,660,645,815,700,788,Medicina,Não,721,721
+Masculino,group C,ensino médio,privado,Não,670,583,620,580,650,Medicina,Não,620,620
+Masculino,group C,ensino médio,privado,Não,705,655,703,630,627,Computação,Não,664,664
+Masculino,group C,ensino médio,publico,Não,722,590,542,706,510,Matematica,Não,614,614
+Masculino,group C,ensino médio,privado,Não,748,710,705,682,760,Computação,Não,721,721
+Masculino,group C,ensino médio,privado,Não,750,690,900,772,743,Matematica,Não,771,771
+Masculino,group C,ensino médio,privado,Não,771,744,840,803,845,Matematica,Não,800,800
+Masculino,group C,ensino médio,privado,Não,790,710,710,700,760,Medicina,Não,734,734
+Masculino,group C,ensino médio,privado,Não,810,710,755,685,780,Matematica,Não,748,748
+Masculino,group C,ensino médio,privado,Não,890,865,882,924,826,Computação,Não,877,877
+Feminino,group D,ensino médio,publico,Não,525,460,390,541,372,Matematica,Sim,457,502
+Feminino,group D,ensino médio,privado,Não,524,556,560,580,610,Medicina,Não,566,566
+Feminino,group D,ensino médio,publico,Não,572,520,493,503,450,Matematica,Sim,507,557
+Feminino,group D,ensino médio,privado,Não,630,591,450,561,478,Computação,Não,542,542
+Feminino,group D,ensino médio,privado,Não,641,647,625,694,580,Medicina,Não,637,637
+Feminino,group D,ensino médio,privado,Não,665,621,510,594,511,Computação,Não,580,580
+Feminino,group D,ensino médio,privado,Não,725,740,670,681,658,Computação,Sim,694,763
+Feminino,group D,ensino médio,privado,Não,724,777,690,791,686,Matematica,Não,733,733
+Feminino,group D,ensino médio,privado,Não,771,730,691,700,666,Computação,Não,711,711
+Feminino,group D,ensino médio,privado,Não,810,807,787,852,847,Computação,Não,820,820
+Feminino,group D,ensino médio,publico,Não,920,843,730,830,730,Medicina,Não,810,810
+Masculino,group D,ensino médio,privado,Não,340,365,466,300,360,Computação,Não,366,366
+Masculino,group D,ensino médio,publico,Não,390,342,424,416,430,Medicina,Sim,400,440
+Masculino,group D,ensino médio,privado,Não,480,467,450,425,403,Medicina,Não,445,445
+Masculino,group D,ensino médio,privado,Não,502,541,576,477,611,Matematica,Não,541,541
+Masculino,group D,ensino médio,publico,Não,518,482,448,540,510,Matematica,Não,499,499
+Masculino,group D,ensino médio,privado,Não,524,517,410,563,412,Medicina,Não,485,485
+Masculino,group D,ensino médio,privado,Não,527,426,530,424,530,Matematica,Não,487,487
+Masculino,group D,ensino médio,privado,Não,522,526,546,470,480,Medicina,Não,508,508
+Masculino,group D,ensino médio,privado,Não,540,508,645,570,523,Medicina,Não,557,557
+Masculino,group D,ensino médio,publico,Não,574,516,600,490,505,Computação,Não,537,537
+Masculino,group D,ensino médio,publico,Não,570,560,630,616,540,Medicina,Não,583,583
+Masculino,group D,ensino médio,privado,Não,668,661,721,713,644,Medicina,Não,681,681
+Masculino,group D,ensino médio,privado,Não,690,634,666,610,700,Matematica,Não,660,660
+Masculino,group D,ensino médio,publico,Não,706,671,691,643,732,Matematica,Não,688,688
+Masculino,group D,ensino médio,privado,Não,700,700,704,650,655,Computação,Não,681,681
+Masculino,group D,ensino médio,publico,Não,703,698,740,740,776,Matematica,Não,731,731
+Masculino,group D,ensino médio,privado,Não,738,683,760,754,771,Matematica,Não,741,741
+Masculino,group D,ensino médio,publico,Não,740,698,660,671,730,Matematica,Não,699,699
+Masculino,group D,ensino médio,publico,Não,748,660,750,750,762,Medicina,Não,734,734
+Masculino,group D,ensino médio,privado,Não,750,713,697,680,751,Computação,Não,718,718
+Masculino,group D,ensino médio,privado,Não,780,750,880,720,760,Medicina,Não,778,778
+Masculino,group D,ensino médio,privado,Não,876,790,890,880,890,Medicina,Não,865,865
+Feminino,group E,ensino médio,publico,Não,450,404,417,385,460,Matematica,Não,423,423
+Feminino,group E,ensino médio,privado,Não,500,478,507,441,540,Matematica,Não,493,493
+Feminino,group E,ensino médio,publico,Não,580,577,576,620,520,Medicina,Não,574,574
+Feminino,group E,ensino médio,publico,Não,621,687,640,700,712,Medicina,Não,672,672
+Feminino,group E,ensino médio,privado,Não,765,730,740,702,794,Matematica,Não,746,746
+Feminino,group E,ensino médio,privado,Não,810,715,740,712,786,Matematica,Não,752,752
+Feminino,group E,ensino médio,privado,Não,862,795,757,876,728,Medicina,Não,803,803
+Feminino,group E,ensino médio,privado,Não,935,902,990,870,890,Matematica,Não,917,917
+Masculino,group E,ensino médio,privado,Não,558,568,704,600,680,Computação,Não,622,622
+Masculino,group E,ensino médio,publico,Não,563,515,553,586,580,Matematica,Não,559,559
+Masculino,group E,ensino médio,privado,Não,641,575,730,560,706,Matematica,Não,642,642
+Masculino,group E,ensino médio,privado,Não,730,692,840,665,823,Matematica,Não,750,750
+Masculino,group E,ensino médio,privado,Não,730,710,941,670,772,Computação,Não,764,764
+Masculino,group E,ensino médio,privado,Não,760,650,800,660,672,Medicina,Não,708,708
+Feminino,group A,mestrado,privado,Não,535,583,504,510,490,Medicina,Não,524,524
+Feminino,group A,mestrado,publico,Não,672,730,501,655,560,Medicina,Não,623,623
+Masculino,group A,mestrado,publico,Não,740,720,730,780,670,Computação,Não,728,728
+Feminino,group B,mestrado,privado,Não,900,840,770,920,755,Medicina,Não,837,837
+Feminino,group B,mestrado,privado,Não,957,932,900,685,970,Computação,Não,888,888
+Masculino,group B,mestrado,publico,Não,533,520,494,685,458,Matematica,Não,538,538
+Feminino,group C,mestrado,publico,Não,586,540,400,510,520,Matematica,Não,511,511
+Feminino,group C,mestrado,publico,Não,655,610,527,583,511,Computação,Não,577,577
+Feminino,group C,mestrado,privado,Não,787,740,730,810,790,Computação,Não,771,771
+Masculino,group C,mestrado,privado,Não,570,590,670,685,682,Matematica,Não,639,639
+Masculino,group C,mestrado,publico,Não,590,500,542,593,470,Medicina,Não,539,539
+Masculino,group C,mestrado,publico,Não,672,660,610,624,690,Computação,Não,651,651
+Masculino,group C,mestrado,privado,Não,670,678,710,624,645,Computação,Não,665,665
+Masculino,group C,mestrado,privado,Não,720,692,790,750,690,Medicina,Sim,728,800
+Masculino,group C,mestrado,privado,Não,785,770,798,735,836,Matematica,Não,784,784
+Masculino,group C,mestrado,publico,Não,810,714,793,710,804,Medicina,Não,766,766
+Feminino,group D,mestrado,publico,Não,593,540,401,520,422,Medicina,Não,495,495
+Feminino,group D,mestrado,privado,Não,600,631,540,667,646,Computação,Não,616,616
+Feminino,group D,mestrado,privado,Não,617,680,530,695,661,Matematica,Não,636,636
+Feminino,group D,mestrado,privado,Não,630,667,648,600,706,Medicina,Não,650,650
+Feminino,group D,mestrado,privado,Não,646,708,558,626,680,Computação,Não,643,643
+Feminino,group D,mestrado,privado,Não,703,750,620,685,637,Medicina,Não,679,679
+Feminino,group D,mestrado,privado,Não,796,826,740,850,730,Medicina,Não,788,788
+Feminino,group D,mestrado,privado,Não,913,960,782,985,825,Computação,Não,893,893
+Feminino,group D,mestrado,privado,Não,1000,1000,870,1000,880,Medicina,Não,950,950
+Feminino,group D,mestrado,privado,Não,1000,1000,920,954,910,Matematica,Não,956,956
+Masculino,group D,mestrado,privado,Não,706,753,730,680,690,Computação,Não,711,711
+Masculino,group D,mestrado,privado,Não,800,720,802,713,711,Computação,Não,749,749
+Masculino,group D,mestrado,privado,Não,815,840,810,870,887,Medicina,Sim,844,928
+Masculino,group D,mestrado,privado,Não,810,847,954,685,958,Computação,Não,850,850
+Masculino,group D,mestrado,privado,Não,820,747,822,838,730,Computação,Sim,791,870
+Masculino,group D,mestrado,privado,Não,840,894,850,910,820,Matematica,Não,862,862
+Masculino,group D,mestrado,privado,Não,840,824,890,880,912,Matematica,Não,869,869
+Feminino,group E,mestrado,publico,Não,566,540,450,502,441,Matematica,Não,499,499
+Feminino,group E,mestrado,privado,Não,680,681,624,636,606,Medicina,Não,645,645
+Feminino,group E,mestrado,publico,Não,720,650,560,730,665,Medicina,Não,665,665
+Feminino,group E,mestrado,publico,Não,864,872,813,820,893,Computação,Não,852,852
+Feminino,group E,mestrado,privado,Não,921,912,816,960,811,Computação,Sim,884,972
+Masculino,group E,mestrado,privado,Não,850,840,900,890,822,Computação,Não,860,860
+Feminino,group A,outros ensino médio,publico,Não,430,430,384,488,464,Matematica,Não,439,439
+Feminino,group A,outros ensino médio,publico,Não,450,454,440,400,503,Medicina,Não,449,449
+Feminino,group A,outros ensino médio,publico,Não,590,500,476,590,430,Medicina,Não,517,517
+Feminino,group A,outros ensino médio,publico,Não,640,588,440,660,563,Matematica,Não,578,578
+Feminino,group A,outros ensino médio,privado,Não,660,650,480,708,620,Computação,Não,623,623
+Feminino,group A,outros ensino médio,publico,Não,736,690,590,765,594,Matematica,Não,675,675
+Feminino,group A,outros ensino médio,privado,Não,834,770,710,850,794,Medicina,Não,791,791
+Masculino,group A,outros ensino médio,privado,Não,310,364,515,380,380,Medicina,Não,389,389
+Masculino,group A,outros ensino médio,publico,Não,390,347,394,326,310,Matematica,Não,353,353
+Masculino,group A,outros ensino médio,publico,Não,464,437,550,490,448,Matematica,Sim,477,524
+Masculino,group A,outros ensino médio,privado,Não,505,434,647,420,590,Computação,Não,519,519
+Masculino,group A,outros ensino médio,privado,Não,548,483,530,562,562,Medicina,Não,537,537
+Masculino,group A,outros ensino médio,publico,Não,590,538,650,616,640,Matematica,Não,606,606
+Masculino,group A,outros ensino médio,privado,Não,622,501,710,610,660,Medicina,Não,620,620
+Masculino,group A,outros ensino médio,publico,Não,727,640,680,734,611,Medicina,Não,678,678
+Masculino,group A,outros ensino médio,publico,Não,823,730,790,730,714,Computação,Não,757,757
+Feminino,group B,outros ensino médio,publico,Não,321,280,188,685,280,Computação,Sim,350,385
+Feminino,group B,outros ensino médio,publico,Não,384,270,245,370,314,Matematica,Não,316,316
+Feminino,group B,outros ensino médio,privado,Não,460,460,378,685,360,Matematica,Não,468,468
+Feminino,group B,outros ensino médio,privado,Não,550,513,410,483,510,Computação,Não,493,493
+Feminino,group B,outros ensino médio,publico,Não,580,550,491,527,470,Computação,Não,523,523
+Feminino,group B,outros ensino médio,privado,Não,640,660,620,600,692,Computação,Não,642,642
+Feminino,group B,outros ensino médio,privado,Não,640,724,704,630,762,Computação,Não,692,692
+Feminino,group B,outros ensino médio,privado,Não,677,720,570,743,597,Matematica,Não,661,661
+Feminino,group B,outros ensino médio,privado,Não,696,680,661,640,627,Medicina,Não,660,660
+Feminino,group B,outros ensino médio,privado,Não,790,790,730,746,818,Medicina,Não,774,774
+Feminino,group B,outros ensino médio,publico,Não,816,797,728,857,815,Matematica,Não,802,802
+Feminino,group B,outros ensino médio,privado,Não,820,804,828,860,760,Medicina,Não,814,814
+Feminino,group B,outros ensino médio,privado,Não,890,820,670,908,690,Computação,Não,795,795
+Masculino,group B,outros ensino médio,publico,Não,525,450,480,535,412,Computação,Não,480,480
+Masculino,group B,outros ensino médio,privado,Não,546,532,685,580,663,Computação,Não,601,601
+Masculino,group B,outros ensino médio,privado,Não,631,573,745,556,607,Computação,Não,622,622
+Masculino,group B,outros ensino médio,privado,Não,648,610,671,685,593,Computação,Não,641,641
+Masculino,group B,outros ensino médio,privado,Não,680,671,724,728,755,Medicina,Não,711,711
+Masculino,group B,outros ensino médio,privado,Não,848,750,883,841,765,Medicina,Não,817,817
+Feminino,group C,outros ensino médio,publico,Não,178,107,0,90,0,Computação,Não,75,75
+Feminino,group C,outros ensino médio,publico,Não,502,517,445,461,420,Computação,Não,469,469
+Feminino,group C,outros ensino médio,publico,Não,530,530,430,580,435,Computação,Não,501,501
+Feminino,group C,outros ensino médio,privado,Não,546,534,470,490,450,Computação,Não,498,498
+Feminino,group C,outros ensino médio,publico,Não,560,513,480,582,440,Medicina,Não,515,515
+Feminino,group C,outros ensino médio,publico,Não,585,520,480,503,450,Medicina,Não,507,507
+Feminino,group C,outros ensino médio,privado,Não,637,560,490,645,580,Computação,Não,582,582
+Feminino,group C,outros ensino médio,publico,Não,650,625,550,682,640,Matematica,Não,629,629
+Feminino,group C,outros ensino médio,privado,Não,692,762,650,770,650,Medicina,Não,704,704
+Feminino,group C,outros ensino médio,privado,Não,736,688,630,660,600,Matematica,Não,662,662
+Feminino,group C,outros ensino médio,privado,Não,730,733,695,680,660,Medicina,Não,699,699
+Feminino,group C,outros ensino médio,privado,Não,756,783,690,728,683,Matematica,Não,728,728
+Feminino,group C,outros ensino médio,privado,Não,750,826,743,740,737,Computação,Não,759,759
+Feminino,group C,outros ensino médio,publico,Não,860,808,657,780,673,Medicina,Não,755,755
+Feminino,group C,outros ensino médio,privado,Não,912,880,770,857,776,Matematica,Não,839,839
+Masculino,group C,outros ensino médio,privado,Não,490,412,490,500,505,Medicina,Sim,479,526
+Masculino,group C,outros ensino médio,privado,Não,528,444,513,538,530,Matematica,Não,510,510
+Masculino,group C,outros ensino médio,publico,Não,570,565,610,610,644,Matematica,Não,599,599
+Masculino,group C,outros ensino médio,privado,Não,582,510,646,590,635,Medicina,Não,592,592
+Masculino,group C,outros ensino médio,privado,Não,610,540,570,620,500,Medicina,Não,568,568
+Masculino,group C,outros ensino médio,publico,Não,632,543,687,547,560,Medicina,Não,593,593
+Masculino,group C,outros ensino médio,privado,Não,648,550,620,550,531,Matematica,Não,579,579
+Masculino,group C,outros ensino médio,privado,Não,663,636,730,691,730,Matematica,Não,690,690
+Masculino,group C,outros ensino médio,privado,Não,660,660,730,610,640,Medicina,Não,660,660
+Masculino,group C,outros ensino médio,publico,Não,710,650,690,733,626,Matematica,Não,681,681
+Masculino,group C,outros ensino médio,privado,Não,725,620,754,720,740,Computação,Sim,711,782
+Masculino,group C,outros ensino médio,publico,Não,767,656,790,756,670,Medicina,Não,727,727
+Feminino,group D,outros ensino médio,publico,Não,340,325,270,286,240,Matematica,Não,292,292
+Feminino,group D,outros ensino médio,publico,Não,546,537,486,490,450,Medicina,Não,501,501
+Feminino,group D,outros ensino médio,privado,Não,580,540,480,685,560,Medicina,Não,569,569
+Feminino,group D,outros ensino médio,privado,Não,587,597,591,630,540,Computação,Não,589,589
+Feminino,group D,outros ensino médio,privado,Não,632,616,513,676,513,Computação,Não,590,590
+Feminino,group D,outros ensino médio,publico,Não,645,593,500,665,602,Matematica,Sim,601,661
+Feminino,group D,outros ensino médio,privado,Não,670,610,590,591,650,Computação,Sim,622,684
+Feminino,group D,outros ensino médio,privado,Não,713,750,680,686,660,Matematica,Não,697,697
+Feminino,group D,outros ensino médio,privado,Não,725,806,590,710,640,Matematica,Não,694,694
+Feminino,group D,outros ensino médio,privado,Não,726,717,762,676,680,Medicina,Não,712,712
+Feminino,group D,outros ensino médio,privado,Não,821,815,650,775,682,Medicina,Sim,748,822
+Feminino,group D,outros ensino médio,publico,Não,844,842,673,790,700,Medicina,Não,769,769
+Feminino,group D,outros ensino médio,privado,Não,840,851,737,801,748,Matematica,Não,795,795
+Feminino,group D,outros ensino médio,privado,Não,860,825,732,890,723,Computação,Não,806,806
+Feminino,group D,outros ensino médio,privado,Não,900,822,800,817,760,Computação,Não,819,819
+Feminino,group D,outros ensino médio,privado,Não,974,960,816,1000,940,Computação,Não,938,938
+Masculino,group D,outros ensino médio,publico,Não,377,374,450,321,464,Matematica,Não,397,397
+Masculino,group D,outros ensino médio,publico,Não,426,411,594,370,550,Medicina,Não,470,470
+Masculino,group D,outros ensino médio,privado,Não,470,440,550,685,551,Medicina,Não,539,539
+Masculino,group D,outros ensino médio,publico,Não,493,528,627,554,527,Medicina,Não,545,545
+Masculino,group D,outros ensino médio,publico,Não,546,527,562,480,595,Computação,Não,542,542
+Masculino,group D,outros ensino médio,privado,Não,596,540,601,520,625,Matematica,Não,576,576
+Masculino,group D,outros ensino médio,privado,Não,662,610,694,685,600,Computação,Não,650,650
+Masculino,group D,outros ensino médio,privado,Não,663,623,730,692,624,Computação,Não,666,666
+Masculino,group D,outros ensino médio,privado,Não,670,610,625,590,560,Computação,Não,611,611
+Masculino,group D,outros ensino médio,privado,Não,730,700,868,761,735,Computação,Sim,758,833
+Masculino,group D,outros ensino médio,privado,Não,742,720,748,682,780,Medicina,Não,734,734
+Masculino,group D,outros ensino médio,privado,Não,744,690,750,675,775,Computação,Não,726,726
+Masculino,group D,outros ensino médio,privado,Não,780,780,810,730,740,Computação,Sim,768,844
+Masculino,group D,outros ensino médio,privado,Não,805,750,860,730,864,Computação,Não,801,801
+Masculino,group D,outros ensino médio,privado,Não,840,808,840,870,777,Matematica,Não,827,827
+Feminino,group E,outros ensino médio,publico,Não,346,388,320,310,308,Medicina,Não,334,334
+Feminino,group E,outros ensino médio,publico,Não,493,452,380,527,470,Matematica,Não,464,464
+Feminino,group E,outros ensino médio,publico,Não,740,721,746,780,680,Medicina,Não,733,733
+Feminino,group E,outros ensino médio,publico,Não,794,777,727,734,800,Computação,Não,766,766
+Feminino,group E,outros ensino médio,privado,Não,795,800,770,846,731,Medicina,Não,788,788
+Masculino,group E,outros ensino médio,privado,Não,267,228,302,196,315,Medicina,Não,261,261
+Masculino,group E,outros ensino médio,privado,Não,678,617,820,690,777,Computação,Não,716,716
+Masculino,group E,outros ensino médio,privado,Não,870,787,920,873,800,Computação,Não,850,850
+Masculino,group E,outros ensino médio,privado,Não,882,782,943,788,910,Medicina,Não,861,861
+Feminino,group A,superior,privado,Não,580,640,560,563,650,Matematica,Não,598,598
+Feminino,group A,superior,publico,Não,600,575,612,630,540,Matematica,Não,591,591
+Feminino,group A,superior,privado,Não,630,677,547,600,660,Medicina,Não,622,622
+Feminino,group A,superior,publico,Não,650,550,490,655,571,Matematica,Sim,583,641
+Feminino,group A,superior,privado,Não,705,670,588,730,680,Medicina,Não,674,674
+Feminino,group A,superior,privado,Não,840,820,690,883,810,Medicina,Não,808,808
+Masculino,group A,superior,publico,Não,230,197,280,260,290,Computação,Não,251,251
+Masculino,group A,superior,privado,Não,432,430,535,384,532,Medicina,Não,462,462
+Masculino,group A,superior,publico,Não,606,577,580,635,635,Matematica,Não,606,606
+Masculino,group A,superior,privado,Não,676,690,690,734,743,Computação,Não,706,706
+Masculino,group A,superior,publico,Não,810,740,750,821,800,Medicina,Não,784,784
+Feminino,group B,superior,privado,Não,380,322,196,302,310,Medicina,Não,302,302
+Feminino,group B,superior,publico,Não,530,557,454,591,450,Medicina,Não,516,516
+Feminino,group B,superior,publico,Não,613,661,580,596,574,Computação,Não,604,604
+Feminino,group B,superior,privado,Não,653,612,637,680,677,Computação,Sim,651,716
+Feminino,group B,superior,privado,Não,670,670,621,724,595,Medicina,Não,656,656
+Feminino,group B,superior,publico,Não,682,660,610,627,581,Matematica,Não,632,632
+Feminino,group B,superior,privado,Não,750,783,700,725,790,Matematica,Não,749,749
+Feminino,group B,superior,publico,Não,812,760,740,830,808,Medicina,Não,790,790
+Feminino,group B,superior,privado,Não,850,877,820,910,900,Medicina,Não,871,871
+Feminino,group B,superior,privado,Não,864,920,790,941,914,Matematica,Não,885,885
+Masculino,group B,superior,publico,Não,390,348,410,320,327,Matematica,Não,359,359
+Masculino,group B,superior,publico,Não,435,393,400,360,458,Medicina,Não,409,409
+Masculino,group B,superior,privado,Não,430,410,470,370,496,Computação,Não,435,435
+Masculino,group B,superior,privado,Não,500,450,588,430,461,Medicina,Sim,485,533
+Masculino,group B,superior,privado,Não,523,511,541,560,471,Matematica,Sim,521,573
+Masculino,group B,superior,publico,Não,540,450,544,543,440,Matematica,Não,503,503
+Masculino,group B,superior,privado,Não,548,550,697,590,671,Medicina,Sim,611,672
+Masculino,group B,superior,publico,Não,550,472,551,460,561,Medicina,Não,518,518
+Masculino,group B,superior,publico,Não,600,601,601,555,655,Computação,Não,602,602
+Masculino,group B,superior,privado,Não,614,570,623,544,546,Matematica,Não,579,579
+Masculino,group B,superior,privado,Não,650,603,660,580,581,Medicina,Não,614,614
+Masculino,group B,superior,privado,Não,678,670,793,620,780,Computação,Não,708,708
+Masculino,group B,superior,publico,Não,684,650,752,627,750,Medicina,Não,692,692
+Feminino,group C,superior,publico,Não,395,330,225,410,338,Medicina,Não,339,339
+Feminino,group C,superior,publico,Não,394,338,321,310,270,Matematica,Não,326,326
+Feminino,group C,superior,publico,Não,440,430,352,480,340,Matematica,Não,408,408
+Feminino,group C,superior,privado,Não,480,520,540,550,580,Matematica,Sim,534,587
+Feminino,group C,superior,privado,Não,580,587,521,638,500,Computação,Não,565,565
+Feminino,group C,superior,privado,Não,592,660,583,586,575,Matematica,Sim,599,658
+Feminino,group C,superior,privado,Não,620,560,538,540,608,Computação,Não,573,573
+Feminino,group C,superior,publico,Não,625,640,597,684,670,Computação,Não,643,643
+Feminino,group C,superior,publico,Não,641,661,460,700,514,Computação,Não,595,595
+Feminino,group C,superior,privado,Não,640,650,540,691,653,Medicina,Não,634,634
+Feminino,group C,superior,privado,Não,674,728,580,741,603,Medicina,Não,665,665
+Feminino,group C,superior,publico,Não,677,620,620,692,670,Matematica,Não,655,655
+Feminino,group C,superior,privado,Não,691,650,555,620,650,Computação,Não,633,633
+Feminino,group C,superior,privado,Não,698,696,624,640,713,Matematica,Não,674,674
+Feminino,group C,superior,privado,Não,710,700,595,660,702,Matematica,Não,673,673
+Feminino,group C,superior,privado,Não,720,740,607,786,625,Matematica,Não,695,695
+Feminino,group C,superior,publico,Não,720,700,620,660,611,Medicina,Não,662,662
+Feminino,group C,superior,privado,Não,728,712,720,764,660,Matematica,Sim,716,787
+Feminino,group C,superior,privado,Não,744,743,630,790,743,Matematica,Não,730,730
+Feminino,group C,superior,privado,Não,760,780,730,726,701,Medicina,Não,739,739
+Feminino,group C,superior,privado,Não,780,762,695,820,674,Medicina,Sim,746,820
+Feminino,group C,superior,privado,Não,800,827,734,767,838,Computação,Não,793,793
+Feminino,group C,superior,privado,Não,812,800,716,760,810,Matematica,Não,779,779
+Feminino,group C,superior,publico,Não,830,880,764,907,770,Computação,Não,830,830
+Feminino,group C,superior,privado,Não,833,900,830,824,811,Computação,Não,839,839
+Feminino,group C,superior,privado,Não,877,910,846,840,820,Computação,Não,858,858
+Feminino,group C,superior,publico,Não,907,912,775,950,797,Matematica,Não,868,868
+Feminino,group C,superior,privado,Não,906,940,820,878,934,Medicina,Não,895,895
+Masculino,group C,superior,publico,Não,280,270,355,232,363,Medicina,Não,300,300
+Masculino,group C,superior,privado,Não,397,370,533,330,400,Matematica,Não,406,406
+Masculino,group C,superior,privado,Não,416,420,596,370,560,Medicina,Não,472,472
+Masculino,group C,superior,privado,Não,442,422,533,380,530,Medicina,Não,461,461
+Masculino,group C,superior,privado,Não,490,420,582,410,456,Matematica,Não,471,471
+Masculino,group C,superior,publico,Não,573,540,581,605,610,Medicina,Não,581,581
+Masculino,group C,superior,publico,Não,586,490,651,496,520,Computação,Não,548,548
+Masculino,group C,superior,privado,Não,590,527,664,685,548,Matematica,Não,602,602
+Masculino,group C,superior,privado,Não,608,584,593,647,530,Matematica,Não,592,592
+Masculino,group C,superior,privado,Não,610,622,617,570,560,Matematica,Não,595,595
+Masculino,group C,superior,publico,Não,610,544,634,530,537,Matematica,Não,571,571
+Masculino,group C,superior,privado,Não,630,600,633,660,560,Medicina,Não,616,616
+Masculino,group C,superior,privado,Não,641,680,692,610,636,Matematica,Não,651,651
+Masculino,group C,superior,publico,Não,647,663,800,600,683,Medicina,Sim,678,745
+Masculino,group C,superior,publico,Não,680,610,682,690,700,Matematica,Não,672,672
+Masculino,group C,superior,privado,Não,744,610,730,725,721,Medicina,Não,706,706
+Masculino,group C,superior,privado,Não,742,766,916,700,892,Medicina,Não,803,803
+Masculino,group C,superior,publico,Não,770,730,745,700,790,Medicina,Não,747,747
+Masculino,group C,superior,privado,Não,783,750,760,818,700,Computação,Não,762,762
+Masculino,group C,superior,privado,Não,870,818,840,790,775,Matematica,Não,818,818
+Feminino,group D,superior,publico,Não,587,600,495,546,607,Matematica,Não,567,567
+Feminino,group D,superior,privado,Não,582,540,512,685,472,Medicina,Não,558,558
+Feminino,group D,superior,privado,Não,640,670,636,685,606,Medicina,Não,647,647
+Feminino,group D,superior,publico,Não,650,612,491,680,500,Matematica,Não,586,586
+Feminino,group D,superior,publico,Não,650,740,690,650,770,Medicina,Não,700,700
+Feminino,group D,superior,publico,Não,662,700,603,630,603,Computação,Não,639,639
+Feminino,group D,superior,publico,Não,672,622,580,693,650,Medicina,Não,643,643
+Feminino,group D,superior,privado,Não,686,774,774,680,721,Matematica,Não,727,727
+Feminino,group D,superior,privado,Não,705,723,620,766,628,Computação,Não,688,688
+Feminino,group D,superior,privado,Não,701,717,650,660,733,Medicina,Não,692,692
+Feminino,group D,superior,publico,Não,711,696,555,750,670,Computação,Não,676,676
+Feminino,group D,superior,publico,Não,740,757,640,704,750,Computação,Não,718,718
+Feminino,group D,superior,privado,Não,747,747,690,790,662,Computação,Não,727,727
+Feminino,group D,superior,privado,Não,778,770,690,726,680,Computação,Não,728,728
+Feminino,group D,superior,publico,Não,810,776,650,842,760,Matematica,Não,767,767
+Feminino,group D,superior,publico,Não,833,831,712,786,828,Medicina,Não,798,798
+Feminino,group D,superior,publico,Não,860,863,775,910,764,Medicina,Não,834,834
+Feminino,group D,superior,privado,Não,860,815,798,887,850,Computação,Não,842,842
+Feminino,group D,superior,privado,Não,896,844,740,823,743,Medicina,Não,809,809
+Feminino,group D,superior,publico,Não,890,860,790,834,777,Matematica,Não,830,830
+Feminino,group D,superior,privado,Não,902,895,800,850,790,Medicina,Não,847,847
+Feminino,group D,superior,privado,Não,1000,995,985,1000,1000,Computação,Não,996,996
+Masculino,group D,superior,privado,Não,425,382,400,685,440,Medicina,Não,466,466
+Masculino,group D,superior,publico,Não,470,560,614,562,640,Medicina,Não,569,569
+Masculino,group D,superior,privado,Não,490,524,716,467,677,Medicina,Não,574,574
+Masculino,group D,superior,privado,Não,541,533,443,580,430,Computação,Não,505,505
+Masculino,group D,superior,publico,Não,575,462,490,560,531,Computação,Não,523,523
+Masculino,group D,superior,publico,Não,570,628,620,550,676,Matematica,Sim,608,668
+Masculino,group D,superior,privado,Não,570,586,720,530,601,Medicina,Sim,601,661
+Masculino,group D,superior,privado,Não,585,520,550,605,487,Medicina,Não,549,549
+Masculino,group D,superior,privado,Não,597,625,680,655,602,Medicina,Não,631,631
+Masculino,group D,superior,publico,Não,610,600,637,650,670,Matematica,Não,633,633
+Masculino,group D,superior,publico,Não,624,610,592,668,550,Computação,Não,608,608
+Masculino,group D,superior,publico,Não,627,643,770,680,760,Matematica,Não,696,696
+Masculino,group D,superior,privado,Não,633,590,600,660,654,Matematica,Não,627,627
+Masculino,group D,superior,publico,Não,631,580,700,653,596,Matematica,Não,632,632
+Masculino,group D,superior,privado,Não,640,700,670,624,740,Medicina,Não,674,674
+Masculino,group D,superior,privado,Não,640,668,765,600,761,Computação,Não,686,686
+Masculino,group D,superior,publico,Não,663,600,698,681,591,Matematica,Não,646,646
+Masculino,group D,superior,privado,Não,716,730,760,678,690,Medicina,Não,714,714
+Masculino,group D,superior,privado,Não,736,677,790,756,782,Matematica,Não,748,748
+Masculino,group D,superior,privado,Não,736,786,886,804,783,Medicina,Não,799,799
+Masculino,group D,superior,privado,Não,778,770,880,823,770,Medicina,Não,804,804
+Masculino,group D,superior,privado,Não,820,840,810,788,770,Medicina,Não,805,805
+Feminino,group E,superior,publico,Não,587,570,530,621,502,Matematica,Não,562,562
+Feminino,group E,superior,privado,Não,640,620,610,685,671,Matematica,Não,645,645
+Feminino,group E,superior,privado,Não,702,660,683,630,720,Medicina,Não,679,679
+Feminino,group E,superior,privado,Não,703,760,714,680,682,Medicina,Não,707,707
+Feminino,group E,superior,privado,Não,730,701,624,670,710,Computação,Não,687,687
+Feminino,group E,superior,privado,Não,762,750,670,803,662,Matematica,Não,729,729
+Feminino,group E,superior,publico,Não,762,704,716,781,650,Matematica,Não,722,722
+Feminino,group E,superior,privado,Não,782,800,760,685,831,Computação,Não,771,771
+Feminino,group E,superior,privado,Não,857,930,873,941,950,Matematica,Não,910,910
+Feminino,group E,superior,privado,Não,923,970,1000,990,1000,Matematica,Não,976,976
+Masculino,group E,superior,privado,Não,515,430,590,422,462,Computação,Não,483,483
+Masculino,group E,superior,privado,Não,550,480,530,563,560,Computação,Não,536,536
+Masculino,group E,superior,privado,Não,574,520,660,500,640,Matematica,Sim,578,635
+Masculino,group E,superior,privado,Não,600,590,681,552,585,Medicina,Sim,601,661
+Masculino,group E,superior,privado,Não,602,540,690,620,568,Medicina,Não,604,604
+Masculino,group E,superior,privado,Não,676,670,768,726,660,Computação,Não,700,700
+Masculino,group E,superior,privado,Não,714,720,764,678,690,Medicina,Não,713,713
+Masculino,group E,superior,privado,Não,720,657,680,642,613,Computação,Não,662,662
+Masculino,group E,superior,privado,Não,760,742,862,703,850,Matematica,Não,783,783
+Masculino,group E,superior,privado,Não,770,710,840,793,720,Matematica,Não,766,766
+Masculino,group E,superior,privado,Não,800,731,831,720,830,Matematica,Não,782,782
+Masculino,group E,superior,privado,Não,876,820,970,805,950,Matematica,Não,884,884
+Masculino,group E,superior,publico,Não,900,830,930,912,830,Matematica,Não,880,880
+Feminino,group A,técnico,publico,Não,518,487,414,450,390,Computação,Sim,451,496
+Feminino,group A,técnico,publico,Não,573,566,377,520,520,Computação,Não,511,511
+Feminino,group A,técnico,publico,Não,850,760,650,760,760,Computação,Não,756,756
+Feminino,group A,técnico,privado,Não,936,935,822,888,825,Computação,Não,881,881
+Masculino,group A,técnico,privado,Não,530,470,542,550,450,Medicina,Não,508,508
+Masculino,group A,técnico,publico,Não,573,448,474,550,402,Matematica,Sim,489,537
+Masculino,group A,técnico,privado,Não,574,530,670,600,650,Computação,Não,604,604
+Masculino,group A,técnico,publico,Não,616,550,626,630,531,Medicina,Não,590,590
+Masculino,group A,técnico,privado,Não,615,611,636,660,570,Matematica,Não,618,618
+Feminino,group B,técnico,privado,Não,480,500,400,540,401,Medicina,Não,464,464
+Feminino,group B,técnico,privado,Não,490,500,470,454,547,Medicina,Não,492,492
+Feminino,group B,técnico,privado,Não,527,543,497,480,465,Computação,Sim,502,552
+Feminino,group B,técnico,privado,Não,586,650,530,570,645,Medicina,Não,596,596
+Feminino,group B,técnico,publico,Não,614,550,463,633,560,Computação,Não,564,564
+Feminino,group B,técnico,privado,Não,630,650,582,690,670,Computação,Não,644,644
+Feminino,group B,técnico,publico,Não,652,650,540,600,540,Computação,Não,596,596
+Feminino,group B,técnico,privado,Não,691,680,570,647,570,Computação,Não,631,631
+Feminino,group B,técnico,publico,Não,700,700,530,653,560,Matematica,Sim,628,690
+Feminino,group B,técnico,publico,Não,713,674,530,647,554,Medicina,Não,623,623
+Feminino,group B,técnico,publico,Não,760,700,524,685,660,Medicina,Não,665,665
+Feminino,group B,técnico,privado,Não,766,800,730,732,820,Medicina,Não,769,769
+Feminino,group B,técnico,privado,Não,800,770,820,833,850,Computação,Sim,814,895
+Feminino,group B,técnico,privado,Não,830,780,713,850,695,Matematica,Não,773,773
+Feminino,group B,técnico,privado,Não,836,760,730,750,696,Matematica,Não,754,754
+Feminino,group B,técnico,privado,Não,862,836,800,800,872,Medicina,Não,834,834
+Masculino,group B,técnico,publico,Não,411,380,440,444,360,Computação,Não,407,407
+Masculino,group B,técnico,privado,Não,427,410,614,370,460,Matematica,Sim,456,501
+Masculino,group B,técnico,privado,Não,433,450,482,498,520,Medicina,Não,476,476
+Masculino,group B,técnico,privado,Não,540,572,650,600,665,Matematica,Sim,605,665
+Masculino,group B,técnico,publico,Não,564,578,570,617,627,Computação,Não,591,591
+Masculino,group B,técnico,publico,Não,580,560,610,520,535,Matematica,Não,561,561
+Masculino,group B,técnico,publico,Não,621,601,677,560,690,Matematica,Não,629,629
+Masculino,group B,técnico,privado,Não,733,721,810,680,716,Computação,Não,732,732
+Masculino,group B,técnico,privado,Não,760,643,804,650,675,Computação,Não,706,706
+Masculino,group B,técnico,privado,Não,782,812,901,842,802,Computação,Sim,827,909
+Masculino,group B,técnico,privado,Não,853,736,877,740,750,Matematica,Sim,791,870
+Feminino,group C,técnico,privado,Não,532,536,490,486,460,Computação,Não,500,500
+Feminino,group C,técnico,privado,Não,557,570,520,615,603,Matematica,Não,573,573
+Feminino,group C,técnico,privado,Não,585,573,460,625,460,Computação,Não,540,540
+Feminino,group C,técnico,publico,Não,586,617,540,644,638,Matematica,Não,605,605
+Feminino,group C,técnico,privado,Não,592,518,408,507,510,Computação,Não,507,507
+Feminino,group C,técnico,publico,Não,610,622,530,571,638,Medicina,Não,594,594
+Feminino,group C,técnico,privado,Não,617,587,540,557,514,Computação,Não,563,563
+Feminino,group C,técnico,privado,Não,624,533,530,620,588,Computação,Não,579,579
+Feminino,group C,técnico,privado,Não,642,570,391,562,435,Medicina,Não,520,520
+Feminino,group C,técnico,privado,Não,640,701,642,621,727,Medicina,Não,666,666
+Feminino,group C,técnico,privado,Não,660,670,590,621,682,Matematica,Não,644,644
+Feminino,group C,técnico,privado,Não,671,700,636,640,722,Computação,Não,673,673
+Feminino,group C,técnico,privado,Não,733,680,585,666,682,Matematica,Não,669,669
+Feminino,group C,técnico,publico,Não,730,687,641,750,610,Computação,Não,683,683
+Feminino,group C,técnico,privado,Não,742,707,620,773,710,Computação,Não,710,710
+Feminino,group C,técnico,publico,Não,750,747,600,790,720,Medicina,Não,721,721
+Feminino,group C,técnico,privado,Não,768,760,650,710,656,Computação,Não,708,708
+Feminino,group C,técnico,privado,Não,770,748,655,804,750,Matematica,Sim,745,819
+Feminino,group C,técnico,publico,Não,770,741,650,714,750,Matematica,Não,725,725
+Feminino,group C,técnico,privado,Não,770,730,660,701,646,Matematica,Não,701,701
+Feminino,group C,técnico,privado,Não,775,795,815,685,850,Computação,Não,784,784
+Feminino,group C,técnico,publico,Não,780,672,570,770,670,Matematica,Não,692,692
+Feminino,group C,técnico,privado,Não,800,710,690,713,750,Medicina,Sim,732,805
+Feminino,group C,técnico,privado,Não,840,822,850,880,780,Computação,Não,834,834
+Feminino,group C,técnico,privado,Não,860,845,910,805,820,Matematica,Não,848,848
+Feminino,group C,técnico,privado,Não,897,950,853,974,950,Computação,Não,924,924
+Feminino,group C,técnico,privado,Não,957,940,914,900,874,Medicina,Não,917,917
+Masculino,group C,técnico,privado,Não,374,350,471,310,460,Medicina,Não,393,393
+Masculino,group C,técnico,privado,Não,431,427,463,471,390,Medicina,Não,436,436
+Masculino,group C,técnico,privado,Não,510,438,494,421,410,Computação,Não,454,454
+Masculino,group C,técnico,publico,Não,514,510,498,460,450,Medicina,Não,486,486
+Masculino,group C,técnico,privado,Não,540,520,584,486,500,Computação,Não,526,526
+Masculino,group C,técnico,publico,Não,550,530,581,590,610,Matematica,Sim,572,629
+Masculino,group C,técnico,publico,Não,612,541,557,621,603,Computação,Não,586,586
+Masculino,group C,técnico,privado,Não,656,580,626,660,550,Computação,Sim,614,675
+Masculino,group C,técnico,publico,Não,658,616,682,685,703,Matematica,Não,668,668
+Masculino,group C,técnico,publico,Não,668,594,648,583,674,Medicina,Não,633,633
+Masculino,group C,técnico,publico,Não,670,640,770,700,768,Computação,Não,709,709
+Masculino,group C,técnico,publico,Não,687,666,736,620,640,Medicina,Sim,669,735
+Masculino,group C,técnico,privado,Não,702,687,763,741,776,Matematica,Não,733,733
+Masculino,group C,técnico,privado,Não,727,780,834,800,860,Computação,Não,800,800
+Masculino,group C,técnico,privado,Não,730,670,740,753,650,Medicina,Não,708,708
+Masculino,group C,técnico,publico,Não,737,725,875,685,740,Medicina,Não,752,752
+Masculino,group C,técnico,privado,Não,760,714,852,785,835,Medicina,Não,789,789
+Masculino,group C,técnico,privado,Não,776,696,690,780,640,Computação,Não,716,716
+Masculino,group C,técnico,privado,Não,790,840,921,778,930,Medicina,Não,851,851
+Masculino,group C,técnico,privado,Não,807,800,840,850,770,Computação,Não,813,813
+Masculino,group C,técnico,privado,Não,930,910,971,685,897,Matematica,Não,878,878
+Feminino,group D,técnico,publico,Não,310,387,266,300,270,Computação,Não,306,306
+Feminino,group D,técnico,publico,Não,530,583,471,510,470,Matematica,Não,512,512
+Feminino,group D,técnico,publico,Não,568,571,464,617,466,Matematica,Não,537,537
+Feminino,group D,técnico,publico,Não,590,563,522,627,498,Medicina,Não,560,560
+Feminino,group D,técnico,publico,Não,600,580,430,543,560,Matematica,Não,542,542
+Feminino,group D,técnico,publico,Não,655,630,560,597,548,Computação,Não,598,598
+Feminino,group D,técnico,privado,Não,693,700,657,654,620,Medicina,Não,664,664
+Feminino,group D,técnico,privado,Não,703,650,590,725,570,Computação,Sim,647,711
+Feminino,group D,técnico,privado,Não,710,740,710,770,784,Medicina,Sim,742,816
+Feminino,group D,técnico,privado,Não,741,735,762,690,698,Medicina,Não,725,725
+Feminino,group D,técnico,publico,Não,760,766,550,810,711,Computação,Não,719,719
+Feminino,group D,técnico,privado,Não,760,741,640,701,740,Matematica,Não,716,716
+Feminino,group D,técnico,privado,Não,776,736,774,703,808,Medicina,Sim,759,834
+Feminino,group D,técnico,privado,Não,815,838,745,776,735,Medicina,Não,781,781
+Feminino,group D,técnico,privado,Não,912,895,855,850,920,Computação,Não,886,886
+Feminino,group D,técnico,privado,Não,950,890,820,977,800,Medicina,Não,887,887
+Masculino,group D,técnico,privado,Não,480,468,612,423,484,Medicina,Não,493,493
+Masculino,group D,técnico,privado,Não,520,430,400,432,470,Medicina,Não,450,450
+Masculino,group D,técnico,publico,Não,540,486,530,565,450,Computação,Não,514,514
+Masculino,group D,técnico,privado,Não,550,491,521,470,450,Computação,Não,496,496
+Masculino,group D,técnico,privado,Não,558,528,610,490,620,Medicina,Não,561,561
+Masculino,group D,técnico,publico,Não,575,508,523,580,565,Medicina,Não,550,550
+Masculino,group D,técnico,publico,Não,625,640,664,580,705,Medicina,Não,642,642
+Masculino,group D,técnico,privado,Não,633,630,803,685,777,Computação,Não,705,705
+Masculino,group D,técnico,privado,Não,667,600,716,684,710,Computação,Não,675,675
+Masculino,group D,técnico,publico,Não,668,730,750,740,790,Medicina,Não,735,735
+Masculino,group D,técnico,privado,Não,681,645,752,611,644,Computação,Não,666,666
+Masculino,group D,técnico,privado,Não,688,721,806,685,818,Medicina,Não,743,743
+Masculino,group D,técnico,privado,Não,713,730,810,671,820,Medicina,Não,748,748
+Masculino,group D,técnico,privado,Não,758,692,804,685,690,Matematica,Não,725,725
+Masculino,group D,técnico,privado,Não,751,775,800,810,840,Medicina,Não,795,795
+Masculino,group D,técnico,publico,Não,757,784,817,810,742,Matematica,Não,782,782
+Masculino,group D,técnico,publico,Não,780,730,778,717,700,Computação,Não,741,741
+Masculino,group D,técnico,privado,Não,791,740,724,721,680,Matematica,Não,731,731
+Masculino,group D,técnico,publico,Não,870,750,906,762,880,Matematica,Não,833,833
+Masculino,group D,técnico,privado,Não,870,853,906,910,826,Medicina,Não,873,873
+Feminino,group E,técnico,privado,Não,510,540,518,570,470,Computação,Não,521,521
+Feminino,group E,técnico,publico,Não,560,548,500,600,570,Medicina,Não,555,555
+Feminino,group E,técnico,privado,Não,625,694,597,704,590,Computação,Sim,642,706
+Feminino,group E,técnico,privado,Não,651,690,663,724,731,Matematica,Não,691,691
+Feminino,group E,técnico,privado,Não,760,678,680,760,732,Matematica,Não,722,722
+Feminino,group E,técnico,publico,Não,766,780,735,685,700,Matematica,Não,733,733
+Feminino,group E,técnico,publico,Não,840,814,700,783,817,Computação,Não,790,790
+Feminino,group E,técnico,privado,Não,926,850,856,931,906,Computação,Não,893,893
+Feminino,group E,técnico,privado,Não,940,951,871,990,867,Computação,Não,923,923
+Feminino,group E,técnico,privado,Não,952,920,840,980,935,Medicina,Não,925,925
+Feminino,group E,técnico,privado,Não,1000,1000,1000,957,1000,Medicina,Sim,991,1090
+Masculino,group E,técnico,publico,Não,430,414,460,370,490,Medicina,Não,432,432
+Masculino,group E,técnico,privado,Não,450,400,530,380,412,Medicina,Não,434,434
+Masculino,group E,técnico,publico,Não,560,526,640,592,535,Medicina,Não,570,570
+Masculino,group E,técnico,privado,Não,570,620,720,550,720,Computação,Não,636,636
+Masculino,group E,técnico,privado,Não,640,630,723,683,625,Computação,Não,660,660
+Masculino,group E,técnico,privado,Não,714,674,763,741,770,Computação,Não,732,732
+Masculino,group E,técnico,privado,Não,740,764,874,708,873,Medicina,Não,791,791
+Masculino,group E,técnico,privado,Não,767,740,890,702,875,Matematica,Sim,794,873
+Masculino,group E,técnico,publico,Não,900,821,900,910,814,Medicina,Não,869,869
+Masculino,group A,bacharelado,publico,Sim,580,600,497,640,601,Medicina,Sim,583,641
+Masculino,group A,bacharelado,privado,Sim,580,620,757,555,740,Computação,Não,650,650
+Masculino,group A,bacharelado,privado,Sim,781,813,804,840,865,Matematica,Não,820,820
+Masculino,group A,bacharelado,privado,Sim,844,873,870,900,823,Medicina,Não,862,862
+Feminino,group B,bacharelado,privado,Sim,745,813,662,730,790,Medicina,Não,748,748
+Feminino,group B,bacharelado,privado,Sim,814,818,650,860,681,Matematica,Não,764,764
+Masculino,group B,bacharelado,publico,Sim,906,882,873,840,822,Medicina,Não,864,864
+Feminino,group C,bacharelado,publico,Sim,510,540,438,570,540,Computação,Não,519,519
+Feminino,group C,bacharelado,privado,Sim,610,660,524,590,544,Medicina,Não,585,585
+Feminino,group C,bacharelado,publico,Sim,620,665,477,690,514,Matematica,Não,593,593
+Feminino,group C,bacharelado,privado,Sim,640,758,593,650,720,Medicina,Não,672,672
+Feminino,group C,bacharelado,publico,Sim,724,790,513,713,701,Matematica,Não,688,688
+Feminino,group C,bacharelado,publico,Sim,740,817,667,737,680,Matematica,Não,728,728
+Feminino,group C,bacharelado,privado,Sim,797,721,563,710,691,Matematica,Não,696,696
+Feminino,group C,bacharelado,publico,Sim,830,830,667,886,808,Computação,Não,804,804
+Feminino,group C,bacharelado,publico,Sim,860,898,743,925,760,Matematica,Não,837,837
+Feminino,group C,bacharelado,privado,Sim,920,890,796,860,896,Medicina,Não,872,872
+Feminino,group C,bacharelado,privado,Sim,941,956,772,994,812,Computação,Não,895,895
+Feminino,group C,bacharelado,privado,Sim,1000,990,927,950,900,Matematica,Não,953,953
+Feminino,group C,bacharelado,privado,Sim,1000,1000,964,1000,1000,Medicina,Não,992,992
+Masculino,group C,bacharelado,privado,Sim,643,665,638,608,590,Matematica,Não,628,628
+Masculino,group C,bacharelado,privado,Sim,740,687,710,660,757,Matematica,Não,710,710
+Masculino,group C,bacharelado,publico,Sim,758,740,705,796,670,Computação,Não,733,733
+Masculino,group C,bacharelado,privado,Sim,810,791,915,854,904,Medicina,Não,854,854
+Masculino,group C,bacharelado,privado,Sim,820,843,830,685,788,Computação,Não,793,793
+Masculino,group C,bacharelado,privado,Sim,902,915,940,950,870,Computação,Não,915,915
+Masculino,group C,bacharelado,privado,Sim,908,920,963,960,890,Medicina,Não,928,928
+Feminino,group D,bacharelado,privado,Sim,754,810,683,830,697,Computação,Não,754,754
+Feminino,group D,bacharelado,privado,Sim,760,831,710,755,826,Computação,Não,776,776
+Feminino,group D,bacharelado,publico,Sim,1000,1000,937,1000,910,Matematica,Não,969,969
+Masculino,group D,bacharelado,publico,Sim,420,381,393,350,337,Computação,Não,376,376
+Masculino,group D,bacharelado,privado,Sim,614,684,670,606,622,Matematica,Não,639,639
+Masculino,group D,bacharelado,publico,Sim,700,761,611,685,740,Computação,Não,699,699
+Masculino,group D,bacharelado,publico,Sim,717,800,740,800,723,Matematica,Não,756,756
+Masculino,group D,bacharelado,privado,Sim,743,742,680,790,765,Medicina,Não,744,744
+Masculino,group D,bacharelado,publico,Sim,794,750,740,720,695,Computação,Não,739,739
+Feminino,group E,bacharelado,privado,Sim,704,702,716,658,760,Matematica,Não,708,708
+Feminino,group E,bacharelado,privado,Sim,810,820,790,774,753,Medicina,Não,789,789
+Feminino,group E,bacharelado,publico,Sim,1000,1000,921,1000,916,Medicina,Não,967,967
+Feminino,group E,bacharelado,privado,Sim,1000,1000,994,951,1000,Matematica,Sim,989,1087
+Masculino,group E,bacharelado,privado,Sim,620,665,762,590,766,Matematica,Não,680,680
+Masculino,group E,bacharelado,privado,Sim,640,700,700,626,756,Medicina,Não,684,684
+Masculino,group E,bacharelado,privado,Sim,664,710,850,643,832,Computação,Não,739,739
+Masculino,group E,bacharelado,publico,Sim,680,724,702,652,765,Matematica,Não,704,704
+Masculino,group E,bacharelado,publico,Sim,742,720,790,787,811,Medicina,Não,770,770
+Masculino,group E,bacharelado,privado,Sim,1000,1000,1000,1000,950,Matematica,Sim,990,1089
+Feminino,group A,ensino médio,publico,Sim,488,410,343,685,320,Computação,Não,449,449
+Feminino,group A,ensino médio,publico,Sim,503,600,530,501,514,Medicina,Não,529,529
+Feminino,group A,ensino médio,privado,Sim,806,762,682,733,670,Matematica,Não,730,730
+Feminino,group A,ensino médio,privado,Sim,820,793,751,850,820,Matematica,Não,806,806
+Feminino,group A,ensino médio,publico,Sim,883,850,770,916,867,Computação,Sim,857,942
+Masculino,group A,ensino médio,publico,Sim,670,654,727,718,630,Computação,Não,679,679
+Masculino,group A,ensino médio,privado,Sim,730,746,728,685,786,Matematica,Sim,735,808
+Feminino,group B,ensino médio,publico,Sim,440,360,230,457,355,Computação,Não,368,368
+Feminino,group B,ensino médio,publico,Sim,547,580,460,610,470,Computação,Não,533,533
+Feminino,group B,ensino médio,privado,Sim,700,684,588,640,580,Medicina,Não,638,638
+Feminino,group B,ensino médio,privado,Sim,768,748,696,801,660,Medicina,Não,734,734
+Feminino,group B,ensino médio,publico,Sim,782,792,670,740,780,Matematica,Não,752,752
+Feminino,group B,ensino médio,publico,Sim,800,818,671,853,790,Matematica,Sim,786,864
+Feminino,group B,ensino médio,privado,Sim,820,895,770,810,785,Medicina,Não,816,816
+Feminino,group B,ensino médio,privado,Sim,833,781,684,760,680,Medicina,Não,747,747
+Feminino,group B,ensino médio,publico,Sim,857,824,760,885,841,Matematica,Não,833,833
+Masculino,group B,ensino médio,privado,Sim,443,470,600,410,480,Matematica,Não,480,480
+Masculino,group B,ensino médio,privado,Sim,490,466,528,430,542,Medicina,Não,491,491
+Masculino,group B,ensino médio,privado,Sim,624,600,767,666,630,Computação,Não,657,657
+Masculino,group B,ensino médio,privado,Sim,650,680,727,712,750,Computação,Não,703,703
+Masculino,group B,ensino médio,privado,Sim,696,681,734,730,657,Medicina,Não,699,699
+Masculino,group B,ensino médio,privado,Sim,715,683,730,742,650,Medicina,Sim,704,774
+Feminino,group C,ensino médio,privado,Sim,642,740,607,740,720,Medicina,Não,689,689
+Feminino,group C,ensino médio,publico,Sim,665,647,500,700,520,Medicina,Não,606,606
+Feminino,group C,ensino médio,publico,Sim,711,651,590,631,572,Matematica,Não,631,631
+Feminino,group C,ensino médio,privado,Sim,756,772,584,710,620,Matematica,Não,688,688
+Feminino,group C,ensino médio,publico,Sim,790,840,676,860,810,Medicina,Não,795,795
+Masculino,group C,ensino médio,publico,Sim,460,500,403,430,500,Medicina,Não,458,458
+Masculino,group C,ensino médio,publico,Sim,510,516,533,566,470,Computação,Não,519,519
+Masculino,group C,ensino médio,publico,Sim,510,528,580,470,607,Matematica,Não,539,539
+Masculino,group C,ensino médio,privado,Sim,523,490,534,462,465,Medicina,Não,494,494
+Masculino,group C,ensino médio,privado,Sim,527,544,585,580,511,Matematica,Não,549,549
+Masculino,group C,ensino médio,privado,Sim,580,534,690,603,661,Matematica,Não,613,613
+Masculino,group C,ensino médio,privado,Sim,676,640,726,610,636,Matematica,Sim,657,722
+Masculino,group C,ensino médio,privado,Sim,698,680,750,738,661,Matematica,Não,705,705
+Masculino,group C,ensino médio,privado,Sim,817,800,864,760,780,Medicina,Não,804,804
+Masculino,group C,ensino médio,privado,Sim,840,820,822,780,772,Matematica,Não,806,806
+Feminino,group D,ensino médio,publico,Sim,570,560,520,526,590,Computação,Não,553,553
+Feminino,group D,ensino médio,privado,Sim,580,646,570,561,660,Matematica,Não,603,603
+Feminino,group D,ensino médio,publico,Sim,610,710,650,715,635,Computação,Não,664,664
+Feminino,group D,ensino médio,privado,Sim,680,742,565,765,700,Computação,Não,690,690
+Feminino,group D,ensino médio,privado,Sim,777,784,695,826,793,Computação,Não,775,775
+Feminino,group D,ensino médio,privado,Sim,996,1000,880,1000,890,Medicina,Não,953,953
+Masculino,group D,ensino médio,privado,Sim,414,480,550,497,460,Matematica,Não,480,480
+Masculino,group D,ensino médio,publico,Sim,640,675,643,685,710,Medicina,Não,670,670
+Masculino,group D,ensino médio,privado,Sim,640,660,683,700,728,Matematica,Não,682,682
+Masculino,group D,ensino médio,publico,Sim,680,668,730,725,640,Matematica,Não,688,688
+Masculino,group D,ensino médio,publico,Sim,770,804,786,837,741,Computação,Não,787,787
+Feminino,group E,ensino médio,privado,Sim,633,750,592,740,626,Matematica,Não,668,668
+Feminino,group E,ensino médio,publico,Sim,740,781,663,810,670,Medicina,Não,732,732
+Feminino,group E,ensino médio,publico,Sim,754,730,570,790,700,Matematica,Não,708,708
+Feminino,group E,ensino médio,privado,Sim,790,800,746,750,720,Medicina,Não,761,761
+Masculino,group E,ensino médio,publico,Sim,568,540,577,685,502,Computação,Não,574,574
+Masculino,group E,ensino médio,privado,Sim,801,766,812,730,730,Matematica,Não,767,767
+Masculino,group E,ensino médio,publico,Sim,816,753,860,731,754,Matematica,Não,782,782
+Masculino,group E,ensino médio,privado,Sim,910,813,878,818,896,Matematica,Não,863,863
+Feminino,group B,mestrado,publico,Sim,705,621,520,612,627,Computação,Não,617,617
+Feminino,group B,mestrado,publico,Sim,760,780,580,720,737,Computação,Não,715,715
+Feminino,group B,mestrado,publico,Sim,971,947,776,910,804,Medicina,Não,881,881
+Feminino,group C,mestrado,privado,Sim,646,675,541,618,551,Medicina,Sim,606,666
+Feminino,group C,mestrado,publico,Sim,816,818,652,860,780,Computação,Não,785,785
+Feminino,group C,mestrado,privado,Sim,840,853,690,891,828,Computação,Sim,820,902
+Feminino,group C,mestrado,privado,Sim,910,870,810,840,790,Computação,Não,844,844
+Masculino,group C,mestrado,publico,Sim,421,460,460,685,510,Medicina,Não,507,507
+Masculino,group C,mestrado,publico,Sim,660,726,720,742,670,Matematica,Sim,703,773
+Masculino,group C,mestrado,publico,Sim,680,750,620,767,630,Matematica,Não,689,689
+Masculino,group C,mestrado,publico,Sim,776,757,790,710,820,Medicina,Não,770,770
+Masculino,group C,mestrado,privado,Sim,853,850,913,904,930,Medicina,Não,890,890
+Feminino,group D,mestrado,publico,Sim,580,670,474,670,622,Medicina,Não,603,603
+Feminino,group D,mestrado,publico,Sim,717,780,610,790,751,Medicina,Sim,729,801
+Feminino,group D,mestrado,privado,Sim,714,746,702,770,670,Computação,Não,720,720
+Feminino,group D,mestrado,privado,Sim,820,916,778,820,890,Medicina,Não,844,844
+Feminino,group D,mestrado,publico,Sim,950,1000,854,1000,872,Medicina,Não,935,935
+Masculino,group D,mestrado,publico,Sim,890,902,840,940,923,Medicina,Não,899,899
+Feminino,group E,mestrado,privado,Sim,990,950,886,685,860,Matematica,Não,874,874
+Feminino,group E,mestrado,privado,Sim,990,1000,940,1000,1000,Computação,Sim,986,1084
+Feminino,group A,outros ensino médio,privado,Sim,850,802,597,870,752,Medicina,Não,774,774
+Feminino,group A,outros ensino médio,privado,Sim,906,927,853,860,945,Computação,Não,898,898
+Feminino,group A,outros ensino médio,privado,Sim,1000,973,925,1000,890,Computação,Não,957,957
+Masculino,group A,outros ensino médio,privado,Sim,410,430,466,473,500,Computação,Não,455,455
+Masculino,group A,outros ensino médio,privado,Sim,496,494,470,448,430,Computação,Não,467,467
+Masculino,group A,outros ensino médio,publico,Sim,625,610,610,577,660,Medicina,Não,616,616
+Masculino,group A,outros ensino médio,privado,Sim,675,692,620,634,604,Matematica,Não,645,645
+Masculino,group A,outros ensino médio,privado,Sim,680,640,660,710,605,Medicina,Não,659,659
+Feminino,group B,outros ensino médio,privado,Sim,513,447,320,524,434,Medicina,Não,447,447
+Feminino,group B,outros ensino médio,privado,Sim,617,620,540,571,630,Computação,Não,595,595
+Feminino,group B,outros ensino médio,publico,Sim,636,640,591,590,564,Matematica,Não,604,604
+Feminino,group B,outros ensino médio,publico,Sim,670,720,524,740,571,Computação,Não,645,645
+Feminino,group B,outros ensino médio,privado,Sim,708,700,600,655,600,Matematica,Não,652,652
+Feminino,group B,outros ensino médio,privado,Sim,708,743,600,774,626,Medicina,Não,690,690
+Feminino,group B,outros ensino médio,publico,Sim,780,798,638,742,761,Matematica,Não,743,743
+Feminino,group B,outros ensino médio,privado,Sim,828,780,651,750,770,Matematica,Não,755,755
+Feminino,group B,outros ensino médio,publico,Sim,905,886,742,844,764,Matematica,Não,828,828
+Masculino,group B,outros ensino médio,publico,Sim,507,520,491,460,560,Computação,Não,507,507
+Masculino,group B,outros ensino médio,privado,Sim,530,570,640,607,660,Computação,Sim,601,661
+Masculino,group B,outros ensino médio,privado,Sim,547,411,510,520,512,Medicina,Não,500,500
+Masculino,group B,outros ensino médio,privado,Sim,562,560,617,516,530,Medicina,Não,557,557
+Masculino,group B,outros ensino médio,privado,Sim,665,622,657,594,697,Computação,Não,647,647
+Masculino,group B,outros ensino médio,privado,Sim,670,670,630,620,602,Matematica,Não,638,638
+Masculino,group B,outros ensino médio,privado,Sim,835,750,841,747,740,Computação,Não,782,782
+Masculino,group B,outros ensino médio,privado,Sim,840,788,851,768,763,Medicina,Não,802,802
+Masculino,group B,outros ensino médio,privado,Sim,852,867,797,810,770,Computação,Sim,819,900
+Masculino,group B,outros ensino médio,privado,Sim,865,878,940,910,960,Computação,Não,910,910
+Feminino,group C,outros ensino médio,publico,Sim,400,440,290,372,427,Medicina,Não,385,385
+Feminino,group C,outros ensino médio,privado,Sim,513,552,448,488,444,Matematica,Não,489,489
+Feminino,group C,outros ensino médio,privado,Sim,547,672,592,650,682,Matematica,Não,628,628
+Feminino,group C,outros ensino médio,publico,Sim,600,608,500,650,603,Matematica,Não,592,592
+Feminino,group C,outros ensino médio,privado,Sim,747,770,656,710,760,Matematica,Sim,728,800
+Feminino,group C,outros ensino médio,privado,Sim,745,770,672,716,670,Matematica,Não,714,714
+Feminino,group C,outros ensino médio,publico,Sim,760,750,651,801,751,Matematica,Não,742,742
+Feminino,group C,outros ensino médio,publico,Sim,793,773,642,736,765,Computação,Não,741,741
+Feminino,group C,outros ensino médio,privado,Sim,824,766,700,745,680,Medicina,Não,743,743
+Feminino,group C,outros ensino médio,publico,Sim,842,870,710,818,847,Medicina,Não,817,817
+Feminino,group C,outros ensino médio,privado,Sim,870,850,760,910,862,Computação,Não,850,850
+Feminino,group C,outros ensino médio,privado,Sim,900,855,772,925,865,Medicina,Não,863,863
+Feminino,group C,outros ensino médio,privado,Sim,920,930,853,880,842,Matematica,Não,885,885
+Masculino,group C,outros ensino médio,publico,Sim,371,400,530,436,528,Medicina,Não,453,453
+Masculino,group C,outros ensino médio,publico,Sim,520,492,456,550,420,Medicina,Não,487,487
+Masculino,group C,outros ensino médio,publico,Sim,562,538,516,590,470,Computação,Não,535,535
+Masculino,group C,outros ensino médio,privado,Sim,606,573,636,540,550,Medicina,Não,581,581
+Masculino,group C,outros ensino médio,publico,Sim,610,607,560,560,536,Matematica,Não,574,574
+Masculino,group C,outros ensino médio,publico,Sim,696,652,596,620,672,Matematica,Não,647,647
+Masculino,group C,outros ensino médio,privado,Sim,724,690,781,750,790,Computação,Não,747,747
+Masculino,group C,outros ensino médio,privado,Sim,730,680,670,660,620,Computação,Não,672,672
+Masculino,group C,outros ensino médio,privado,Sim,800,730,762,810,690,Computação,Sim,758,833
+Feminino,group D,outros ensino médio,publico,Sim,558,600,350,538,537,Matematica,Não,516,516
+Feminino,group D,outros ensino médio,privado,Sim,600,743,641,720,744,Medicina,Sim,689,757
+Feminino,group D,outros ensino médio,publico,Sim,650,640,405,602,575,Computação,Não,574,574
+Feminino,group D,outros ensino médio,privado,Sim,740,723,617,683,612,Matematica,Não,675,675
+Feminino,group D,outros ensino médio,privado,Sim,783,820,650,750,792,Medicina,Não,759,759
+Feminino,group D,outros ensino médio,privado,Sim,785,786,668,730,674,Medicina,Não,728,728
+Feminino,group D,outros ensino médio,publico,Sim,860,817,691,795,705,Medicina,Não,773,773
+Feminino,group D,outros ensino médio,privado,Sim,925,880,800,956,790,Medicina,Não,870,870
+Feminino,group D,outros ensino médio,privado,Sim,1000,1000,970,1000,934,Computação,Não,980,980
+Masculino,group D,outros ensino médio,publico,Sim,596,590,550,544,520,Computação,Não,560,560
+Masculino,group D,outros ensino médio,privado,Sim,660,684,620,728,600,Computação,Não,658,658
+Masculino,group D,outros ensino médio,privado,Sim,681,692,773,733,785,Matematica,Não,732,732
+Masculino,group D,outros ensino médio,privado,Sim,690,683,711,730,646,Matematica,Não,692,692
+Masculino,group D,outros ensino médio,privado,Sim,705,690,760,655,788,Matematica,Não,719,719
+Masculino,group D,outros ensino médio,privado,Sim,716,781,747,790,810,Matematica,Não,768,768
+Masculino,group D,outros ensino médio,privado,Sim,746,750,880,700,765,Computação,Não,768,768
+Masculino,group D,outros ensino médio,publico,Sim,790,797,802,840,743,Matematica,Não,794,794
+Masculino,group D,outros ensino médio,privado,Sim,810,860,786,790,775,Computação,Não,804,804
+Masculino,group D,outros ensino médio,privado,Sim,880,820,894,800,910,Computação,Não,860,860
+Feminino,group E,outros ensino médio,privado,Sim,850,858,805,800,880,Computação,Não,838,838
+Masculino,group E,outros ensino médio,privado,Sim,516,573,681,592,680,Medicina,Sim,608,668
+Masculino,group E,outros ensino médio,privado,Sim,641,602,740,573,620,Medicina,Não,635,635
+Masculino,group E,outros ensino médio,publico,Sim,678,597,730,680,610,Matematica,Não,659,659
+Masculino,group E,outros ensino médio,privado,Sim,758,761,814,710,840,Matematica,Não,776,776
+Masculino,group E,outros ensino médio,privado,Sim,764,778,770,810,821,Computação,Não,788,788
+Masculino,group E,outros ensino médio,publico,Sim,830,800,780,776,843,Matematica,Não,805,805
+Masculino,group E,outros ensino médio,privado,Sim,848,764,870,850,875,Computação,Não,841,841
+Masculino,group E,outros ensino médio,privado,Sim,840,770,890,685,780,Medicina,Não,793,793
+Feminino,group A,superior,privado,Sim,790,820,722,850,820,Computação,Não,800,800
+Feminino,group A,superior,privado,Sim,870,916,780,947,796,Medicina,Não,861,861
+Masculino,group A,superior,publico,Sim,470,540,500,463,473,Matematica,Não,489,489
+Masculino,group A,superior,privado,Sim,510,520,611,568,620,Medicina,Não,565,565
+Masculino,group A,superior,privado,Sim,728,708,783,663,693,Computação,Não,715,715
+Masculino,group A,superior,publico,Sim,780,815,810,750,766,Computação,Não,784,784
+Masculino,group A,superior,privado,Sim,960,861,1000,860,881,Computação,Não,912,912
+Feminino,group B,superior,publico,Sim,560,586,480,520,480,Matematica,Não,525,525
+Feminino,group B,superior,privado,Sim,648,660,500,700,537,Matematica,Sim,609,669
+Feminino,group B,superior,publico,Sim,660,734,530,658,685,Computação,Não,653,653
+Feminino,group B,superior,publico,Sim,751,707,657,683,620,Computação,Não,683,683
+Feminino,group B,superior,privado,Sim,954,920,882,894,950,Matematica,Não,920,920
+Masculino,group B,superior,publico,Sim,625,603,602,567,550,Medicina,Sim,589,647
+Masculino,group B,superior,publico,Sim,650,660,596,700,680,Computação,Não,657,657
+Masculino,group B,superior,privado,Sim,663,687,620,685,604,Medicina,Não,651,651
+Masculino,group B,superior,privado,Sim,754,706,716,770,653,Matematica,Não,719,719
+Masculino,group B,superior,privado,Sim,773,775,690,720,780,Computação,Não,747,747
+Masculino,group B,superior,publico,Sim,770,760,742,810,807,Computação,Não,777,777
+Masculino,group B,superior,privado,Sim,846,867,872,900,920,Computação,Não,881,881
+Masculino,group B,superior,privado,Sim,850,760,882,763,772,Medicina,Não,805,805
+Masculino,group B,superior,privado,Sim,965,915,918,890,965,Medicina,Não,930,930
+Feminino,group C,superior,publico,Sim,660,694,420,720,614,Matematica,Não,621,621
+Feminino,group C,superior,privado,Sim,710,806,716,710,706,Medicina,Não,729,729
+Feminino,group C,superior,privado,Sim,720,764,700,790,782,Computação,Não,751,751
+Feminino,group C,superior,publico,Sim,730,700,450,768,526,Computação,Sim,634,697
+Feminino,group C,superior,publico,Sim,734,710,633,685,620,Medicina,Não,676,676
+Feminino,group C,superior,publico,Sim,758,707,675,778,630,Matematica,Não,709,709
+Feminino,group C,superior,privado,Sim,785,800,632,840,667,Matematica,Não,744,744
+Feminino,group C,superior,privado,Sim,811,790,675,750,685,Computação,Não,742,742
+Feminino,group C,superior,privado,Sim,810,840,757,780,853,Matematica,Não,808,808
+Feminino,group C,superior,privado,Sim,827,770,644,754,760,Medicina,Não,751,751
+Feminino,group C,superior,publico,Sim,851,856,643,803,690,Computação,Não,768,768
+Feminino,group C,superior,privado,Sim,896,880,700,930,740,Computação,Não,829,829
+Feminino,group C,superior,privado,Sim,890,946,876,872,965,Medicina,Não,909,909
+Feminino,group C,superior,privado,Sim,908,886,698,943,840,Medicina,Não,855,855
+Feminino,group C,superior,privado,Sim,930,930,882,888,962,Matematica,Não,918,918
+Feminino,group C,superior,privado,Sim,950,940,885,900,960,Matematica,Não,927,927
+Masculino,group C,superior,publico,Sim,480,532,500,460,460,Medicina,Não,486,486
+Masculino,group C,superior,publico,Sim,740,700,670,674,630,Medicina,Não,682,682
+Masculino,group C,superior,privado,Sim,792,780,790,740,733,Matematica,Não,767,767
+Masculino,group C,superior,privado,Sim,845,905,930,928,974,Matematica,Não,916,916
+Masculino,group C,superior,privado,Sim,860,906,984,833,893,Computação,Não,895,895
+Feminino,group D,superior,publico,Sim,598,658,520,670,648,Matematica,Não,618,618
+Feminino,group D,superior,publico,Sim,633,730,587,631,601,Matematica,Não,636,636
+Feminino,group D,superior,privado,Sim,750,794,740,724,827,Computação,Não,767,767
+Feminino,group D,superior,privado,Sim,770,830,750,750,840,Medicina,Não,788,788
+Feminino,group D,superior,publico,Sim,780,760,593,820,620,Computação,Não,714,714
+Feminino,group D,superior,privado,Sim,780,771,680,735,781,Computação,Não,749,749
+Feminino,group D,superior,publico,Sim,783,787,700,736,798,Matematica,Não,760,760
+Feminino,group D,superior,privado,Sim,790,814,690,750,803,Medicina,Não,769,769
+Feminino,group D,superior,publico,Sim,805,800,630,750,774,Computação,Não,751,751
+Feminino,group D,superior,privado,Sim,840,917,798,927,807,Matematica,Não,857,857
+Feminino,group D,superior,publico,Sim,860,830,677,894,704,Matematica,Não,793,793
+Feminino,group D,superior,privado,Sim,863,980,855,875,867,Computação,Não,888,888
+Feminino,group D,superior,privado,Sim,974,963,820,1000,946,Computação,Não,940,940
+Masculino,group D,superior,privado,Sim,550,636,631,640,586,Computação,Não,608,608
+Masculino,group D,superior,privado,Sim,595,580,580,542,637,Computação,Não,586,586
+Masculino,group D,superior,publico,Sim,600,636,690,660,617,Computação,Não,640,640
+Masculino,group D,superior,privado,Sim,615,691,710,601,653,Matematica,Não,654,654
+Masculino,group D,superior,privado,Sim,628,620,770,670,640,Medicina,Não,665,665
+Masculino,group D,superior,privado,Sim,770,746,658,714,756,Medicina,Não,728,728
+Masculino,group D,superior,privado,Sim,816,854,851,884,807,Medicina,Não,842,842
+Masculino,group D,superior,privado,Sim,820,886,821,801,804,Medicina,Não,826,826
+Masculino,group D,superior,privado,Sim,837,798,760,760,724,Medicina,Não,775,775
+Masculino,group D,superior,privado,Sim,970,990,1000,685,1000,Medicina,Não,929,929
+Feminino,group E,superior,publico,Sim,550,540,422,501,530,Medicina,Não,508,508
+Feminino,group E,superior,privado,Sim,722,702,635,660,727,Matematica,Não,689,689
+Feminino,group E,superior,privado,Sim,740,737,660,780,641,Computação,Não,711,711
+Feminino,group E,superior,privado,Sim,782,763,730,720,690,Medicina,Não,737,737
+Feminino,group E,superior,privado,Sim,855,918,860,833,830,Medicina,Não,859,859
+Feminino,group E,superior,publico,Sim,880,854,750,822,850,Computação,Não,831,831
+Masculino,group E,superior,publico,Sim,520,510,490,472,450,Computação,Não,488,488
+Masculino,group E,superior,privado,Sim,740,715,816,680,710,Matematica,Não,732,732
+Masculino,group E,superior,publico,Sim,746,708,870,777,848,Matematica,Não,789,789
+Masculino,group E,superior,privado,Sim,750,685,857,760,718,Medicina,Não,754,754
+Masculino,group E,superior,privado,Sim,833,780,840,850,760,Computação,Não,812,812
+Masculino,group E,superior,privado,Sim,874,816,998,790,850,Computação,Não,865,865
+Feminino,group A,técnico,privado,Sim,650,620,550,590,640,Computação,Não,610,610
+Feminino,group A,técnico,privado,Sim,703,740,650,676,642,Matematica,Não,682,682
+Masculino,group A,técnico,publico,Sim,550,530,400,490,528,Matematica,Não,499,499
+Masculino,group A,técnico,publico,Sim,827,825,797,775,754,Computação,Não,795,795
+Masculino,group A,técnico,privado,Sim,920,862,970,840,863,Matematica,Não,891,891
+Feminino,group B,técnico,privado,Sim,665,730,521,740,684,Matematica,Não,668,668
+Feminino,group B,técnico,privado,Sim,700,660,593,738,680,Medicina,Não,674,674
+Feminino,group B,técnico,publico,Sim,775,800,680,831,698,Medicina,Não,756,756
+Feminino,group B,técnico,privado,Sim,860,878,616,910,795,Matematica,Não,811,811
+Feminino,group B,técnico,privado,Sim,870,925,946,857,984,Matematica,Não,916,916
+Feminino,group B,técnico,privado,Sim,900,910,904,868,960,Computação,Não,908,908
+Feminino,group B,técnico,publico,Sim,940,870,767,951,870,Medicina,Sim,879,966
+Masculino,group B,técnico,publico,Sim,571,530,588,506,502,Matematica,Não,539,539
+Masculino,group B,técnico,privado,Sim,651,636,650,690,693,Computação,Sim,664,730
+Masculino,group B,técnico,publico,Sim,700,632,691,685,618,Computação,Não,665,665
+Masculino,group B,técnico,publico,Sim,780,744,823,716,735,Computação,Não,759,759
+Masculino,group B,técnico,privado,Sim,828,821,813,778,767,Matematica,Não,801,801
+Masculino,group B,técnico,privado,Sim,840,782,820,867,750,Matematica,Não,811,811
+Masculino,group B,técnico,privado,Sim,890,921,914,958,860,Computação,Sim,908,998
+Feminino,group C,técnico,privado,Sim,593,620,520,562,528,Matematica,Não,564,564
+Feminino,group C,técnico,publico,Sim,677,693,680,635,637,Matematica,Não,664,664
+Feminino,group C,técnico,privado,Sim,677,730,680,652,768,Matematica,Não,701,701
+Feminino,group C,técnico,publico,Sim,684,704,562,640,687,Matematica,Não,655,655
+Feminino,group C,técnico,privado,Sim,726,791,558,713,720,Computação,Não,701,701
+Feminino,group C,técnico,privado,Sim,733,720,598,688,711,Medicina,Não,690,690
+Feminino,group C,técnico,privado,Sim,750,830,740,745,730,Medicina,Não,759,759
+Feminino,group C,técnico,privado,Sim,767,805,620,830,760,Computação,Não,756,756
+Feminino,group C,técnico,privado,Sim,775,806,571,830,630,Medicina,Não,722,722
+Feminino,group C,técnico,privado,Sim,770,770,710,722,690,Computação,Não,732,732
+Feminino,group C,técnico,privado,Sim,820,907,752,685,771,Computação,Não,787,787
+Feminino,group C,técnico,privado,Sim,840,840,650,790,800,Medicina,Não,784,784
+Feminino,group C,técnico,privado,Sim,840,815,670,685,697,Medicina,Não,741,741
+Feminino,group C,técnico,privado,Sim,840,863,670,807,716,Matematica,Não,779,779
+Feminino,group C,técnico,privado,Sim,851,905,830,834,920,Computação,Não,868,868
+Feminino,group C,técnico,privado,Sim,863,848,682,804,716,Medicina,Não,782,782
+Feminino,group C,técnico,publico,Sim,930,930,820,882,827,Computação,Não,877,877
+Feminino,group C,técnico,privado,Sim,960,993,962,1000,926,Medicina,Não,968,968
+Masculino,group C,técnico,publico,Sim,457,500,430,437,417,Matematica,Não,448,448
+Masculino,group C,técnico,publico,Sim,513,560,600,580,632,Computação,Não,577,577
+Masculino,group C,técnico,privado,Sim,545,560,574,500,514,Matematica,Não,538,538
+Masculino,group C,técnico,privado,Sim,600,580,511,643,600,Computação,Não,586,586
+Masculino,group C,técnico,publico,Sim,675,655,650,710,700,Medicina,Não,678,678
+Masculino,group C,técnico,publico,Sim,735,687,650,666,614,Medicina,Não,670,670
+Masculino,group C,técnico,privado,Sim,751,771,827,814,744,Medicina,Não,781,781
+Masculino,group C,técnico,privado,Sim,776,774,787,825,832,Medicina,Não,798,798
+Masculino,group C,técnico,privado,Sim,780,720,730,705,780,Computação,Não,743,743
+Masculino,group C,técnico,publico,Sim,810,820,783,770,750,Computação,Sim,786,864
+Masculino,group C,técnico,privado,Sim,870,900,980,931,990,Computação,Sim,934,1027
+Masculino,group C,técnico,privado,Sim,1000,953,870,930,860,Matematica,Sim,922,1014
+Feminino,group D,técnico,publico,Sim,610,580,426,640,553,Computação,Não,561,561
+Feminino,group D,técnico,publico,Sim,744,765,578,700,720,Computação,Não,701,701
+Feminino,group D,técnico,privado,Sim,750,804,730,826,820,Matematica,Não,786,786
+Feminino,group D,técnico,privado,Sim,780,792,573,830,630,Medicina,Não,721,721
+Feminino,group D,técnico,publico,Sim,880,903,740,845,874,Computação,Não,848,848
+Feminino,group D,técnico,publico,Sim,896,982,770,898,938,Medicina,Não,896,896
+Feminino,group D,técnico,publico,Sim,900,883,750,840,877,Medicina,Não,850,850
+Feminino,group D,técnico,privado,Sim,920,952,885,890,863,Medicina,Não,902,902
+Masculino,group D,técnico,privado,Sim,544,630,670,636,700,Computação,Não,636,636
+Masculino,group D,técnico,publico,Sim,715,734,610,770,623,Computação,Não,690,690
+Masculino,group D,técnico,privado,Sim,728,675,673,656,620,Matematica,Não,670,670
+Masculino,group D,técnico,privado,Sim,724,776,810,706,740,Matematica,Não,751,751
+Masculino,group D,técnico,publico,Sim,820,800,798,860,853,Computação,Não,826,826
+Masculino,group D,técnico,privado,Sim,840,852,870,800,913,Matematica,Não,855,855
+Feminino,group E,técnico,publico,Sim,680,734,570,662,707,Medicina,Não,670,670
+Feminino,group E,técnico,privado,Sim,750,774,650,711,760,Medicina,Sim,729,801
+Feminino,group E,técnico,privado,Sim,851,860,825,810,895,Medicina,Não,848,848
+Feminino,group E,técnico,publico,Sim,866,880,830,920,800,Computação,Não,859,859
+Feminino,group E,técnico,privado,Sim,880,945,790,860,920,Matematica,Não,879,879
+Feminino,group E,técnico,privado,Sim,890,927,950,957,997,Medicina,Não,944,944
+Feminino,group E,técnico,privado,Sim,1000,950,930,935,990,Computação,Não,961,961
+Masculino,group E,técnico,publico,Sim,430,440,460,391,400,Matematica,Não,424,424
+Masculino,group E,técnico,privado,Sim,566,530,626,590,633,Matematica,Não,589,589
+Masculino,group E,técnico,privado,Sim,612,582,622,644,657,Computação,Não,623,623
+Masculino,group E,técnico,privado,Sim,630,640,668,595,700,Computação,Sim,646,710
+Masculino,group E,técnico,publico,Sim,693,688,770,734,780,Computação,Não,733,733
+Masculino,group E,técnico,publico,Sim,735,805,910,810,910,Computação,Não,834,834
+Masculino,group E,técnico,privado,Sim,748,681,710,667,640,Medicina,Não,689,689
+Masculino,group E,técnico,publico,Sim,744,721,780,784,704,Medicina,Não,746,746
+Masculino,group E,técnico,privado,Sim,810,790,818,850,753,Computação,Não,804,804
+Masculino,group E,técnico,privado,Sim,825,880,974,802,878,Computação,Não,871,871
+Masculino,group E,técnico,privado,Sim,857,827,941,790,836,Matematica,Não,850,850
+Masculino,group E,técnico,publico,Sim,1000,932,1000,920,916,Matematica,Não,953,953
