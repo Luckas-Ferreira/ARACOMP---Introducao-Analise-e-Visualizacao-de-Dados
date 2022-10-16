@@ -1,0 +1,1001 @@
+escolaridade,etnia,gênero,curso_preparatório,tipo_escolaridade,linguagens_nota,redação_nota,matemática_nota,humanas_nota,ciências_nota,curso_escolhido,criterio regional
+Feminino,group A,bacharelado,privado,none,490.0,510.0,515.0,453.0,460.0,Computação,0
+Feminino,group A,bacharelado,privado,none,590.0,645-0,454.0,576.0,495.0,Computação,0
+Feminino,group A,bacharelado,privado,none,720.0,705.0,590-0,765.0,590.0,Medicina,0
+Masculino,group A,bacharelado,privado,none,603.0,580.0,640.0,645.0,666.0,Medicina,0
+Masculino,group A,bacharelado,privado,none,644.0,620:0,662.0,587.0,696.0,Matematica,0
+Masculino,group A,bacharelado,privado,none,670.0,685-0,770.0,723.0,671.0,Matematica,0
+Masculino,group A,bacharelado,publico,none,720.0,651.0,622.0,640.0,580.0,Computação,0
+Masculino,group A,bacharelado,privado,none,966.0,920.0,916.0,990.0,970.0,Computação,0
+Feminino,group B,bacharelado,privado,none,651-0,690.0,523.0,728.0,550.0,Medicina,0
+Feminino,group B,bacharelado,privado,none,728.0,705.0,610.0,760.0,710.0,Matematica,0
+Feminino,group B,bacharelado,privado,none,721.0,747.0,722.0,,786.0,Medicina,0
+Feminino,group B,bacharelado ,publico,none,790.0,760.0,780.0,827.0,720.0,Matematica,0
+Feminino,group B,bacharelado,privado,none,840.0,800.0,751.0,774.0,834.0,Computação,0
+Feminino,group B,bacharelado,publico,none,850.0,823.0,752.0,797.0,847.0,Medicina,0
+Feminino,group B,bacharelado,publico,none,858-0,875.0,775.0,814.0,770.0,Medicina,0
+Feminino,group B,bacharelado,privado,none,860.0,830 0,670-0,800.0,703.0,Matematica,0
+Feminino,group B,bacharelado,privado,none,973.0,960.0,976 0,927.0,910.0,Computação,0
+Masculino,group B,bacharelado ,publico,none,510.0,463.0,480.0,440.0,520.0,Medicina,0
+Masculino,group B,bacharelado,privado,none,543-0,510.0,591.0,480.0,600.0,Matematica,0
+Masculino,group B,bacharelado,publico,none,568.0,577-0,730.0,520.0,706.0,Medicina,0
+Masculino,group B,bacharelado,publico,none,590.0,543.0,558.0,528.0,600.0,Medicina,0
+Masculino,group B,bacharelado ,privado,none,605 0,572.0,666.0,540.0,678.0,Matematica,0
+Masculino,group B,bacharelado,publico,none,630.0,563.0,620-0,,546.0,Medicina,0
+Masculino,group B,bacharelado ,privado,none,717 0,690.0,630-0,656.0,616.0,Medicina,0
+Masculino,group B,bacharelado,publico,none,750-0,761.0,882.0,710.0,870.0,Matematica,0
+Feminino,group C,bacharelado ,publico,none,608.0,596.0,500.0,550.0,497.0,Computação,0
+Feminino,group C,bacharelado ,publico,none,621 0,617-0,433.0,570.0,476.0,Medicina,1
+Feminino,group C,bacharelado,publico,none,630.0,626.0,443.0,585.0,483.0,Medicina,0
+Feminino,group C,bacharelado,privado,none,695.0,756.0,670.0,678.0,660.0,Medicina,0
+Feminino,group C,bacharelado  ,privado,none,720.0,740.0,650:0,687.0,750.0,Matematica,0
+Feminino,group C,bacharelado,privado,none,752 0,810.0,630.0,736.0,677.0,Matematica,0
+Feminino,group C,bacharelado,publico,none,755.0,723.0,670 0,780.0,755.0,Medicina,0
+Feminino,group C,bacharelado,publico,none,780.0,790-0,623.0,740.0,760.0,Computação,0
+Feminino,group C,bacharelado,privado,none,790.0,810.0,650.0,855.0,680.0,Medicina,0
+Feminino,group C,bacharelado ,privado,none,888.0,872.0,770.0,835.0,870.0,Matematica,0
+Feminino,group C,bacharelado,privado,none,887.0,900.0,810.0,,802.0,Matematica,0
+Feminino,group C,bacharelado,privado,none,920.0,875.0,861:0,940.0,920.0,Medicina,0
+Feminino,group C,bacharelado,privado,none,931.0,957.0,830.0,890.0,946.0,Medicina,0
+Masculino,group C,bacharelado,privado,none,550.0,482.0,585-0,470.0,581.0,Computação,0
+Masculino,group C,bacharelado,publico,none,560.0,475.0,370 0,560.0,370.0,Medicina,1
+Masculino,group C,bacharelado,publico,none,586.0,555.0,530.0,613.0,590.0,Matematica,0
+Masculino,group C,bacharelado,privado,none,631.0,610.0,694.0,677.0,700.0,Computação,0
+Masculino,group C,bacharelado,publico,none,665.0,610.0,616.0,680.0,560.0,Computação,1
+Masculino,group C,bacharelado,privado,none,788.0,730-0,835.0,710.0,837.0,Matematica,0
+Masculino,group C,bacharelado,privado,none,830-0,860.0,865 0,890.0,814.0,Computação,0
+Feminino,group D,bacharelado ,publico,none,416.0,474.0,290.0,390.0,332.0,Computação,0
+Feminino,group D,bacharelado,privado,none,670.0,627.0,650.0,607.0,587.0,Matematica,0
+Feminino,group D,bacharelado,privado,none,700.0,730.0,590-0,670.0,710.0,Matematica,0
+Feminino,group D,bacharelado,publico,none,725.0,740:0,626.0,784.0,631.0,Medicina,0
+Feminino,group D,bacharelado,publico,none,735.0,780.0,630.0,800.0,761.0,Medicina,0
+Feminino,group D,bacharelado ,publico,none,794.0,843.0,730 0,860.0,848.0,Computação,0
+Feminino,group D,bacharelado,privado,none,820.0,790.0,780:0,760.0,842.0,Medicina,0
+Feminino,group D,bacharelado,privado,none,890.0,890.0,790-0,842.0,795.0,Computação,0
+Feminino,group D,bacharelado ,publico,none,900.0,930.0,783:0,960.0,801.0,Computação,0
+Feminino,group D,bacharelado,privado,none,1000.0,1000.0,898.0,1000.0,1000.0,Medicina,0
+Masculino,group D,bacharelado,publico,none,420.0,480.0,501-0,400.0,544.0,Computação,0
+Masculino,group D,bacharelado,publico,none,466.0,440.0,552.0,503.0,557.0,Medicina,0
+Masculino,group D,bacharelado,privado,none,490 0,474.0,540.0,536.0,560.0,Medicina,0
+Masculino,group D,bacharelado ,privado,none,585.0,570.0,695-0,530.0,681.0,Computação,0
+Masculino,group D,bacharelado,publico,none,664.0,674.0,630 0,710.0,706.0,Computação,1
+Masculino,group D,bacharelado,publico,none,683.0,670.0,688.0,720.0,738.0,Medicina,0
+Masculino,group D,bacharelado,privado,none,730.0,740 0,757.0,690.0,804.0,Computação,0
+Masculino,group D,bacharelado ,privado,none,737.0,720.0,803.0,688.0,810.0,Computação,0
+Masculino,group D,bacharelado,privado,none,780.0,834 0,880.0,760.0,914.0,Medicina,1
+Feminino,group E,bacharelado ,privado,none,453:0,384.0,371.0,370.0,438.0,Medicina,0
+Feminino,group E,bacharelado,publico,none,581.0,625 0,611.0,657.0,670.0,Matematica,0
+Feminino,group E,bacharelado,privado,none,730.0,706.0,640.0,670.0,720.0,Medicina,0
+Feminino,group E,bacharelado,privado,none,735 0,750.0,652.0,690.0,754.0,Matematica,0
+Feminino,group E,bacharelado ,privado,none,830.0,831.0,808.0,784.0,762.0,Matematica,0
+Feminino,group E,bacharelado,privado,none,1000.0,1000 0,1000 0,1000.0,954.0,Computação,0
+Masculino,group E,bacharelado,privado,none,620.0,620.0,822.0,574.0,675.0,Computação,0
+Masculino,group E,bacharelado,privado,none,681.0,643:0,683.0,710.0,712.0,Computação,0
+Feminino,group A,ensino médio,privado,none,682.0,632.0,618.0,700.0,574.0,Medicina,0
+Feminino,group A,ensino médio,privado,none,734.0,730.0,550.0,683.0,593.0,Matematica,0
+Masculino,group A,ensino médio,privado,none,438.0,470:0,570.0,400.0,570.0,Medicina,0
+Masculino,group A,ensino médio ,publico,none,455.0,417-0,484.0,380.0,500.0,Medicina,0
+Masculino,group A,ensino médio ,publico,none,475:0,494.0,453.0,430.0,428.0,Medicina,1
+Masculino,group A,ensino médio,privado,none,510.0,540.0,577.0,573.0,610.0,Computação,0
+Masculino,group A,ensino médio ,privado,none,522.0,460.0,590.0,,470.0,Matematica,0
+Masculino,group A,ensino médio,publico,none,586 0,440.0,533 0,561.0,430.0,Computação,0
+Masculino,group A,ensino médio,privado,none,630.0,620.0,638.0,677.0,570.0,Medicina,0
+Masculino,group A,ensino médio,privado,none,700.0,662.0,680.0,631.0,624.0,Matematica,1
+Masculino,group A,ensino médio,privado,none,748.0,641.0,714 0,740.0,620.0,Computação,0
+Feminino,group B,ensino médio,publico,none,247.0,230:0,83.0,190.0,100.0,Computação,0
+Feminino,group B,ensino médio,privado,none,520.0,510.0,420.0,560.0,412.0,Medicina,0
+Feminino,group B,ensino médio,privado,none,538.0,554.0,508.0,496.0,478.0,Medicina,0
+Feminino,group B,ensino médio,publico,none,607.0,503.0,388.0,602.0,390.0,Medicina,0
+Feminino,group B,ensino médio,privado,none,622 0,607.0,480.0,560.0,490.0,Matematica,0
+Feminino,group B,ensino médio,privado,none,624.0,595.0,588.0,658.0,530.0,Matematica,0
+Feminino,group B,ensino médio,privado,none,622.0,630.0,627.0,674.0,680.0,Medicina,0
+Feminino,group B,ensino médio ,privado,none,645.0,681.0,540.0,717.0,567.0,Matematica,0
+Feminino,group B,ensino médio,privado,none,640.0,620:0,650.0,680.0,693.0,Matematica,0
+Feminino,group B,ensino médio,publico,none,678.0,631 0,500.0,600.0,510.0,Computação,0
+Feminino,group B,ensino médio,privado,none,688.0,618.0,580.0,600.0,542.0,Computação,1
+Feminino,group B,ensino médio,publico,none,726.0,687.0,600.0,750.0,690.0,Matematica,0
+Feminino,group B,ensino médio,privado,none,720.0,700.0,660.0,765.0,630.0,Matematica,0
+Feminino,group B,ensino médio,privado,none,720.0,723-0,745.0,777.0,788.0,Medicina,0
+Feminino,group B,ensino médio,publico,none,730.0,710.0,641-0,673.0,620.0,Computação,0
+Feminino,group B,ensino médio,privado,none,814.0,733.0,650.0,726.0,746.0,Matematica,0
+Feminino,group B,ensino médio,publico,none,875.0,820.0,710.0,800.0,820.0,Computação,0
+Feminino,group B,ensino médio,privado,none,910 0,890.0,810.0,850.0,905.0,Computação,0
+Feminino,group B,ensino médio ,privado,none,950.0,860.0,870.0,950.0,925.0,Medicina,0
+Masculino,group B,ensino médio ,publico,none,242.0,152.0,300.0,151.0,178.0,Medicina,0
+Masculino,group B,ensino médio,publico,none,290.0,270.0,360 0,230.0,370.0,Matematica,1
+Masculino,group B,ensino médio,publico,none,450.0,450.0,490.0,503.0,520.0,Medicina,0
+Masculino,group B,ensino médio,privado,none,461.0,422.0,470-0,393.0,390.0,Matematica,0
+Masculino,group B,ensino médio,privado,none,484.0,492:0,520.0,530.0,453.0,Matematica,0
+Masculino,group B,ensino médio,privado,none,487.0,514.0,577.0,453.0,490.0,Medicina,0
+Masculino,group B,ensino médio ,publico,none,487.0,470.0,630.0,430.0,607.0,Medicina,0
+Masculino,group B,ensino médio,privado,none,550.0,541.0,621.0,500.0,636.0,Matematica,0
+Masculino,group B,ensino médio,privado,none,580.0,470.0,590.0,574.0,582.0,Medicina,0
+Masculino,group B,ensino médio,privado,none,605.0,652.0,797.0,670.0,675.0,Computação,0
+Masculino,group B,ensino médio,privado,none,654.0,600.0,703.0,672.0,600.0,Medicina,0
+Masculino,group B,ensino médio ,privado,none,680.0,600 0,600.0,590.0,550.0,Matematica,1
+Masculino,group B,ensino médio,publico,none,770:0,700.0,660.0,693.0,734.0,Matematica,0
+Masculino,group B,ensino médio,privado,none,822.0,800.0,822.0,860.0,768.0,Medicina,0
+Feminino,group C,ensino médio ,privado,none,290.0,304.0,294.0,250.0,351.0,Medicina,0
+Feminino,group C,ensino médio,publico,none,416.0,430.0,330:0,377.0,430.0,Computação,0
+Feminino,group C,ensino médio,publico,none,427.0,396.0,347.0,458.0,421.0,Computação,0
+Feminino,group C,ensino médio,publico,none,467.0,437 0,410.0,494.0,370.0,Medicina,0
+Feminino,group C,ensino médio,publico,none,536.0,460:0,350.0,540.0,467.0,Matematica,1
+Feminino,group C,ensino médio,publico,none,537.0,430.0,360.0,530.0,345.0,Computação,0
+Feminino,group C,ensino médio,privado,none,590.0,628.0,540.0,564.0,536.0,Medicina,0
+Feminino,group C,ensino médio,publico,none,610-0,545.0,350.0,623.0,500.0,Medicina,0
+Feminino,group C,ensino médio,privado,none,613.0,525.0,447-0,612.0,437.0,Matematica,0
+Feminino,group C,ensino médio,publico,none,625.0,606.0,425.0,560.0,568.0,Matematica,0
+Feminino,group C,ensino médio ,publico,none,676.0,640:0,627.0,701.0,680.0,Computação,0
+Feminino,group C,ensino médio ,privado,none,680.0,724.0,600.0,750.0,710.0,Matematica,0
+Feminino,group C,ensino médio ,privado,none,696.0,743.0,635.0,670.0,741.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,694 0,670:0,651.0,630.0,610.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,710.0,761 0,667.0,692.0,760.0,Computação,0
+Feminino,group C,ensino médio,publico,none,720.0,645.0,531.0,731.0,640.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,720.0,680.0,590.0,750.0,692.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,720.0,708.0,613.0,765.0,711.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,730.0,630:0,618.0,730.0,675.0,Computação,0
+Feminino,group C,ensino médio ,publico,none,760.0,683.0,660.0,775.0,620.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,763-0,740.0,760.0,802.0,705.0,Computação,1
+Feminino,group C,ensino médio,privado,none,800.0,753.0,726.0,825.0,793.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,802.0,836.0,720 0,,728.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,840.0,820.0,818:0,880.0,760.0,Matematica,0
+Feminino,group C,ensino médio,privado,none,880.0,850.0,752.0,915.0,855.0,Computação,0
+Masculino,group C,ensino médio,publico,none,343.0,360.0,277.0,303.0,260.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,481.0,427:0,500.0,500.0,516.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,530.0,498.0,520-0,460.0,565.0,Medicina,0
+Masculino,group C,ensino médio,publico,none,530 0,520.0,590.0,487.0,618.0,Matematica,1
+Masculino,group C,ensino médio,privado,none,551.0,490.0,622.0,,505.0,Medicina,0
+Masculino,group C,ensino médio  ,publico,none,551.0,553.0,622.0,602.0,535.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,567:0,553.0,617:0,518.0,631.0,Medicina,0
+Masculino,group C,ensino médio ,privado,none,560.0,517.0,700.0,490.0,668.0,Medicina,0
+Masculino,group C,ensino médio,publico,none,602.0,550-0,610.0,620.0,633.0,Computação,0
+Masculino,group C,ensino médio,privado,none,600.0,530.0,682.0,527.0,660.0,Matematica,0
+Masculino,group C,ensino médio,privado,none,605.0,610:0,710.0,560.0,710.0,Computação,0
+Masculino,group C,ensino médio,publico,none,616.0,520.0,587.0,617.0,508.0,Matematica,0
+Masculino,group C,ensino médio,publico,none,668.0,597.0,665.0,586.0,573.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,667.0,652.0,714.0,704.0,730.0,Matematica,0
+Masculino,group C,ensino médio,privado,none,660 0,645.0,815:0,700.0,788.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,670.0,583.0,620 0,580.0,650.0,Medicina,0
+Masculino,group C,ensino médio ,privado,none,705.0,655.0,703.0,630.0,627.0,Computação,0
+Masculino,group C,ensino médio,publico,none,722.0,590.0,542.0,706.0,510.0,Matematica,0
+Masculino,group C,ensino médio,privado,none,748.0,710:0,705.0,682.0,760.0,Computação,0
+Masculino,group C,ensino médio,privado,none,750.0,690.0,900.0,772.0,743.0,Matematica,0
+Masculino,group C,ensino médio ,privado,none,771-0,744.0,840.0,803.0,845.0,Matematica,0
+Masculino,group C,ensino médio,privado,none,790:0,710.0,710.0,700.0,760.0,Medicina,0
+Masculino,group C,ensino médio,privado,none,810 0,710:0,755 0,,780.0,Matematica,0
+Masculino,group C,ensino médio,privado,none,890.0,865.0,882.0,924.0,826.0,Computação,0
+Feminino,group D,ensino médio,publico,none,525.0,460:0,390 0,541.0,372.0,Matematica,1
+Feminino,group D,ensino médio,privado,none,524.0,556.0,560 0,580.0,610.0,Medicina,0
+Feminino,group D,ensino médio,publico,none,572 0,520:0,493.0,503.0,450.0,Matematica,1
+Feminino,group D,ensino médio,privado,none,630.0,591.0,450.0,561.0,478.0,Computação,0
+Feminino,group D,ensino médio,privado,none,641.0,647.0,625:0,694.0,580.0,Medicina,0
+Feminino,group D,ensino médio ,privado,none,665-0,621.0,510.0,594.0,511.0,Computação,0
+Feminino,group D,ensino médio  ,privado,none,725.0,740 0,670.0,681.0,658.0,Computação,1
+Feminino,group D,ensino médio,privado,none,724.0,777.0,690.0,791.0,686.0,Matematica,0
+Feminino,group D,ensino médio,privado,none,771.0,730:0,691.0,700.0,666.0,Computação,0
+Feminino,group D,ensino médio,privado,none,810.0,807.0,787.0,852.0,847.0,Computação,0
+Feminino,group D,ensino médio,publico,none,920.0,843.0,730.0,830.0,730.0,Medicina,0
+Masculino,group D,ensino médio ,privado,none,340.0,365.0,466.0,300.0,360.0,Computação,0
+Masculino,group D,ensino médio,publico,none,390.0,342.0,424 0,416.0,430.0,Medicina,1
+Masculino,group D,ensino médio,privado,none,480.0,467.0,450.0,425.0,403.0,Medicina,0
+Masculino,group D,ensino médio ,privado,none,502-0,541.0,576.0,477.0,611.0,Matematica,0
+Masculino,group D,ensino médio,publico,none,518.0,482.0,448.0,540.0,510.0,Matematica,0
+Masculino,group D,ensino médio,privado,none,524.0,517-0,410:0,563.0,412.0,Medicina,0
+Masculino,group D,ensino médio,privado,none,527.0,426.0,530.0,424.0,530.0,Matematica,0
+Masculino,group D,ensino médio ,privado,none,522-0,526-0,546.0,470.0,480.0,Medicina,0
+Masculino,group D,ensino médio,privado,none,540.0,508.0,645.0,570.0,523.0,Medicina,0
+Masculino,group D,ensino médio ,publico,none,574.0,516 0,600.0,490.0,505.0,Computação,0
+Masculino,group D,ensino médio,publico,none,570.0,560.0,630-0,616.0,540.0,Medicina,0
+Masculino,group D,ensino médio ,privado,none,668.0,661.0,721.0,713.0,644.0,Medicina,0
+Masculino,group D,ensino médio,privado,none,690.0,634.0,666.0,610.0,700.0,Matematica,0
+Masculino,group D,ensino médio,publico,none,706.0,671.0,691.0,643.0,732.0,Matematica,0
+Masculino,group D,ensino médio,privado,none,700.0,700.0,704.0,650.0,655.0,Computação,0
+Masculino,group D,ensino médio ,publico,none,703.0,698.0,740.0,740.0,776.0,Matematica,0
+Masculino,group D,ensino médio,privado,none,738.0,683.0,760 0,754.0,771.0,Matematica,0
+Masculino,group D,ensino médio,publico,none,740.0,698:0,660.0,671.0,730.0,Matematica,0
+Masculino,group D,ensino médio,publico,none,748.0,660 0,750.0,750.0,762.0,Medicina,0
+Masculino,group D,ensino médio,privado,none,750.0,713.0,697.0,680.0,751.0,Computação,0
+Masculino,group D,ensino médio,privado,none,780:0,750-0,880.0,720.0,760.0,Medicina,0
+Masculino,group D,ensino médio,privado,none,876.0,790.0,890.0,880.0,890.0,Medicina,0
+Feminino,group E,ensino médio,publico,none,450.0,404.0,417.0,385.0,460.0,Matematica,0
+Feminino,group E,ensino médio ,privado,none,500.0,478 0,507.0,441.0,540.0,Matematica,0
+Feminino,group E,ensino médio,publico,none,580.0,577.0,576.0,620.0,520.0,Medicina,0
+Feminino,group E,ensino médio,publico,none,621 0,687.0,640-0,700.0,712.0,Medicina,0
+Feminino,group E,ensino médio,privado,none,765.0,730.0,740.0,702.0,794.0,Matematica,0
+Feminino,group E,ensino médio,privado,none,810.0,715.0,740.0,712.0,786.0,Matematica,0
+Feminino,group E,ensino médio,privado,none,862.0,795.0,757.0,876.0,728.0,Medicina,0
+Feminino,group E,ensino médio,privado,none,935.0,902.0,990.0,870.0,890.0,Matematica,0
+Masculino,group E,ensino médio,privado,none,558.0,568.0,704.0,600.0,680.0,Computação,0
+Masculino,group E,ensino médio,publico,none,563 0,515 0,553.0,586.0,580.0,Matematica,0
+Masculino,group E,ensino médio,privado,none,641.0,575-0,730.0,560.0,706.0,Matematica,0
+Masculino,group E,ensino médio,privado,none,730.0,692 0,840.0,665.0,823.0,Matematica,0
+Masculino,group E,ensino médio,privado,none,730.0,710.0,941.0,670.0,772.0,Computação,0
+Masculino,group E,ensino médio ,privado,none,760.0,650 0,800.0,660.0,672.0,Medicina,0
+Feminino,group A,mestrado,privado,none,535.0,583.0,504.0,510.0,490.0,Medicina,0
+Feminino,group A,mestrado,publico,none,672.0,730:0,501.0,655.0,560.0,Medicina,0
+Masculino,group A,mestrado,publico,none,740.0,720.0,730.0,780.0,670.0,Computação,0
+Feminino,group B,mestrado,privado,none,900.0,840.0,770.0,920.0,755.0,Medicina,0
+Feminino,group B,mestrado,privado,none,957.0,932.0,900.0,,970.0,Computação,0
+Masculino,group B,mestrado,publico,none,533.0,520.0,494.0,,458.0,Matematica,0
+Feminino,group C,mestrado,publico,none,586.0,540.0,400.0,510.0,520.0,Matematica,0
+Feminino,group C,mestrado,publico,none,655.0,610.0,527.0,583.0,511.0,Computação,0
+Feminino,group C,mestrado,privado,none,787 0,740.0,730.0,810.0,790.0,Computação,0
+Masculino,group C,mestrado,privado,none,570.0,590.0,670.0,,682.0,Matematica,0
+Masculino,group C,mestrado,publico,none,590.0,500-0,542.0,593.0,470.0,Medicina,0
+Masculino,group C,mestrado,publico,none,672:0,660.0,610.0,624.0,690.0,Computação,0
+Masculino,group C,mestrado ,privado,none,670.0,678:0,710-0,624.0,645.0,Computação,0
+Masculino,group C,mestrado,privado,none,720.0,692.0,790.0,750.0,690.0,Medicina,1
+Masculino,group C,mestrado ,privado,none,785.0,770.0,798.0,735.0,836.0,Matematica,0
+Masculino,group C,mestrado,publico,none,810.0,714.0,793.0,710.0,804.0,Medicina,0
+Feminino,group D,mestrado,publico,none,593.0,540.0,401.0,520.0,422.0,Medicina,0
+Feminino,group D,mestrado,privado,none,600.0,631.0,540:0,667.0,646.0,Computação,0
+Feminino,group D,mestrado,privado,none,617.0,680.0,530.0,695.0,661.0,Matematica,0
+Feminino,group D,mestrado,privado,none,630 0,667.0,648-0,600.0,706.0,Medicina,0
+Feminino,group D,mestrado,privado,none,646.0,708.0,558.0,626.0,680.0,Computação,0
+Feminino,group D,mestrado ,privado,none,703 0,750.0,620.0,,637.0,Medicina,0
+Feminino,group D,mestrado,privado,none,796.0,826.0,740.0,850.0,730.0,Medicina,0
+Feminino,group D,mestrado,privado,none,913.0,960.0,782.0,985.0,825.0,Computação,0
+Feminino,group D,mestrado ,privado,none,1000.0,1000.0,870.0,1000.0,880.0,Medicina,0
+Feminino,group D,mestrado,privado,none,1000.0,1000.0,920.0,954.0,910.0,Matematica,0
+Masculino,group D,mestrado,privado,none,706.0,753.0,730:0,680.0,690.0,Computação,0
+Masculino,group D,mestrado,privado,none,800-0,720.0,802.0,713.0,711.0,Computação,0
+Masculino,group D,mestrado,privado,none,815.0,840.0,810.0,870.0,887.0,Medicina,1
+Masculino,group D,mestrado,privado,none,810.0,847.0,954.0,,958.0,Computação,0
+Masculino,group D,mestrado,privado,none,820-0,747.0,822:0,838.0,730.0,Computação,1
+Masculino,group D,mestrado ,privado,none,840-0,894.0,850.0,910.0,820.0,Matematica,0
+Masculino,group D,mestrado,privado,none,840-0,824.0,890:0,880.0,912.0,Matematica,0
+Feminino,group E,mestrado,publico,none,566.0,540.0,450.0,502.0,441.0,Matematica,0
+Feminino,group E,mestrado,privado,none,680.0,681.0,624.0,636.0,606.0,Medicina,0
+Feminino,group E,mestrado,publico,none,720.0,650.0,560 0,730.0,665.0,Medicina,0
+Feminino,group E,mestrado,publico,none,864.0,872.0,813-0,820.0,893.0,Computação,0
+Feminino,group E,mestrado,privado,none,921.0,912.0,816.0,960.0,811.0,Computação,1
+Masculino,group E,mestrado,privado,none,850.0,840.0,900 0,890.0,822.0,Computação,0
+Feminino,group A,outros ensino médio,publico,none,430.0,430.0,384-0,488.0,464.0,Matematica,0
+Feminino,group A,outros ensino médio,publico,none,450-0,454.0,440 0,400.0,503.0,Medicina,0
+Feminino,group A,outros ensino médio,publico,none,590.0,500.0,476.0,590.0,430.0,Medicina,0
+Feminino,group A,outros ensino médio,publico,none,640.0,588:0,440.0,660.0,563.0,Matematica,0
+Feminino,group A,outros ensino médio,privado,none,660.0,650.0,480.0,708.0,620.0,Computação,0
+Feminino,group A,outros ensino médio,publico,none,736.0,690-0,590.0,765.0,594.0,Matematica,0
+Feminino,group A,outros ensino médio,privado,none,834 0,770.0,710 0,850.0,794.0,Medicina,0
+Masculino,group A,outros ensino médio,privado,none,310:0,364:0,515.0,380.0,380.0,Medicina,0
+Masculino,group A,outros ensino médio,publico,none,390.0,347:0,394.0,326.0,310.0,Matematica,0
+Masculino,group A,outros ensino médio,publico,none,464.0,437.0,550.0,490.0,448.0,Matematica,1
+Masculino,group A,outros ensino médio,privado,none,505.0,434.0,647.0,420.0,590.0,Computação,0
+Masculino,group A,outros ensino médio,privado,none,548.0,483.0,530.0,562.0,562.0,Medicina,0
+Masculino,group A,outros ensino médio,publico,none,590.0,538.0,650.0,616.0,640.0,Matematica,0
+Masculino,group A,outros ensino médio,privado,none,622 0,501.0,710.0,610.0,660.0,Medicina,0
+Masculino,group A,outros ensino médio,publico,none,727 0,640 0,680-0,734.0,611.0,Medicina,0
+Masculino,group A,outros ensino médio,publico,none,823.0,730.0,790.0,730.0,714.0,Computação,0
+Feminino,group B,outros ensino médio,publico,none,321.0,280.0,188.0,,280.0,Computação,1
+Feminino,group B,outros ensino médio,publico,none,384.0,270-0,245.0,370.0,314.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,none,460.0,460.0,378.0,,360.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,none,550 0,513.0,410.0,483.0,510.0,Computação,0
+Feminino,group B,outros ensino médio,publico,none,580.0,550.0,491 0,527.0,470.0,Computação,0
+Feminino,group B,outros ensino médio,privado,none,640.0,660-0,620.0,600.0,692.0,Computação,0
+Feminino,group B,outros ensino médio,privado,none,640.0,724.0,704.0,630.0,762.0,Computação,0
+Feminino,group B,outros ensino médio,privado,none,677.0,720.0,570:0,743.0,597.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,none,696.0,680.0,661.0,640.0,627.0,Medicina,0
+Feminino,group B,outros ensino médio,privado,none,790.0,790.0,730.0,746.0,818.0,Medicina,0
+Feminino,group B,outros ensino médio,publico,none,816.0,797.0,728.0,857.0,815.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,none,820.0,804-0,828.0,860.0,760.0,Medicina,0
+Feminino,group B,outros ensino médio,privado,none,890:0,820.0,670.0,908.0,690.0,Computação,0
+Masculino,group B,outros ensino médio,publico,none,525.0,450.0,480.0,535.0,412.0,Computação,0
+Masculino,group B,outros ensino médio,privado,none,546.0,532.0,685.0,580.0,663.0,Computação,0
+Masculino,group B,outros ensino médio,privado,none,631.0,573.0,745-0,556.0,607.0,Computação,0
+Masculino,group B,outros ensino médio,privado,none,648.0,610.0,671.0,,593.0,Computação,0
+Masculino,group B,outros ensino médio,privado,none,680.0,671.0,724:0,728.0,755.0,Medicina,0
+Masculino,group B,outros ensino médio,privado,none,848.0,750.0,883.0,841.0,765.0,Medicina,0
+Feminino,group C,outros ensino médio,publico,none,178.0,107.0,0.0,90.0,0.0,Computação,0
+Feminino,group C,outros ensino médio,publico,none,502.0,517-0,445.0,461.0,420.0,Computação,0
+Feminino,group C,outros ensino médio,publico,none,530.0,530.0,430.0,580.0,435.0,Computação,0
+Feminino,group C,outros ensino médio,privado,none,546.0,534.0,470.0,490.0,450.0,Computação,0
+Feminino,group C,outros ensino médio,publico,none,560.0,513.0,480.0,582.0,440.0,Medicina,0
+Feminino,group C,outros ensino médio,publico,none,585:0,520.0,480.0,503.0,450.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,none,637.0,560.0,490-0,645.0,580.0,Computação,0
+Feminino,group C,outros ensino médio,publico,none,650.0,625 0,550.0,682.0,640.0,Matematica,0
+Feminino,group C,outros ensino médio,privado,none,692:0,762.0,650.0,770.0,650.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,none,736.0,688.0,630.0,660.0,600.0,Matematica,0
+Feminino,group C,outros ensino médio,privado,none,730.0,733.0,695.0,680.0,660.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,none,756 0,783 0,690.0,728.0,683.0,Matematica,0
+Feminino,group C,outros ensino médio,privado,none,750.0,826.0,743.0,740.0,737.0,Computação,0
+Feminino,group C,outros ensino médio,publico,none,860-0,808.0,657.0,780.0,673.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,none,912.0,880.0,770:0,857.0,776.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,none,490 0,412.0,490.0,500.0,505.0,Medicina,1
+Masculino,group C,outros ensino médio,privado,none,528.0,444.0,513.0,538.0,530.0,Matematica,0
+Masculino,group C,outros ensino médio,publico,none,570.0,565.0,610.0,610.0,644.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,none,582 0,510 0,646.0,590.0,635.0,Medicina,0
+Masculino,group C,outros ensino médio,privado,none,610 0,540.0,570.0,620.0,500.0,Medicina,0
+Masculino,group C,outros ensino médio,publico,none,632.0,543.0,687.0,547.0,560.0,Medicina,0
+Masculino,group C,outros ensino médio,privado,none,648.0,550.0,620.0,550.0,531.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,none,663.0,636.0,730.0,691.0,730.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,none,660.0,660.0,730.0,610.0,640.0,Medicina,0
+Masculino,group C,outros ensino médio,publico,none,710.0,650:0,690.0,733.0,626.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,none,725.0,620.0,754.0,720.0,740.0,Computação,1
+Masculino,group C,outros ensino médio,publico,none,767.0,656.0,790 0,756.0,670.0,Medicina,0
+Feminino,group D,outros ensino médio,publico,none,340.0,325.0,270.0,286.0,240.0,Matematica,0
+Feminino,group D,outros ensino médio,publico,none,546.0,537.0,486.0,490.0,450.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,none,580 0,540.0,480.0,,560.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,none,587.0,597.0,591.0,630.0,540.0,Computação,0
+Feminino,group D,outros ensino médio,privado,none,632.0,616.0,513.0,676.0,513.0,Computação,0
+Feminino,group D,outros ensino médio,publico,none,645.0,593.0,500.0,665.0,602.0,Matematica,1
+Feminino,group D,outros ensino médio,privado,none,670.0,610.0,590.0,591.0,650.0,Computação,1
+Feminino,group D,outros ensino médio,privado,none,713.0,750.0,680.0,686.0,660.0,Matematica,0
+Feminino,group D,outros ensino médio,privado,none,725.0,806 0,590.0,710.0,640.0,Matematica,0
+Feminino,group D,outros ensino médio,privado,none,726.0,717.0,762:0,676.0,680.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,none,821.0,815.0,650.0,775.0,682.0,Medicina,1
+Feminino,group D,outros ensino médio,publico,none,844.0,842.0,673.0,790.0,700.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,none,840 0,851.0,737.0,801.0,748.0,Matematica,0
+Feminino,group D,outros ensino médio,privado,none,860.0,825.0,732.0,890.0,723.0,Computação,0
+Feminino,group D,outros ensino médio,privado,none,900.0,822.0,800.0,817.0,760.0,Computação,0
+Feminino,group D,outros ensino médio,privado,none,974.0,960-0,816.0,1000.0,940.0,Computação,0
+Masculino,group D,outros ensino médio,publico,none,377.0,374.0,450.0,321.0,464.0,Matematica,0
+Masculino,group D,outros ensino médio,publico,none,426.0,411.0,594.0,370.0,550.0,Medicina,0
+Masculino,group D,outros ensino médio,privado,none,470.0,440.0,550.0,,551.0,Medicina,0
+Masculino,group D,outros ensino médio,publico,none,493.0,528.0,627.0,554.0,527.0,Medicina,0
+Masculino,group D,outros ensino médio,publico,none,546:0,527.0,562.0,480.0,595.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,596.0,540.0,601.0,520.0,625.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,none,662.0,610.0,694.0,,600.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,663.0,623.0,730.0,692.0,624.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,670.0,610.0,625.0,590.0,560.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,730.0,700.0,868.0,761.0,735.0,Computação,1
+Masculino,group D,outros ensino médio,privado,none,742.0,720-0,748.0,682.0,780.0,Medicina,0
+Masculino,group D,outros ensino médio,privado,none,744.0,690.0,750.0,675.0,775.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,780-0,780.0,810.0,730.0,740.0,Computação,1
+Masculino,group D,outros ensino médio,privado,none,805.0,750.0,860.0,730.0,864.0,Computação,0
+Masculino,group D,outros ensino médio,privado,none,840 0,808.0,840 0,870.0,777.0,Matematica,0
+Feminino,group E,outros ensino médio,publico,none,346.0,388.0,320.0,310.0,308.0,Medicina,0
+Feminino,group E,outros ensino médio,publico,none,493 0,452.0,380.0,527.0,470.0,Matematica,0
+Feminino,group E,outros ensino médio,publico,none,740-0,721-0,746 0,780.0,680.0,Medicina,0
+Feminino,group E,outros ensino médio,publico,none,794.0,777.0,727.0,734.0,800.0,Computação,0
+Feminino,group E,outros ensino médio,privado,none,795.0,800 0,770.0,846.0,731.0,Medicina,0
+Masculino,group E,outros ensino médio,privado,none,267.0,228:0,302.0,196.0,315.0,Medicina,0
+Masculino,group E,outros ensino médio,privado,none,678.0,617.0,820 0,690.0,777.0,Computação,0
+Masculino,group E,outros ensino médio,privado,none,870.0,787.0,920.0,873.0,800.0,Computação,0
+Masculino,group E,outros ensino médio,privado,none,882.0,782.0,943.0,788.0,910.0,Medicina,0
+Feminino,group A,superior,privado,none,580.0,640.0,560.0,563.0,650.0,Matematica,0
+Feminino,group A,superior,publico,none,600.0,575.0,612.0,630.0,540.0,Matematica,0
+Feminino,group A,superior ,privado,none,630.0,677.0,547:0,600.0,660.0,Medicina,0
+Feminino,group A,superior,publico,none,650.0,550.0,490.0,655.0,571.0,Matematica,1
+Feminino,group A,superior,privado,none,705.0,670.0,588.0,730.0,680.0,Medicina,0
+Feminino,group A,superior,privado,none,840.0,820.0,690.0,883.0,810.0,Medicina,0
+Masculino,group A,superior,publico,none,230.0,197.0,280.0,260.0,290.0,Computação,0
+Masculino,group A,superior,privado,none,432.0,430.0,535.0,384.0,532.0,Medicina,0
+Masculino,group A,superior,publico,none,606.0,577.0,580.0,635.0,635.0,Matematica,0
+Masculino,group A,superior  ,privado,none,676.0,690.0,690.0,734.0,743.0,Computação,0
+Masculino,group A,superior,publico,none,810.0,740.0,750.0,821.0,800.0,Medicina,0
+Feminino,group B,superior,privado,none,380.0,322.0,196.0,302.0,310.0,Medicina,0
+Feminino,group B,superior ,publico,none,530 0,557.0,454.0,591.0,450.0,Medicina,0
+Feminino,group B,superior,publico,none,613.0,661.0,580.0,596.0,574.0,Computação,0
+Feminino,group B,superior,privado,none,653-0,612.0,637.0,680.0,677.0,Computação,1
+Feminino,group B,superior,privado,none,670.0,670.0,621.0,724.0,595.0,Medicina,0
+Feminino,group B,superior ,publico,none,682.0,660.0,610.0,627.0,581.0,Matematica,0
+Feminino,group B,superior,privado,none,750.0,783.0,700.0,725.0,790.0,Matematica,0
+Feminino,group B,superior,publico,none,812.0,760.0,740.0,830.0,808.0,Medicina,0
+Feminino,group B,superior,privado,none,850.0,877.0,820:0,910.0,900.0,Medicina,0
+Feminino,group B,superior,privado,none,864 0,920.0,790.0,941.0,914.0,Matematica,0
+Masculino,group B,superior,publico,none,390.0,348.0,410.0,320.0,327.0,Matematica,0
+Masculino,group B,superior ,publico,none,435:0,393.0,400 0,360.0,458.0,Medicina,0
+Masculino,group B,superior,privado,none,430.0,410.0,470.0,370.0,496.0,Computação,0
+Masculino,group B,superior,privado,none,500.0,450.0,588.0,430.0,461.0,Medicina,1
+Masculino,group B,superior,privado,none,523.0,511.0,541.0,560.0,471.0,Matematica,1
+Masculino,group B,superior,publico,none,540-0,450.0,544.0,543.0,440.0,Matematica,0
+Masculino,group B,superior,privado,none,548.0,550.0,697.0,590.0,671.0,Medicina,1
+Masculino,group B,superior,publico,none,550.0,472.0,551.0,460.0,561.0,Medicina,0
+Masculino,group B,superior,publico,none,600:0,601:0,601.0,555.0,655.0,Computação,0
+Masculino,group B,superior,privado,none,614.0,570.0,623-0,544.0,546.0,Matematica,0
+Masculino,group B,superior,privado,none,650.0,603.0,660.0,580.0,581.0,Medicina,0
+Masculino,group B,superior,privado,none,678.0,670.0,793.0,620.0,780.0,Computação,0
+Masculino,group B,superior ,publico,none,684-0,650.0,752.0,627.0,750.0,Medicina,0
+Feminino,group C,superior,publico,none,395.0,330.0,225.0,410.0,338.0,Medicina,0
+Feminino,group C,superior ,publico,none,394.0,338.0,321.0,310.0,270.0,Matematica,0
+Feminino,group C,superior,publico,none,440.0,430:0,352-0,480.0,340.0,Matematica,0
+Feminino,group C,superior,privado,none,480.0,520.0,540.0,550.0,580.0,Matematica,1
+Feminino,group C,superior,privado,none,580.0,587.0,521.0,638.0,500.0,Computação,0
+Feminino,group C,superior ,privado,none,592.0,660.0,583.0,586.0,575.0,Matematica,1
+Feminino,group C,superior,privado,none,620.0,560.0,538:0,540.0,608.0,Computação,0
+Feminino,group C,superior,publico,none,625.0,640.0,597.0,684.0,670.0,Computação,0
+Feminino,group C,superior ,publico,none,641.0,661.0,460.0,700.0,514.0,Computação,0
+Feminino,group C,superior,privado,none,640.0,650.0,540.0,691.0,653.0,Medicina,0
+Feminino,group C,superior,privado,none,674.0,728 0,580.0,741.0,603.0,Medicina,0
+Feminino,group C,superior,publico,none,677.0,620.0,620.0,692.0,670.0,Matematica,0
+Feminino,group C,superior,privado,none,691.0,650.0,555.0,620.0,650.0,Computação,0
+Feminino,group C,superior,privado,none,698.0,696.0,624-0,640.0,713.0,Matematica,0
+Feminino,group C,superior,privado,none,710-0,700.0,595.0,660.0,702.0,Matematica,0
+Feminino,group C,superior ,privado,none,720.0,740.0,607.0,786.0,625.0,Matematica,0
+Feminino,group C,superior,publico,none,720 0,700.0,620.0,660.0,611.0,Medicina,0
+Feminino,group C,superior,privado,none,728.0,712 0,720.0,764.0,660.0,Matematica,1
+Feminino,group C,superior ,privado,none,744.0,743 0,630:0,790.0,743.0,Matematica,0
+Feminino,group C,superior,privado,none,760-0,780.0,730.0,726.0,701.0,Medicina,0
+Feminino,group C,superior,privado,none,780.0,762.0,695.0,820.0,674.0,Medicina,1
+Feminino,group C,superior,privado,none,800.0,827.0,734.0,767.0,838.0,Computação,0
+Feminino,group C,superior,privado,none,812.0,800.0,716.0,760.0,810.0,Matematica,0
+Feminino,group C,superior,publico,none,830.0,880.0,764.0,907.0,770.0,Computação,0
+Feminino,group C,superior,privado,none,833 0,900.0,830.0,824.0,811.0,Computação,0
+Feminino,group C,superior,privado,none,877.0,910.0,846 0,840.0,820.0,Computação,0
+Feminino,group C,superior,publico,none,907:0,912.0,775.0,950.0,797.0,Matematica,0
+Feminino,group C,superior,privado,none,906:0,940.0,820.0,878.0,934.0,Medicina,0
+Masculino,group C,superior,publico,none,280.0,270.0,355.0,232.0,363.0,Medicina,0
+Masculino,group C,superior,privado,none,397 0,370.0,533.0,330.0,400.0,Matematica,0
+Masculino,group C,superior,privado,none,416.0,420.0,596.0,370.0,560.0,Medicina,0
+Masculino,group C,superior ,privado,none,442.0,422 0,533.0,380.0,530.0,Medicina,0
+Masculino,group C,superior,privado,none,490.0,420.0,582.0,410.0,456.0,Matematica,0
+Masculino,group C,superior,publico,none,573.0,540.0,581.0,605.0,610.0,Medicina,0
+Masculino,group C,superior,publico,none,586.0,490-0,651.0,496.0,520.0,Computação,0
+Masculino,group C,superior ,privado,none,590 0,527.0,664.0,,548.0,Matematica,0
+Masculino,group C,superior,privado,none,608-0,584.0,593.0,647.0,530.0,Matematica,0
+Masculino,group C,superior,privado,none,610.0,622.0,617.0,570.0,560.0,Matematica,0
+Masculino,group C,superior,publico,none,610.0,544.0,634-0,530.0,537.0,Matematica,0
+Masculino,group C,superior,privado,none,630.0,600:0,633.0,660.0,560.0,Medicina,0
+Masculino,group C,superior ,privado,none,641.0,680.0,692.0,610.0,636.0,Matematica,0
+Masculino,group C,superior ,publico,none,647 0,663.0,800.0,600.0,683.0,Medicina,1
+Masculino,group C,superior,publico,none,680.0,610.0,682.0,690.0,700.0,Matematica,0
+Masculino,group C,superior,privado,none,744.0,610.0,730.0,725.0,721.0,Medicina,0
+Masculino,group C,superior,privado,none,742.0,766.0,916.0,700.0,892.0,Medicina,0
+Masculino,group C,superior,publico,none,770.0,730.0,745.0,700.0,790.0,Medicina,0
+Masculino,group C,superior,privado,none,783.0,750:0,760.0,818.0,700.0,Computação,0
+Masculino,group C,superior ,privado,none,870.0,818.0,840.0,790.0,775.0,Matematica,0
+Feminino,group D,superior,publico,none,587-0,600:0,495 0,546.0,607.0,Matematica,0
+Feminino,group D,superior,privado,none,582.0,540.0,512:0,,472.0,Medicina,0
+Feminino,group D,superior,privado,none,640-0,670.0,636.0,,606.0,Medicina,0
+Feminino,group D,superior,publico,none,650.0,612-0,491.0,680.0,500.0,Matematica,0
+Feminino,group D,superior ,publico,none,650-0,740.0,690.0,650.0,770.0,Medicina,0
+Feminino,group D,superior,publico,none,662.0,700.0,603-0,630.0,603.0,Computação,0
+Feminino,group D,superior,publico,none,672.0,622.0,580 0,693.0,650.0,Medicina,0
+Feminino,group D,superior,privado,none,686.0,774 0,774 0,680.0,721.0,Matematica,0
+Feminino,group D,superior ,privado,none,705.0,723.0,620:0,766.0,628.0,Computação,0
+Feminino,group D,superior,privado,none,701 0,717.0,650.0,660.0,733.0,Medicina,0
+Feminino,group D,superior,publico,none,711.0,696.0,555.0,750.0,670.0,Computação,0
+Feminino,group D,superior,publico,none,740.0,757-0,640.0,704.0,750.0,Computação,0
+Feminino,group D,superior ,privado,none,747 0,747.0,690.0,790.0,662.0,Computação,0
+Feminino,group D,superior,privado,none,778.0,770:0,690.0,726.0,680.0,Computação,0
+Feminino,group D,superior,publico,none,810.0,776.0,650:0,842.0,760.0,Matematica,0
+Feminino,group D,superior,publico,none,833.0,831.0,712.0,786.0,828.0,Medicina,0
+Feminino,group D,superior,publico,none,860.0,863.0,775.0,910.0,764.0,Medicina,0
+Feminino,group D,superior,privado,none,860.0,815.0,798.0,887.0,850.0,Computação,0
+Feminino,group D,superior ,privado,none,896.0,844.0,740:0,823.0,743.0,Medicina,0
+Feminino,group D,superior,publico,none,890.0,860.0,790.0,834.0,777.0,Matematica,0
+Feminino,group D,superior,privado,none,902.0,895.0,800.0,850.0,790.0,Medicina,0
+Feminino,group D,superior ,privado,none,1000.0,995:0,985.0,1000.0,1000.0,Computação,0
+Masculino,group D,superior,privado,none,425.0,382.0,400:0,,440.0,Medicina,0
+Masculino,group D,superior ,publico,none,470.0,560.0,614.0,562.0,640.0,Medicina,0
+Masculino,group D,superior,privado,none,490.0,524.0,716.0,467.0,677.0,Medicina,0
+Masculino,group D,superior,privado,none,541.0,533.0,443.0,580.0,430.0,Computação,0
+Masculino,group D,superior,publico,none,575:0,462.0,490-0,560.0,531.0,Computação,0
+Masculino,group D,superior ,publico,none,570:0,628.0,620:0,550.0,676.0,Matematica,1
+Masculino,group D,superior ,privado,none,570.0,586.0,720.0,530.0,601.0,Medicina,1
+Masculino,group D,superior,privado,none,585 0,520.0,550:0,605.0,487.0,Medicina,0
+Masculino,group D,superior,privado,none,597-0,625 0,680.0,655.0,602.0,Medicina,0
+Masculino,group D,superior,publico,none,610.0,600.0,637.0,650.0,670.0,Matematica,0
+Masculino,group D,superior ,publico,none,624 0,610.0,592.0,668.0,550.0,Computação,0
+Masculino,group D,superior,publico,none,627.0,643.0,770 0,680.0,760.0,Matematica,0
+Masculino,group D,superior,privado,none,633.0,590.0,600.0,660.0,654.0,Matematica,0
+Masculino,group D,superior,publico,none,631.0,580.0,700-0,653.0,596.0,Matematica,0
+Masculino,group D,superior ,privado,none,640.0,700.0,670.0,624.0,740.0,Medicina,0
+Masculino,group D,superior,privado,none,640.0,668.0,765.0,600.0,761.0,Computação,0
+Masculino,group D,superior,publico,none,663.0,600.0,698 0,681.0,591.0,Matematica,0
+Masculino,group D,superior,privado,none,716.0,730.0,760.0,678.0,690.0,Medicina,0
+Masculino,group D,superior ,privado,none,736.0,677.0,790.0,756.0,782.0,Matematica,0
+Masculino,group D,superior,privado,none,736.0,786.0,886.0,804.0,783.0,Medicina,0
+Masculino,group D,superior,privado,none,778.0,770.0,880.0,823.0,770.0,Medicina,0
+Masculino,group D,superior,privado,none,820.0,840.0,810.0,788.0,770.0,Medicina,0
+Feminino,group E,superior,publico,none,587 0,570.0,530.0,621.0,502.0,Matematica,0
+Feminino,group E,superior,privado,none,640.0,620.0,610.0,,671.0,Matematica,0
+Feminino,group E,superior ,privado,none,702.0,660.0,683.0,630.0,720.0,Medicina,0
+Feminino,group E,superior,privado,none,703:0,760.0,714-0,680.0,682.0,Medicina,0
+Feminino,group E,superior,privado,none,730.0,701.0,624 0,670.0,710.0,Computação,0
+Feminino,group E,superior,privado,none,762.0,750.0,670-0,803.0,662.0,Matematica,0
+Feminino,group E,superior,publico,none,762.0,704.0,716.0,781.0,650.0,Matematica,0
+Feminino,group E,superior,privado,none,782.0,800.0,760.0,,831.0,Computação,0
+Feminino,group E,superior,privado,none,857.0,930.0,873.0,941.0,950.0,Matematica,0
+Feminino,group E,superior ,privado,none,923.0,970.0,1000 0,990.0,1000.0,Matematica,0
+Masculino,group E,superior,privado,none,515.0,430.0,590.0,422.0,462.0,Computação,0
+Masculino,group E,superior ,privado,none,550.0,480:0,530.0,563.0,560.0,Computação,0
+Masculino,group E,superior ,privado,none,574.0,520.0,660.0,500.0,640.0,Matematica,1
+Masculino,group E,superior ,privado,none,600.0,590.0,681.0,552.0,585.0,Medicina,1
+Masculino,group E,superior,privado,none,602-0,540.0,690-0,620.0,568.0,Medicina,0
+Masculino,group E,superior,privado,none,676.0,670.0,768.0,726.0,660.0,Computação,0
+Masculino,group E,superior,privado,none,714.0,720 0,764.0,678.0,690.0,Medicina,0
+Masculino,group E,superior,privado,none,720.0,657.0,680.0,642.0,613.0,Computação,0
+Masculino,group E,superior,privado,none,760-0,742.0,862.0,703.0,850.0,Matematica,0
+Masculino,group E,superior,privado,none,770.0,710 0,840.0,793.0,720.0,Matematica,0
+Masculino,group E,superior ,privado,none,800.0,731.0,831.0,720.0,830.0,Matematica,0
+Masculino,group E,superior,privado,none,876.0,820-0,970.0,805.0,950.0,Matematica,0
+Masculino,group E,superior,publico,none,900.0,830.0,930.0,912.0,830.0,Matematica,0
+Feminino,group A,técnico,publico,none,518.0,487.0,414-0,450.0,390.0,Computação,1
+Feminino,group A,técnico,publico,none,573.0,566.0,377.0,520.0,520.0,Computação,0
+Feminino,group A,técnico,publico,none,850.0,760.0,650.0,760.0,760.0,Computação,0
+Feminino,group A,técnico,privado,none,936.0,935.0,822.0,888.0,825.0,Computação,0
+Masculino,group A,técnico,privado,none,530.0,470.0,542.0,550.0,450.0,Medicina,0
+Masculino,group A,técnico,publico,none,573.0,448 0,474.0,550.0,402.0,Matematica,1
+Masculino,group A,técnico,privado,none,574.0,530.0,670.0,600.0,650.0,Computação,0
+Masculino,group A,técnico ,publico,none,616.0,550.0,626.0,630.0,531.0,Medicina,0
+Masculino,group A,técnico,privado,none,615.0,611.0,636.0,660.0,570.0,Matematica,0
+Feminino,group B,técnico,privado,none,480.0,500.0,400:0,540.0,401.0,Medicina,0
+Feminino,group B,técnico,privado,none,490.0,500.0,470.0,454.0,547.0,Medicina,0
+Feminino,group B,técnico,privado,none,527.0,543.0,497.0,480.0,465.0,Computação,1
+Feminino,group B,técnico,privado,none,586.0,650.0,530-0,570.0,645.0,Medicina,0
+Feminino,group B,técnico,publico,none,614.0,550.0,463.0,633.0,560.0,Computação,0
+Feminino,group B,técnico,privado,none,630-0,650-0,582.0,690.0,670.0,Computação,0
+Feminino,group B,técnico,publico,none,652.0,650.0,540.0,600.0,540.0,Computação,0
+Feminino,group B,técnico ,privado,none,691 0,680.0,570:0,647.0,570.0,Computação,0
+Feminino,group B,técnico,publico,none,700.0,700.0,530.0,653.0,560.0,Matematica,1
+Feminino,group B,técnico,publico,none,713 0,674.0,530.0,647.0,554.0,Medicina,0
+Feminino,group B,técnico,publico,none,760.0,700.0,524 0,,660.0,Medicina,0
+Feminino,group B,técnico,privado,none,766-0,800.0,730 0,732.0,820.0,Medicina,0
+Feminino,group B,técnico ,privado,none,800-0,770.0,820.0,833.0,850.0,Computação,1
+Feminino,group B,técnico,privado,none,830.0,780.0,713.0,850.0,695.0,Matematica,0
+Feminino,group B,técnico,privado,none,836.0,760.0,730.0,750.0,696.0,Matematica,0
+Feminino,group B,técnico,privado,none,862.0,836.0,800.0,800.0,872.0,Medicina,0
+Masculino,group B,técnico,publico,none,411.0,380 0,440.0,444.0,360.0,Computação,0
+Masculino,group B,técnico  ,privado,none,427.0,410 0,614 0,370.0,460.0,Matematica,1
+Masculino,group B,técnico,privado,none,433-0,450:0,482.0,498.0,520.0,Medicina,0
+Masculino,group B,técnico,privado,none,540.0,572.0,650.0,600.0,665.0,Matematica,1
+Masculino,group B,técnico,publico,none,564.0,578.0,570.0,617.0,627.0,Computação,0
+Masculino,group B,técnico,publico,none,580.0,560.0,610.0,520.0,535.0,Matematica,0
+Masculino,group B,técnico,publico,none,621.0,601.0,677.0,560.0,690.0,Matematica,0
+Masculino,group B,técnico ,privado,none,733.0,721.0,810.0,680.0,716.0,Computação,0
+Masculino,group B,técnico,privado,none,760 0,643.0,804.0,650.0,675.0,Computação,0
+Masculino,group B,técnico,privado,none,782.0,812.0,901.0,842.0,802.0,Computação,1
+Masculino,group B,técnico,privado,none,853.0,736.0,877.0,740.0,750.0,Matematica,1
+Feminino,group C,técnico,privado,none,532-0,536.0,490.0,486.0,460.0,Computação,0
+Feminino,group C,técnico ,privado,none,557.0,570.0,520-0,615.0,603.0,Matematica,0
+Feminino,group C,técnico,privado,none,585.0,573-0,460.0,625.0,460.0,Computação,0
+Feminino,group C,técnico ,publico,none,586.0,617.0,540.0,644.0,638.0,Matematica,0
+Feminino,group C,técnico,privado,none,592.0,518-0,408.0,507.0,510.0,Computação,0
+Feminino,group C,técnico,publico,none,610.0,622.0,530.0,571.0,638.0,Medicina,0
+Feminino,group C,técnico ,privado,none,617.0,587.0,540.0,557.0,514.0,Computação,0
+Feminino,group C,técnico ,privado,none,624.0,533-0,530.0,620.0,588.0,Computação,0
+Feminino,group C,técnico,privado,none,642.0,570.0,391.0,562.0,435.0,Medicina,0
+Feminino,group C,técnico,privado,none,640-0,701.0,642:0,621.0,727.0,Medicina,0
+Feminino,group C,técnico,privado,none,660.0,670.0,590.0,621.0,682.0,Matematica,0
+Feminino,group C,técnico,privado,none,671.0,700 0,636.0,640.0,722.0,Computação,0
+Feminino,group C,técnico,privado,none,733.0,680.0,585.0,666.0,682.0,Matematica,0
+Feminino,group C,técnico,publico,none,730.0,687.0,641.0,750.0,610.0,Computação,0
+Feminino,group C,técnico,privado,none,742.0,707:0,620.0,773.0,710.0,Computação,0
+Feminino,group C,técnico,publico,none,750-0,747.0,600.0,790.0,720.0,Medicina,0
+Feminino,group C,técnico,privado,none,768 0,760.0,650.0,710.0,656.0,Computação,0
+Feminino,group C,técnico,privado,none,770:0,748.0,655.0,804.0,750.0,Matematica,1
+Feminino,group C,técnico,publico,none,770.0,741.0,650.0,714.0,750.0,Matematica,0
+Feminino,group C,técnico,privado,none,770.0,730.0,660.0,701.0,646.0,Matematica,0
+Feminino,group C,técnico,privado,none,775 0,795.0,815.0,,850.0,Computação,0
+Feminino,group C,técnico,publico,none,780.0,672-0,570.0,770.0,670.0,Matematica,0
+Feminino,group C,técnico,privado,none,800.0,710.0,690.0,713.0,750.0,Medicina,1
+Feminino,group C,técnico,privado,none,840.0,822.0,850 0,880.0,780.0,Computação,0
+Feminino,group C,técnico,privado,none,860.0,845.0,910.0,805.0,820.0,Matematica,0
+Feminino,group C,técnico,privado,none,897.0,950.0,853.0,974.0,950.0,Computação,0
+Feminino,group C,técnico,privado,none,957.0,940.0,914.0,900.0,874.0,Medicina,0
+Masculino,group C,técnico,privado,none,374.0,350.0,471.0,310.0,460.0,Medicina,0
+Masculino,group C,técnico,privado,none,431.0,427.0,463.0,471.0,390.0,Medicina,0
+Masculino,group C,técnico ,privado,none,510.0,438-0,494.0,421.0,410.0,Computação,0
+Masculino,group C,técnico,publico,none,514.0,510.0,498.0,460.0,450.0,Medicina,0
+Masculino,group C,técnico,privado,none,540 0,520.0,584 0,486.0,500.0,Computação,0
+Masculino,group C,técnico,publico,none,550.0,530.0,581.0,590.0,610.0,Matematica,1
+Masculino,group C,técnico ,publico,none,612.0,541.0,557.0,621.0,603.0,Computação,0
+Masculino,group C,técnico,privado,none,656-0,580.0,626 0,660.0,550.0,Computação,1
+Masculino,group C,técnico,publico,none,658.0,616.0,682-0,,703.0,Matematica,0
+Masculino,group C,técnico,publico,none,668.0,594.0,648.0,583.0,674.0,Medicina,0
+Masculino,group C,técnico,publico,none,670.0,640.0,770.0,700.0,768.0,Computação,0
+Masculino,group C,técnico ,publico,none,687.0,666.0,736.0,620.0,640.0,Medicina,1
+Masculino,group C,técnico,privado,none,702.0,687.0,763.0,741.0,776.0,Matematica,0
+Masculino,group C,técnico,privado,none,727.0,780.0,834.0,800.0,860.0,Computação,0
+Masculino,group C,técnico,privado,none,730.0,670 0,740.0,753.0,650.0,Medicina,0
+Masculino,group C,técnico,publico,none,737.0,725.0,875.0,685.0,740.0,Medicina,0
+Masculino,group C,técnico,privado,none,760.0,714.0,852-0,785.0,835.0,Medicina,0
+Masculino,group C,técnico,privado,none,776.0,696.0,690-0,780.0,640.0,Computação,0
+Masculino,group C,técnico ,privado,none,790.0,840.0,921.0,778.0,930.0,Medicina,0
+Masculino,group C,técnico,privado,none,807.0,800.0,840-0,850.0,770.0,Computação,0
+Masculino,group C,técnico ,privado,none,930.0,910.0,971.0,,897.0,Matematica,0
+Feminino,group D,técnico,publico,none,310.0,387.0,266 0,300.0,270.0,Computação,0
+Feminino,group D,técnico,publico,none,530.0,583.0,471.0,510.0,470.0,Matematica,0
+Feminino,group D,técnico ,publico,none,568.0,571.0,464.0,617.0,466.0,Matematica,0
+Feminino,group D,técnico,publico,none,590.0,563.0,522-0,627.0,498.0,Medicina,0
+Feminino,group D,técnico,publico,none,600.0,580 0,430.0,543.0,560.0,Matematica,0
+Feminino,group D,técnico,publico,none,655.0,630.0,560 0,597.0,548.0,Computação,0
+Feminino,group D,técnico,privado,none,693.0,700.0,657.0,654.0,620.0,Medicina,0
+Feminino,group D,técnico,privado,none,703.0,650.0,590.0,725.0,570.0,Computação,1
+Feminino,group D,técnico,privado,none,710.0,740.0,710.0,770.0,784.0,Medicina,1
+Feminino,group D,técnico,privado,none,741.0,735.0,762.0,690.0,698.0,Medicina,0
+Feminino,group D,técnico,publico,none,760.0,766-0,550.0,810.0,711.0,Computação,0
+Feminino,group D,técnico,privado,none,760 0,741.0,640.0,701.0,740.0,Matematica,0
+Feminino,group D,técnico,privado,none,776.0,736.0,774.0,703.0,808.0,Medicina,1
+Feminino,group D,técnico,privado,none,815.0,838.0,745.0,776.0,735.0,Medicina,0
+Feminino,group D,técnico ,privado,none,912.0,895.0,855.0,850.0,920.0,Computação,0
+Feminino,group D,técnico ,privado,none,950.0,890.0,820.0,977.0,800.0,Medicina,0
+Masculino,group D,técnico,privado,none,480.0,468:0,612.0,423.0,484.0,Medicina,0
+Masculino,group D,técnico,privado,none,520.0,430.0,400.0,432.0,470.0,Medicina,0
+Masculino,group D,técnico,publico,none,540.0,486.0,530.0,565.0,450.0,Computação,0
+Masculino,group D,técnico ,privado,none,550.0,491 0,521.0,470.0,450.0,Computação,0
+Masculino,group D,técnico,privado,none,558-0,528.0,610-0,490.0,620.0,Medicina,0
+Masculino,group D,técnico,publico,none,575.0,508.0,523.0,580.0,565.0,Medicina,0
+Masculino,group D,técnico,publico,none,625.0,640.0,664.0,580.0,705.0,Medicina,0
+Masculino,group D,técnico,privado,none,633.0,630.0,803.0,,777.0,Computação,0
+Masculino,group D,técnico,privado,none,667.0,600 0,716.0,684.0,710.0,Computação,0
+Masculino,group D,técnico,publico,none,668.0,730.0,750.0,740.0,790.0,Medicina,0
+Masculino,group D,técnico,privado,none,681-0,645:0,752.0,611.0,644.0,Computação,0
+Masculino,group D,técnico,privado,none,688.0,721.0,806.0,,818.0,Medicina,0
+Masculino,group D,técnico,privado,none,713.0,730.0,810.0,671.0,820.0,Medicina,0
+Masculino,group D,técnico,privado,none,758.0,692:0,804.0,,690.0,Matematica,0
+Masculino,group D,técnico,privado,none,751.0,775.0,800.0,810.0,840.0,Medicina,0
+Masculino,group D,técnico,publico,none,757.0,784.0,817.0,810.0,742.0,Matematica,0
+Masculino,group D,técnico,publico,none,780.0,730.0,778.0,717.0,700.0,Computação,0
+Masculino,group D,técnico,privado,none,791.0,740.0,724.0,721.0,680.0,Matematica,0
+Masculino,group D,técnico,publico,none,870.0,750-0,906:0,762.0,880.0,Matematica,0
+Masculino,group D,técnico,privado,none,870 0,853.0,906.0,910.0,826.0,Medicina,0
+Feminino,group E,técnico,privado,none,510.0,540.0,518.0,570.0,470.0,Computação,0
+Feminino,group E,técnico,publico,none,560.0,548.0,500.0,600.0,570.0,Medicina,0
+Feminino,group E,técnico,privado,none,625-0,694.0,597.0,704.0,590.0,Computação,1
+Feminino,group E,técnico,privado,none,651.0,690:0,663.0,724.0,731.0,Matematica,0
+Feminino,group E,técnico,privado,none,760.0,678:0,680.0,760.0,732.0,Matematica,0
+Feminino,group E,técnico,publico,none,766.0,780.0,735.0,,700.0,Matematica,0
+Feminino,group E,técnico ,publico,none,840:0,814 0,700.0,783.0,817.0,Computação,0
+Feminino,group E,técnico ,privado,none,926.0,850.0,856.0,931.0,906.0,Computação,0
+Feminino,group E,técnico,privado,none,940.0,951.0,871 0,990.0,867.0,Computação,0
+Feminino,group E,técnico ,privado,none,952.0,920.0,840.0,980.0,935.0,Medicina,0
+Feminino,group E,técnico,privado,none,1000.0,1000.0,1000.0,957.0,1000.0,Medicina,1
+Masculino,group E,técnico,publico,none,430.0,414.0,460.0,370.0,490.0,Medicina,0
+Masculino,group E,técnico,privado,none,450.0,400.0,530.0,380.0,412.0,Medicina,0
+Masculino,group E,técnico,publico,none,560.0,526.0,640.0,592.0,535.0,Medicina,0
+Masculino,group E,técnico,privado,none,570.0,620 0,720.0,550.0,720.0,Computação,0
+Masculino,group E,técnico,privado,none,640.0,630.0,723.0,683.0,625.0,Computação,0
+Masculino,group E,técnico,privado,none,714.0,674.0,763.0,741.0,770.0,Computação,0
+Masculino,group E,técnico,privado,none,740.0,764.0,874.0,708.0,873.0,Medicina,0
+Masculino,group E,técnico,privado,none,767.0,740:0,890.0,702.0,875.0,Matematica,1
+Masculino,group E,técnico,publico,none,900.0,821.0,900.0,910.0,814.0,Medicina,0
+Masculino,group A,bacharelado,publico,Sim,580.0,600.0,497.0,640.0,601.0,Medicina,1
+Masculino,group A,bacharelado,privado,Sim,580 0,620.0,757.0,555.0,740.0,Computação,0
+Masculino,group A,bacharelado,privado,Sim,781.0,813.0,804.0,840.0,865.0,Matematica,0
+Masculino,group A,bacharelado,privado,Sim,844 0,873-0,870.0,900.0,823.0,Medicina,0
+Feminino,group B,bacharelado ,privado,Sim,745.0,813.0,662.0,730.0,790.0,Medicina,0
+Feminino,group B,bacharelado,privado,Sim,814.0,818.0,650.0,860.0,681.0,Matematica,0
+Masculino,group B,bacharelado,publico,Sim,906.0,882 0,873:0,840.0,822.0,Medicina,0
+Feminino,group C,bacharelado,publico,Sim,510.0,540.0,438.0,570.0,540.0,Computação,0
+Feminino,group C,bacharelado ,privado,Sim,610.0,660.0,524.0,590.0,544.0,Medicina,0
+Feminino,group C,bacharelado,publico,Sim,620.0,665.0,477.0,690.0,514.0,Matematica,0
+Feminino,group C,bacharelado,privado,Sim,640.0,758:0,593.0,650.0,720.0,Medicina,0
+Feminino,group C,bacharelado,publico,Sim,724.0,790.0,513.0,713.0,701.0,Matematica,0
+Feminino,group C,bacharelado,publico,Sim,740.0,817:0,667.0,737.0,680.0,Matematica,0
+Feminino,group C,bacharelado,privado,Sim,797-0,721.0,563.0,710.0,691.0,Matematica,0
+Feminino,group C,bacharelado,publico,Sim,830-0,830.0,667.0,886.0,808.0,Computação,0
+Feminino,group C,bacharelado,publico,Sim,860.0,898.0,743.0,925.0,760.0,Matematica,0
+Feminino,group C,bacharelado,privado,Sim,920.0,890.0,796.0,860.0,896.0,Medicina,0
+Feminino,group C,bacharelado,privado,Sim,941.0,956.0,772.0,994.0,812.0,Computação,0
+Feminino,group C,bacharelado,privado,Sim,1000.0,990.0,927.0,950.0,900.0,Matematica,0
+Feminino,group C,bacharelado,privado,Sim,1000.0,1000-0,964.0,1000.0,1000.0,Medicina,0
+Masculino,group C,bacharelado,privado,Sim,643.0,665.0,638.0,608.0,590.0,Matematica,0
+Masculino,group C,bacharelado,privado,Sim,740:0,687.0,710.0,660.0,757.0,Matematica,0
+Masculino,group C,bacharelado,publico,Sim,758.0,740.0,705.0,796.0,670.0,Computação,0
+Masculino,group C,bacharelado,privado,Sim,810.0,791.0,915.0,854.0,904.0,Medicina,0
+Masculino,group C,bacharelado,privado,Sim,820.0,843:0,830.0,,788.0,Computação,0
+Masculino,group C,bacharelado ,privado,Sim,902.0,915:0,940.0,950.0,870.0,Computação,0
+Masculino,group C,bacharelado,privado,Sim,908 0,920:0,963.0,960.0,890.0,Medicina,0
+Feminino,group D,bacharelado,privado,Sim,754.0,810.0,683.0,830.0,697.0,Computação,0
+Feminino,group D,bacharelado,privado,Sim,760-0,831.0,710.0,755.0,826.0,Computação,0
+Feminino,group D,bacharelado,publico,Sim,1000.0,1000.0,937.0,1000.0,910.0,Matematica,0
+Masculino,group D,bacharelado,publico,Sim,420 0,381:0,393.0,350.0,337.0,Computação,0
+Masculino,group D,bacharelado  ,privado,Sim,614.0,684.0,670.0,606.0,622.0,Matematica,0
+Masculino,group D,bacharelado,publico,Sim,700.0,761 0,611-0,685.0,740.0,Computação,0
+Masculino,group D,bacharelado,publico,Sim,717.0,800.0,740.0,800.0,723.0,Matematica,0
+Masculino,group D,bacharelado,privado,Sim,743.0,742.0,680-0,790.0,765.0,Medicina,0
+Masculino,group D,bacharelado,publico,Sim,794.0,750-0,740.0,720.0,695.0,Computação,0
+Feminino,group E,bacharelado,privado,Sim,704.0,702.0,716.0,658.0,760.0,Matematica,0
+Feminino,group E,bacharelado  ,privado,Sim,810.0,820.0,790.0,774.0,753.0,Medicina,0
+Feminino,group E,bacharelado,publico,Sim,1000.0,1000.0,921.0,1000.0,916.0,Medicina,0
+Feminino,group E,bacharelado,privado,Sim,1000.0,1000.0,994.0,951.0,1000.0,Matematica,1
+Masculino,group E,bacharelado,privado,Sim,620.0,665.0,762.0,590.0,766.0,Matematica,0
+Masculino,group E,bacharelado,privado,Sim,640.0,700.0,700.0,626.0,756.0,Medicina,0
+Masculino,group E,bacharelado,privado,Sim,664.0,710.0,850.0,643.0,832.0,Computação,0
+Masculino,group E,bacharelado,publico,Sim,680.0,724.0,702.0,652.0,765.0,Matematica,0
+Masculino,group E,bacharelado,publico,Sim,742.0,720.0,790.0,787.0,811.0,Medicina,0
+Masculino,group E,bacharelado,privado,Sim,1000.0,1000-0,1000:0,1000.0,950.0,Matematica,1
+Feminino,group A,ensino médio,publico,Sim,488 0,410-0,343.0,,320.0,Computação,0
+Feminino,group A,ensino médio,publico,Sim,503.0,600.0,530.0,501.0,514.0,Medicina,0
+Feminino,group A,ensino médio,privado,Sim,806.0,762-0,682.0,733.0,670.0,Matematica,0
+Feminino,group A,ensino médio ,privado,Sim,820.0,793.0,751:0,850.0,820.0,Matematica,0
+Feminino,group A,ensino médio ,publico,Sim,883.0,850.0,770.0,916.0,867.0,Computação,1
+Masculino,group A,ensino médio ,publico,Sim,670.0,654.0,727.0,718.0,630.0,Computação,0
+Masculino,group A,ensino médio,privado,Sim,730.0,746.0,728.0,,786.0,Matematica,1
+Feminino,group B,ensino médio ,publico,Sim,440.0,360.0,230.0,457.0,355.0,Computação,0
+Feminino,group B,ensino médio,publico,Sim,547.0,580.0,460.0,610.0,470.0,Computação,0
+Feminino,group B,ensino médio,privado,Sim,700.0,684.0,588.0,640.0,580.0,Medicina,0
+Feminino,group B,ensino médio,privado,Sim,768.0,748.0,696.0,801.0,660.0,Medicina,0
+Feminino,group B,ensino médio,publico,Sim,782.0,792.0,670.0,740.0,780.0,Matematica,0
+Feminino,group B,ensino médio ,publico,Sim,800.0,818.0,671 0,853.0,790.0,Matematica,1
+Feminino,group B,ensino médio,privado,Sim,820.0,895.0,770.0,810.0,785.0,Medicina,0
+Feminino,group B,ensino médio,privado,Sim,833:0,781.0,684.0,760.0,680.0,Medicina,0
+Feminino,group B,ensino médio,publico,Sim,857.0,824.0,760.0,885.0,841.0,Matematica,0
+Masculino,group B,ensino médio,privado,Sim,443.0,470.0,600.0,410.0,480.0,Matematica,0
+Masculino,group B,ensino médio,privado,Sim,490:0,466.0,528.0,430.0,542.0,Medicina,0
+Masculino,group B,ensino médio,privado,Sim,624.0,600.0,767.0,666.0,630.0,Computação,0
+Masculino,group B,ensino médio,privado,Sim,650.0,680:0,727.0,712.0,750.0,Computação,0
+Masculino,group B,ensino médio,privado,Sim,696.0,681.0,734.0,730.0,657.0,Medicina,0
+Masculino,group B,ensino médio,privado,Sim,715.0,683.0,730.0,742.0,650.0,Medicina,1
+Feminino,group C,ensino médio,privado,Sim,642.0,740.0,607.0,740.0,720.0,Medicina,0
+Feminino,group C,ensino médio ,publico,Sim,665.0,647.0,500.0,700.0,520.0,Medicina,0
+Feminino,group C,ensino médio,publico,Sim,711.0,651.0,590.0,631.0,572.0,Matematica,0
+Feminino,group C,ensino médio,privado,Sim,756.0,772.0,584.0,710.0,620.0,Matematica,0
+Feminino,group C,ensino médio,publico,Sim,790.0,840.0,676.0,860.0,810.0,Medicina,0
+Masculino,group C,ensino médio ,publico,Sim,460 0,500.0,403.0,430.0,500.0,Medicina,0
+Masculino,group C,ensino médio ,publico,Sim,510.0,516:0,533.0,566.0,470.0,Computação,0
+Masculino,group C,ensino médio,publico,Sim,510.0,528-0,580.0,470.0,607.0,Matematica,0
+Masculino,group C,ensino médio,privado,Sim,523.0,490.0,534.0,462.0,465.0,Medicina,0
+Masculino,group C,ensino médio ,privado,Sim,527.0,544.0,585.0,580.0,511.0,Matematica,0
+Masculino,group C,ensino médio,privado,Sim,580.0,534.0,690.0,603.0,661.0,Matematica,0
+Masculino,group C,ensino médio ,privado,Sim,676.0,640.0,726.0,610.0,636.0,Matematica,1
+Masculino,group C,ensino médio,privado,Sim,698.0,680.0,750.0,738.0,661.0,Matematica,0
+Masculino,group C,ensino médio,privado,Sim,817.0,800.0,864.0,760.0,780.0,Medicina,0
+Masculino,group C,ensino médio ,privado,Sim,840.0,820.0,822.0,780.0,772.0,Matematica,0
+Feminino,group D,ensino médio,publico,Sim,570.0,560.0,520.0,526.0,590.0,Computação,0
+Feminino,group D,ensino médio,privado,Sim,580.0,646.0,570.0,561.0,660.0,Matematica,0
+Feminino,group D,ensino médio,publico,Sim,610.0,710.0,650.0,715.0,635.0,Computação,0
+Feminino,group D,ensino médio,privado,Sim,680.0,742.0,565-0,765.0,700.0,Computação,0
+Feminino,group D,ensino médio,privado,Sim,777.0,784.0,695 0,826.0,793.0,Computação,0
+Feminino,group D,ensino médio,privado,Sim,996.0,1000.0,880.0,1000.0,890.0,Medicina,0
+Masculino,group D,ensino médio ,privado,Sim,414.0,480:0,550.0,497.0,460.0,Matematica,0
+Masculino,group D,ensino médio,publico,Sim,640.0,675 0,643-0,,710.0,Medicina,0
+Masculino,group D,ensino médio,privado,Sim,640.0,660.0,683.0,700.0,728.0,Matematica,0
+Masculino,group D,ensino médio,publico,Sim,680.0,668 0,730.0,725.0,640.0,Matematica,0
+Masculino,group D,ensino médio,publico,Sim,770.0,804:0,786.0,837.0,741.0,Computação,0
+Feminino,group E,ensino médio,privado,Sim,633.0,750.0,592.0,740.0,626.0,Matematica,0
+Feminino,group E,ensino médio,publico,Sim,740.0,781.0,663.0,810.0,670.0,Medicina,0
+Feminino,group E,ensino médio,publico,Sim,754:0,730.0,570.0,790.0,700.0,Matematica,0
+Feminino,group E,ensino médio,privado,Sim,790.0,800.0,746.0,750.0,720.0,Medicina,0
+Masculino,group E,ensino médio ,publico,Sim,568.0,540.0,577.0,,502.0,Computação,0
+Masculino,group E,ensino médio,privado,Sim,801.0,766.0,812 0,730.0,730.0,Matematica,0
+Masculino,group E,ensino médio,publico,Sim,816.0,753.0,860.0,731.0,754.0,Matematica,0
+Masculino,group E,ensino médio,privado,Sim,910.0,813.0,878.0,818.0,896.0,Matematica,0
+Feminino,group B,mestrado ,publico,Sim,705-0,621-0,520.0,612.0,627.0,Computação,0
+Feminino,group B,mestrado ,publico,Sim,760.0,780:0,580.0,720.0,737.0,Computação,0
+Feminino,group B,mestrado,publico,Sim,971.0,947.0,776.0,910.0,804.0,Medicina,0
+Feminino,group C,mestrado,privado,Sim,646.0,675.0,541.0,618.0,551.0,Medicina,1
+Feminino,group C,mestrado,publico,Sim,816:0,818.0,652.0,860.0,780.0,Computação,0
+Feminino,group C,mestrado,privado,Sim,840.0,853.0,690.0,891.0,828.0,Computação,1
+Feminino,group C,mestrado,privado,Sim,910.0,870.0,810.0,840.0,790.0,Computação,0
+Masculino,group C,mestrado ,publico,Sim,421.0,460.0,460.0,,510.0,Medicina,0
+Masculino,group C,mestrado,publico,Sim,660 0,726.0,720.0,742.0,670.0,Matematica,1
+Masculino,group C,mestrado,publico,Sim,680.0,750.0,620.0,767.0,630.0,Matematica,0
+Masculino,group C,mestrado ,publico,Sim,776.0,757.0,790:0,710.0,820.0,Medicina,0
+Masculino,group C,mestrado,privado,Sim,853.0,850.0,913.0,904.0,930.0,Medicina,0
+Feminino,group D,mestrado,publico,Sim,580.0,670-0,474.0,670.0,622.0,Medicina,0
+Feminino,group D,mestrado,publico,Sim,717.0,780.0,610.0,790.0,751.0,Medicina,1
+Feminino,group D,mestrado,privado,Sim,714.0,746.0,702.0,770.0,670.0,Computação,0
+Feminino,group D,mestrado,privado,Sim,820.0,916.0,778.0,820.0,890.0,Medicina,0
+Feminino,group D,mestrado,publico,Sim,950.0,1000.0,854.0,1000.0,872.0,Medicina,0
+Masculino,group D,mestrado,publico,Sim,890.0,902.0,840.0,940.0,923.0,Medicina,0
+Feminino,group E,mestrado ,privado,Sim,990.0,950.0,886.0,,860.0,Matematica,0
+Feminino,group E,mestrado,privado,Sim,990-0,1000.0,940.0,1000.0,1000.0,Computação,1
+Feminino,group A,outros ensino médio,privado,Sim,850.0,802.0,597.0,870.0,752.0,Medicina,0
+Feminino,group A,outros ensino médio,privado,Sim,906.0,927.0,853.0,860.0,945.0,Computação,0
+Feminino,group A,outros ensino médio,privado,Sim,1000-0,973.0,925.0,1000.0,890.0,Computação,0
+Masculino,group A,outros ensino médio,privado,Sim,410.0,430.0,466 0,473.0,500.0,Computação,0
+Masculino,group A,outros ensino médio,privado,Sim,496.0,494.0,470:0,448.0,430.0,Computação,0
+Masculino,group A,outros ensino médio,publico,Sim,625.0,610.0,610.0,577.0,660.0,Medicina,0
+Masculino,group A,outros ensino médio,privado,Sim,675-0,692.0,620.0,634.0,604.0,Matematica,0
+Masculino,group A,outros ensino médio,privado,Sim,680.0,640.0,660.0,710.0,605.0,Medicina,0
+Feminino,group B,outros ensino médio,privado,Sim,513.0,447 0,320 0,524.0,434.0,Medicina,0
+Feminino,group B,outros ensino médio,privado,Sim,617:0,620.0,540.0,571.0,630.0,Computação,0
+Feminino,group B,outros ensino médio,publico,Sim,636.0,640.0,591-0,590.0,564.0,Matematica,0
+Feminino,group B,outros ensino médio,publico,Sim,670-0,720.0,524.0,740.0,571.0,Computação,0
+Feminino,group B,outros ensino médio,privado,Sim,708.0,700-0,600.0,655.0,600.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,Sim,708.0,743.0,600.0,774.0,626.0,Medicina,0
+Feminino,group B,outros ensino médio,publico,Sim,780.0,798.0,638.0,742.0,761.0,Matematica,0
+Feminino,group B,outros ensino médio,privado,Sim,828 0,780.0,651.0,750.0,770.0,Matematica,0
+Feminino,group B,outros ensino médio,publico,Sim,905 0,886-0,742.0,844.0,764.0,Matematica,0
+Masculino,group B,outros ensino médio,publico,Sim,507.0,520.0,491-0,460.0,560.0,Computação,0
+Masculino,group B,outros ensino médio,privado,Sim,530.0,570.0,640.0,607.0,660.0,Computação,1
+Masculino,group B,outros ensino médio,privado,Sim,547.0,411-0,510.0,520.0,512.0,Medicina,0
+Masculino,group B,outros ensino médio,privado,Sim,562.0,560.0,617.0,516.0,530.0,Medicina,0
+Masculino,group B,outros ensino médio,privado,Sim,665:0,622.0,657.0,594.0,697.0,Computação,0
+Masculino,group B,outros ensino médio,privado,Sim,670:0,670.0,630-0,620.0,602.0,Matematica,0
+Masculino,group B,outros ensino médio,privado,Sim,835.0,750:0,841.0,747.0,740.0,Computação,0
+Masculino,group B,outros ensino médio,privado,Sim,840.0,788.0,851:0,768.0,763.0,Medicina,0
+Masculino,group B,outros ensino médio,privado,Sim,852 0,867.0,797:0,810.0,770.0,Computação,1
+Masculino,group B,outros ensino médio,privado,Sim,865.0,878:0,940.0,910.0,960.0,Computação,0
+Feminino,group C,outros ensino médio,publico,Sim,400.0,440.0,290.0,372.0,427.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,Sim,513 0,552 0,448.0,488.0,444.0,Matematica,0
+Feminino,group C,outros ensino médio,privado,Sim,547.0,672.0,592.0,650.0,682.0,Matematica,0
+Feminino,group C,outros ensino médio,publico,Sim,600.0,608.0,500-0,650.0,603.0,Matematica,0
+Feminino,group C,outros ensino médio,privado,Sim,747.0,770 0,656.0,710.0,760.0,Matematica,1
+Feminino,group C,outros ensino médio,privado,Sim,745.0,770.0,672:0,716.0,670.0,Matematica,0
+Feminino,group C,outros ensino médio,publico,Sim,760.0,750.0,651.0,801.0,751.0,Matematica,0
+Feminino,group C,outros ensino médio,publico,Sim,793-0,773.0,642.0,736.0,765.0,Computação,0
+Feminino,group C,outros ensino médio,privado,Sim,824.0,766 0,700.0,745.0,680.0,Medicina,0
+Feminino,group C,outros ensino médio,publico,Sim,842.0,870.0,710.0,818.0,847.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,Sim,870.0,850:0,760.0,910.0,862.0,Computação,0
+Feminino,group C,outros ensino médio,privado,Sim,900.0,855.0,772.0,925.0,865.0,Medicina,0
+Feminino,group C,outros ensino médio,privado,Sim,920.0,930.0,853.0,880.0,842.0,Matematica,0
+Masculino,group C,outros ensino médio,publico,Sim,371.0,400.0,530.0,436.0,528.0,Medicina,0
+Masculino,group C,outros ensino médio,publico,Sim,520.0,492.0,456:0,550.0,420.0,Medicina,0
+Masculino,group C,outros ensino médio,publico,Sim,562.0,538.0,516 0,590.0,470.0,Computação,0
+Masculino,group C,outros ensino médio,privado,Sim,606.0,573.0,636.0,540.0,550.0,Medicina,0
+Masculino,group C,outros ensino médio,publico,Sim,610.0,607.0,560.0,560.0,536.0,Matematica,0
+Masculino,group C,outros ensino médio,publico,Sim,696.0,652.0,596.0,620.0,672.0,Matematica,0
+Masculino,group C,outros ensino médio,privado,Sim,724.0,690-0,781.0,750.0,790.0,Computação,0
+Masculino,group C,outros ensino médio,privado,Sim,730.0,680.0,670.0,660.0,620.0,Computação,0
+Masculino,group C,outros ensino médio,privado,Sim,800.0,730.0,762.0,810.0,690.0,Computação,1
+Feminino,group D,outros ensino médio,publico,Sim,558.0,600.0,350.0,538.0,537.0,Matematica,0
+Feminino,group D,outros ensino médio,privado,Sim,600.0,743.0,641 0,720.0,744.0,Medicina,1
+Feminino,group D,outros ensino médio,publico,Sim,650.0,640 0,405.0,602.0,575.0,Computação,0
+Feminino,group D,outros ensino médio,privado,Sim,740:0,723.0,617.0,683.0,612.0,Matematica,0
+Feminino,group D,outros ensino médio,privado,Sim,783.0,820.0,650 0,750.0,792.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,Sim,785.0,786.0,668.0,730.0,674.0,Medicina,0
+Feminino,group D,outros ensino médio,publico,Sim,860.0,817.0,691.0,795.0,705.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,Sim,925.0,880.0,800.0,956.0,790.0,Medicina,0
+Feminino,group D,outros ensino médio,privado,Sim,1000.0,1000 0,970.0,1000.0,934.0,Computação,0
+Masculino,group D,outros ensino médio,publico,Sim,596:0,590.0,550.0,544.0,520.0,Computação,0
+Masculino,group D,outros ensino médio,privado,Sim,660-0,684.0,620.0,728.0,600.0,Computação,0
+Masculino,group D,outros ensino médio,privado,Sim,681.0,692:0,773.0,733.0,785.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,Sim,690.0,683.0,711-0,730.0,646.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,Sim,705.0,690.0,760.0,655.0,788.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,Sim,716.0,781 0,747.0,790.0,810.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,Sim,746.0,750.0,880.0,700.0,765.0,Computação,0
+Masculino,group D,outros ensino médio,publico,Sim,790.0,797.0,802.0,840.0,743.0,Matematica,0
+Masculino,group D,outros ensino médio,privado,Sim,810.0,860 0,786.0,790.0,775.0,Computação,0
+Masculino,group D,outros ensino médio,privado,Sim,880.0,820:0,894.0,800.0,910.0,Computação,0
+Feminino,group E,outros ensino médio,privado,Sim,850.0,858.0,805.0,800.0,880.0,Computação,0
+Masculino,group E,outros ensino médio,privado,Sim,516.0,573.0,681.0,592.0,680.0,Medicina,1
+Masculino,group E,outros ensino médio,privado,Sim,641.0,602.0,740.0,573.0,620.0,Medicina,0
+Masculino,group E,outros ensino médio,publico,Sim,678.0,597.0,730.0,680.0,610.0,Matematica,0
+Masculino,group E,outros ensino médio,privado,Sim,758-0,761.0,814.0,710.0,840.0,Matematica,0
+Masculino,group E,outros ensino médio,privado,Sim,764.0,778.0,770-0,810.0,821.0,Computação,0
+Masculino,group E,outros ensino médio,publico,Sim,830-0,800:0,780 0,776.0,843.0,Matematica,0
+Masculino,group E,outros ensino médio,privado,Sim,848.0,764.0,870:0,850.0,875.0,Computação,0
+Masculino,group E,outros ensino médio,privado,Sim,840 0,770.0,890.0,,780.0,Medicina,0
+Feminino,group A,superior,privado,Sim,790.0,820.0,722.0,850.0,820.0,Computação,0
+Feminino,group A,superior,privado,Sim,870.0,916.0,780.0,947.0,796.0,Medicina,0
+Masculino,group A,superior,publico,Sim,470.0,540.0,500.0,463.0,473.0,Matematica,0
+Masculino,group A,superior,privado,Sim,510.0,520.0,611.0,568.0,620.0,Medicina,0
+Masculino,group A,superior,privado,Sim,728.0,708.0,783.0,663.0,693.0,Computação,0
+Masculino,group A,superior ,publico,Sim,780.0,815.0,810.0,750.0,766.0,Computação,0
+Masculino,group A,superior,privado,Sim,960.0,861.0,1000.0,860.0,881.0,Computação,0
+Feminino,group B,superior,publico,Sim,560.0,586.0,480.0,520.0,480.0,Matematica,0
+Feminino,group B,superior,privado,Sim,648.0,660.0,500.0,700.0,537.0,Matematica,1
+Feminino,group B,superior ,publico,Sim,660.0,734.0,530.0,658.0,685.0,Computação,0
+Feminino,group B,superior ,publico,Sim,751.0,707.0,657.0,683.0,620.0,Computação,0
+Feminino,group B,superior,privado,Sim,954 0,920.0,882.0,894.0,950.0,Matematica,0
+Masculino,group B,superior,publico,Sim,625.0,603.0,602.0,567.0,550.0,Medicina,1
+Masculino,group B,superior,publico,Sim,650.0,660.0,596.0,700.0,680.0,Computação,0
+Masculino,group B,superior,privado,Sim,663.0,687-0,620.0,,604.0,Medicina,0
+Masculino,group B,superior,privado,Sim,754-0,706.0,716:0,770.0,653.0,Matematica,0
+Masculino,group B,superior ,privado,Sim,773.0,775.0,690.0,720.0,780.0,Computação,0
+Masculino,group B,superior,publico,Sim,770.0,760.0,742-0,810.0,807.0,Computação,0
+Masculino,group B,superior,privado,Sim,846 0,867.0,872.0,900.0,920.0,Computação,0
+Masculino,group B,superior,privado,Sim,850-0,760.0,882.0,763.0,772.0,Medicina,0
+Masculino,group B,superior ,privado,Sim,965.0,915-0,918.0,890.0,965.0,Medicina,0
+Feminino,group C,superior,publico,Sim,660.0,694.0,420:0,720.0,614.0,Matematica,0
+Feminino,group C,superior,privado,Sim,710.0,806-0,716.0,710.0,706.0,Medicina,0
+Feminino,group C,superior,privado,Sim,720.0,764-0,700.0,790.0,782.0,Computação,0
+Feminino,group C,superior ,publico,Sim,730.0,700.0,450.0,768.0,526.0,Computação,1
+Feminino,group C,superior,publico,Sim,734.0,710.0,633.0,,620.0,Medicina,0
+Feminino,group C,superior,publico,Sim,758:0,707.0,675.0,778.0,630.0,Matematica,0
+Feminino,group C,superior ,privado,Sim,785.0,800-0,632-0,840.0,667.0,Matematica,0
+Feminino,group C,superior,privado,Sim,811.0,790.0,675.0,750.0,685.0,Computação,0
+Feminino,group C,superior ,privado,Sim,810.0,840.0,757.0,780.0,853.0,Matematica,0
+Feminino,group C,superior,privado,Sim,827:0,770.0,644.0,754.0,760.0,Medicina,0
+Feminino,group C,superior,publico,Sim,851:0,856.0,643.0,803.0,690.0,Computação,0
+Feminino,group C,superior,privado,Sim,896.0,880.0,700.0,930.0,740.0,Computação,0
+Feminino,group C,superior,privado,Sim,890.0,946.0,876.0,872.0,965.0,Medicina,0
+Feminino,group C,superior,privado,Sim,908.0,886.0,698 0,943.0,840.0,Medicina,0
+Feminino,group C,superior,privado,Sim,930.0,930.0,882.0,888.0,962.0,Matematica,0
+Feminino,group C,superior,privado,Sim,950 0,940.0,885.0,900.0,960.0,Matematica,0
+Masculino,group C,superior,publico,Sim,480.0,532.0,500.0,460.0,460.0,Medicina,0
+Masculino,group C,superior  ,publico,Sim,740.0,700.0,670-0,674.0,630.0,Medicina,0
+Masculino,group C,superior,privado,Sim,792.0,780.0,790.0,740.0,733.0,Matematica,0
+Masculino,group C,superior,privado,Sim,845.0,905.0,930.0,928.0,974.0,Matematica,0
+Masculino,group C,superior,privado,Sim,860.0,906:0,984.0,833.0,893.0,Computação,0
+Feminino,group D,superior,publico,Sim,598.0,658.0,520.0,670.0,648.0,Matematica,0
+Feminino,group D,superior,publico,Sim,633.0,730.0,587.0,631.0,601.0,Matematica,0
+Feminino,group D,superior ,privado,Sim,750.0,794.0,740.0,724.0,827.0,Computação,0
+Feminino,group D,superior,privado,Sim,770.0,830 0,750.0,750.0,840.0,Medicina,0
+Feminino,group D,superior,publico,Sim,780.0,760.0,593.0,820.0,620.0,Computação,0
+Feminino,group D,superior,privado,Sim,780.0,771.0,680.0,735.0,781.0,Computação,0
+Feminino,group D,superior,publico,Sim,783.0,787.0,700.0,736.0,798.0,Matematica,0
+Feminino,group D,superior,privado,Sim,790.0,814.0,690 0,750.0,803.0,Medicina,0
+Feminino,group D,superior,publico,Sim,805.0,800.0,630.0,750.0,774.0,Computação,0
+Feminino,group D,superior ,privado,Sim,840.0,917:0,798.0,927.0,807.0,Matematica,0
+Feminino,group D,superior,publico,Sim,860.0,830-0,677-0,894.0,704.0,Matematica,0
+Feminino,group D,superior ,privado,Sim,863.0,980.0,855.0,875.0,867.0,Computação,0
+Feminino,group D,superior,privado,Sim,974.0,963.0,820.0,1000.0,946.0,Computação,0
+Masculino,group D,superior,privado,Sim,550-0,636.0,631:0,640.0,586.0,Computação,0
+Masculino,group D,superior,privado,Sim,595.0,580.0,580.0,542.0,637.0,Computação,0
+Masculino,group D,superior,publico,Sim,600.0,636.0,690.0,660.0,617.0,Computação,0
+Masculino,group D,superior,privado,Sim,615.0,691.0,710.0,601.0,653.0,Matematica,0
+Masculino,group D,superior ,privado,Sim,628.0,620.0,770.0,670.0,640.0,Medicina,0
+Masculino,group D,superior,privado,Sim,770.0,746.0,658.0,714.0,756.0,Medicina,0
+Masculino,group D,superior,privado,Sim,816 0,854.0,851-0,884.0,807.0,Medicina,0
+Masculino,group D,superior,privado,Sim,820.0,886.0,821.0,801.0,804.0,Medicina,0
+Masculino,group D,superior,privado,Sim,837.0,798.0,760.0,760.0,724.0,Medicina,0
+Masculino,group D,superior,privado,Sim,970.0,990.0,1000.0,,1000.0,Medicina,0
+Feminino,group E,superior,publico,Sim,550.0,540 0,422.0,501.0,530.0,Medicina,0
+Feminino,group E,superior,privado,Sim,722.0,702.0,635.0,660.0,727.0,Matematica,0
+Feminino,group E,superior,privado,Sim,740.0,737-0,660.0,780.0,641.0,Computação,0
+Feminino,group E,superior,privado,Sim,782.0,763.0,730.0,720.0,690.0,Medicina,0
+Feminino,group E,superior ,privado,Sim,855.0,918.0,860.0,833.0,830.0,Medicina,0
+Feminino,group E,superior,publico,Sim,880.0,854.0,750.0,822.0,850.0,Computação,0
+Masculino,group E,superior  ,publico,Sim,520.0,510.0,490.0,472.0,450.0,Computação,0
+Masculino,group E,superior ,privado,Sim,740.0,715.0,816.0,680.0,710.0,Matematica,0
+Masculino,group E,superior,publico,Sim,746.0,708.0,870-0,777.0,848.0,Matematica,0
+Masculino,group E,superior,privado,Sim,750.0,685.0,857.0,760.0,718.0,Medicina,0
+Masculino,group E,superior,privado,Sim,833.0,780.0,840.0,850.0,760.0,Computação,0
+Masculino,group E,superior,privado,Sim,874 0,816.0,998.0,790.0,850.0,Computação,0
+Feminino,group A,técnico,privado,Sim,650.0,620-0,550.0,590.0,640.0,Computação,0
+Feminino,group A,técnico,privado,Sim,703.0,740.0,650.0,676.0,642.0,Matematica,0
+Masculino,group A,técnico,publico,Sim,550.0,530.0,400:0,490.0,528.0,Matematica,0
+Masculino,group A,técnico,publico,Sim,827.0,825.0,797.0,775.0,754.0,Computação,0
+Masculino,group A,técnico ,privado,Sim,920.0,862:0,970.0,840.0,863.0,Matematica,0
+Feminino,group B,técnico,privado,Sim,665 0,730.0,521.0,740.0,684.0,Matematica,0
+Feminino,group B,técnico,privado,Sim,700.0,660.0,593.0,738.0,680.0,Medicina,0
+Feminino,group B,técnico,publico,Sim,775:0,800.0,680-0,831.0,698.0,Medicina,0
+Feminino,group B,técnico,privado,Sim,860.0,878.0,616-0,910.0,795.0,Matematica,0
+Feminino,group B,técnico,privado,Sim,870.0,925.0,946.0,857.0,984.0,Matematica,0
+Feminino,group B,técnico,privado,Sim,900.0,910.0,904.0,868.0,960.0,Computação,0
+Feminino,group B,técnico ,publico,Sim,940-0,870.0,767.0,951.0,870.0,Medicina,1
+Masculino,group B,técnico ,publico,Sim,571.0,530.0,588.0,506.0,502.0,Matematica,0
+Masculino,group B,técnico,privado,Sim,651.0,636.0,650.0,690.0,693.0,Computação,1
+Masculino,group B,técnico,publico,Sim,700.0,632-0,691.0,,618.0,Computação,0
+Masculino,group B,técnico,publico,Sim,780.0,744.0,823.0,716.0,735.0,Computação,0
+Masculino,group B,técnico,privado,Sim,828.0,821:0,813.0,778.0,767.0,Matematica,0
+Masculino,group B,técnico,privado,Sim,840.0,782.0,820-0,867.0,750.0,Matematica,0
+Masculino,group B,técnico,privado,Sim,890.0,921.0,914-0,958.0,860.0,Computação,1
+Feminino,group C,técnico,privado,Sim,593.0,620-0,520.0,562.0,528.0,Matematica,0
+Feminino,group C,técnico,publico,Sim,677.0,693.0,680.0,635.0,637.0,Matematica,0
+Feminino,group C,técnico,privado,Sim,677.0,730:0,680.0,652.0,768.0,Matematica,0
+Feminino,group C,técnico,publico,Sim,684.0,704.0,562.0,640.0,687.0,Matematica,0
+Feminino,group C,técnico,privado,Sim,726.0,791.0,558.0,713.0,720.0,Computação,0
+Feminino,group C,técnico,privado,Sim,733.0,720.0,598.0,688.0,711.0,Medicina,0
+Feminino,group C,técnico,privado,Sim,750.0,830.0,740.0,745.0,730.0,Medicina,0
+Feminino,group C,técnico,privado,Sim,767.0,805-0,620.0,830.0,760.0,Computação,0
+Feminino,group C,técnico,privado,Sim,775.0,806.0,571.0,830.0,630.0,Medicina,0
+Feminino,group C,técnico,privado,Sim,770.0,770.0,710.0,722.0,690.0,Computação,0
+Feminino,group C,técnico ,privado,Sim,820:0,907.0,752.0,,771.0,Computação,0
+Feminino,group C,técnico,privado,Sim,840.0,840.0,650.0,790.0,800.0,Medicina,0
+Feminino,group C,técnico,privado,Sim,840.0,815:0,670:0,,697.0,Medicina,0
+Feminino,group C,técnico,privado,Sim,840.0,863.0,670.0,807.0,716.0,Matematica,0
+Feminino,group C,técnico,privado,Sim,851:0,905.0,830.0,834.0,920.0,Computação,0
+Feminino,group C,técnico,privado,Sim,863.0,848-0,682.0,804.0,716.0,Medicina,0
+Feminino,group C,técnico,publico,Sim,930:0,930.0,820.0,882.0,827.0,Computação,0
+Feminino,group C,técnico,privado,Sim,960:0,993.0,962.0,1000.0,926.0,Medicina,0
+Masculino,group C,técnico,publico,Sim,457.0,500.0,430.0,437.0,417.0,Matematica,0
+Masculino,group C,técnico,publico,Sim,513.0,560.0,600.0,580.0,632.0,Computação,0
+Masculino,group C,técnico,privado,Sim,545.0,560.0,574.0,500.0,514.0,Matematica,0
+Masculino,group C,técnico,privado,Sim,600.0,580.0,511.0,643.0,600.0,Computação,0
+Masculino,group C,técnico,publico,Sim,675:0,655.0,650 0,710.0,700.0,Medicina,0
+Masculino,group C,técnico,publico,Sim,735.0,687.0,650.0,666.0,614.0,Medicina,0
+Masculino,group C,técnico,privado,Sim,751.0,771.0,827.0,814.0,744.0,Medicina,0
+Masculino,group C,técnico,privado,Sim,776.0,774 0,787.0,825.0,832.0,Medicina,0
+Masculino,group C,técnico,privado,Sim,780.0,720.0,730.0,705.0,780.0,Computação,0
+Masculino,group C,técnico,publico,Sim,810.0,820.0,783.0,770.0,750.0,Computação,1
+Masculino,group C,técnico,privado,Sim,870.0,900.0,980:0,931.0,990.0,Computação,1
+Masculino,group C,técnico,privado,Sim,1000-0,953.0,870.0,930.0,860.0,Matematica,1
+Feminino,group D,técnico,publico,Sim,610.0,580 0,426-0,640.0,553.0,Computação,0
+Feminino,group D,técnico,publico,Sim,744.0,765.0,578.0,700.0,720.0,Computação,0
+Feminino,group D,técnico ,privado,Sim,750.0,804.0,730.0,826.0,820.0,Matematica,0
+Feminino,group D,técnico ,privado,Sim,780 0,792.0,573.0,830.0,630.0,Medicina,0
+Feminino,group D,técnico,publico,Sim,880.0,903.0,740.0,845.0,874.0,Computação,0
+Feminino,group D,técnico,publico,Sim,896.0,982.0,770.0,898.0,938.0,Medicina,0
+Feminino,group D,técnico,publico,Sim,900 0,883 0,750.0,840.0,877.0,Medicina,0
+Feminino,group D,técnico,privado,Sim,920 0,952.0,885.0,890.0,863.0,Medicina,0
+Masculino,group D,técnico,privado,Sim,544.0,630.0,670 0,636.0,700.0,Computação,0
+Masculino,group D,técnico,publico,Sim,715-0,734.0,610.0,770.0,623.0,Computação,0
+Masculino,group D,técnico,privado,Sim,728.0,675.0,673.0,656.0,620.0,Matematica,0
+Masculino,group D,técnico,privado,Sim,724.0,776.0,810.0,706.0,740.0,Matematica,0
+Masculino,group D,técnico,publico,Sim,820.0,800.0,798.0,860.0,853.0,Computação,0
+Masculino,group D,técnico,privado,Sim,840.0,852.0,870.0,800.0,913.0,Matematica,0
+Feminino,group E,técnico ,publico,Sim,680.0,734.0,570.0,662.0,707.0,Medicina,0
+Feminino,group E,técnico,privado,Sim,750 0,774.0,650.0,711.0,760.0,Medicina,1
+Feminino,group E,técnico,privado,Sim,851.0,860.0,825.0,810.0,895.0,Medicina,0
+Feminino,group E,técnico,publico,Sim,866.0,880 0,830.0,920.0,800.0,Computação,0
+Feminino,group E,técnico,privado,Sim,880.0,945.0,790.0,860.0,920.0,Matematica,0
+Feminino,group E,técnico,privado,Sim,890.0,927.0,950.0,957.0,997.0,Medicina,0
+Feminino,group E,técnico,privado,Sim,1000.0,950.0,930-0,935.0,990.0,Computação,0
+Masculino,group E,técnico,publico,Sim,430.0,440.0,460.0,391.0,400.0,Matematica,0
+Masculino,group E,técnico,privado,Sim,566-0,530.0,626.0,590.0,633.0,Matematica,0
+Masculino,group E,técnico,privado,Sim,612 0,582.0,622.0,644.0,657.0,Computação,0
+Masculino,group E,técnico,privado,Sim,630.0,640.0,668.0,595.0,700.0,Computação,1
+Masculino,group E,técnico,publico,Sim,693.0,688.0,770.0,734.0,780.0,Computação,0
+Masculino,group E,técnico ,publico,Sim,735:0,805.0,910.0,810.0,910.0,Computação,0
+Masculino,group E,técnico,privado,Sim,748.0,681.0,710.0,667.0,640.0,Medicina,0
+Masculino,group E,técnico,publico,Sim,744.0,721.0,780.0,784.0,704.0,Medicina,0
+Masculino,group E,técnico,privado,Sim,810.0,790.0,818.0,850.0,753.0,Computação,0
+Masculino,group E,técnico ,privado,Sim,825 0,880.0,974-0,802.0,878.0,Computação,0
+Masculino,group E,técnico,privado,Sim,857.0,827.0,941.0,790.0,836.0,Matematica,0
+Masculino,group E,técnico,publico,Sim,1000.0,932-0,1000.0,920.0,916.0,Matematica,0
